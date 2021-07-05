@@ -4,8 +4,20 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
-	public function index()
+    public function index(){
+        return view('home');
+    }
+	public function view($page='home')
 	{
-		return view('welcome_message');
+        if ( ! is_file(APPPATH.'/Views/'.$page.'.php'))
+        {
+            // Whoops, we don't have a page for that!
+            throw new \CodeIgniter\Exceptions\PageNotFoundException($page);
+        }
+
+        $data['page'] = ucfirst($page); // Capitalize the first letter
+        echo view('templates/header', $data);
+        echo view($page, $data);
+        echo view('templates/footer', $data);
 	}
 }
