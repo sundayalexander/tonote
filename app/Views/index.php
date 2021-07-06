@@ -628,7 +628,7 @@
                 <!--end footer widget single-->
             </div>
         </div>
-        <div class="footer-copyright">
+        <div class="footer-copyright pl-5 pr-5">
             <div class="row">
                 <div class="col-lg-6 col-md-7">
                     <p>&copy; 2021 ToNote | All right reserved.</p>
