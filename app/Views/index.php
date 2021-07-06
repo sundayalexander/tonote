@@ -49,8 +49,10 @@
             <div class="container">
                 <!-- Logo -->
                 <a class="logo" href="<?php echo route_to('App\Controllers\Home::index'); ?>">
-                    <img class="header-logo" src="assets/images/logo-2.png" alt="tonote logo" width="160">
+                    <img class="initial-logo" src="assets/images/logo-2.png" alt="tonote logo" width="160">
+                    <img class="logo-scroll d-none" src="assets/images/logo.png" alt="tonote logo" width="160">
                 </a>
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"><i class="icofont-navigation-menu"></i></span>
                 </button>
@@ -513,9 +515,9 @@
             </div>
         </div>
         <div class="footer-cont">
-            <div class="row">
+            <div class="row" >
                 <!--start footer widget single-->
-                <div class="col-lg-4 col-md-6 mx-auto">
+                <div class="col-lg-4 col-md-6 mx-auto mt-5">
                     <div class="footer-widget">
                         <h3>TONote</h3>
                         <ul>
@@ -574,7 +576,7 @@
         <div class="footer-copyright">
             <div class="row">
                 <div class="col-lg-6 col-md-7">
-                    <p>&copy; 2019 Arribo | All right reserved.</p>
+                    <p>&copy; 2021 ToNote | All right reserved.</p>
                 </div>
                 <div class="col-lg-6 col-md-5">
                     <div class="footer-social text-right">
@@ -592,6 +594,9 @@
 <!--end footer-->
 <!--jQuery js-->
 <script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/scroll.js"></script>
+
+
 <!--proper js-->
 <script src="assets/js/popper.min.js"></script>
 <!--bootstrap js-->
