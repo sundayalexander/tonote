@@ -9,19 +9,6 @@ class Home extends BaseController
         $this->view('home');
     }
 
-    public function view($page = 'index')
-    {
-        if (!is_file(APPPATH . '/Views/' . $page . '.php')) {
-            // Whoops, we don't have a page for that!
-            throw new \CodeIgniter\Exceptions\PageNotFoundException($page);
-        }
-
-        $data['title'] = ucfirst($page); // Capitalize the first letter
-        echo view('templates/header', $data);
-        echo view($page, $data);
-        echo view('templates/footer', $data);
-    }
-
     public function contact()
     {
 

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Welcome to ToNote</title>
+    <title><?=$title?> - ToNote</title>
     <!--favicon-->
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png" />
     <!--bootstrap css-->

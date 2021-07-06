@@ -3,9 +3,9 @@
     <div class="container">
 
         <div class="footer-cont mb-5">
-            <div class="row" >
+            <div class="row">
                 <!--start footer widget single-->
-                <div class="col-lg-4 col-md-6 mx-auto">
+                <div class="col-lg-6 col-md-6">
                     <div class="footer-widget">
                         <h3>TONote</h3>
                         <ul>
@@ -17,7 +17,7 @@
                 </div>
                 <!--end footer widget single-->
                 <!--start footer widget single-->
-                <div class="col-lg-4 col-md-6 mx-auto">
+                <div class="col-lg-6 col-md-6 text-right">
                     <div class="footer-widget">
                         <h3>Company</h3>
                         <ul>
@@ -63,10 +63,10 @@
     </div>
     <div class="footer-copyright pl-5 pr-5">
         <div class="row">
-            <div class="col-lg-6 col-md-7">
+            <div class="col-lg-5 col-md-7 mx-auto">
                 <p>&copy; 2021 ToNote | All right reserved.</p>
             </div>
-            <div class="col-lg-6 col-md-5">
+            <div class="col-lg-5 col-md-5 mx-auto">
                 <div class="footer-social text-right">
                     <ul>
                         <li><a href=""><i class="icofont-facebook"></i></a></li>

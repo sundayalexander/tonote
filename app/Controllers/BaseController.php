@@ -55,4 +55,16 @@ class BaseController extends Controller
 		//--------------------------------------------------------------------
 		// E.g.: $this->session = \Config\Services::session();
 	}
+
+    public function view($page = 'index'){
+        if (!is_file(APPPATH . '/Views/' . $page . '.php')) {
+            // Whoops, we don't have a page for that!
+            throw new \CodeIgniter\Exceptions\PageNotFoundException($page);
+        }
+
+        $data['title'] = ucfirst($page); // Capitalize the first letter
+        echo view('layout/header', $data);
+        echo view($page, $data);
+        echo view('layout/footer', $data);
+    }
 }
