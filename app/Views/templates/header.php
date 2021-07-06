@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title><?= esc($page) ?>- ToNote</title>
+    <title><?= esc($title) ?>- ToNote</title>
     <!--favicon-->
-    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="<?php echo base_url(); ?>static/assets/images/favicon.png"/>
     <!--bootstrap css-->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     <!--owl carousel css-->
