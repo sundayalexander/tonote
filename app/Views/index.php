@@ -55,26 +55,29 @@
                 <!-- navbar links -->
                 <div class="collapse navbar-collapse" id="navbarContent">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="#" data-scroll-nav="0">Home</a>
+                        <li class="nav-item" style="padding-right: 5em;">
+                            <a class="nav-link active" href="#" data-scroll-nav="0"
+                               style="text-transform: uppercase;">
+                                Become a remote online notary
+                            </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="1">Features</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="2">ScreenShots</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="3">Pricing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="4">Team</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Blog</a>
-                        </li>
+<!--                        <li class="nav-item">-->
+<!--                            <a class="nav-link" href="#" data-scroll-nav="1">Features</a>-->
+<!--                        </li>-->
+<!--                        <li class="nav-item">-->
+<!--                            <a class="nav-link" href="#" data-scroll-nav="2">ScreenShots</a>-->
+<!--                        </li>-->
+<!--                        <li class="nav-item">-->
+<!--                            <a class="nav-link" href="#" data-scroll-nav="3">Pricing</a>-->
+<!--                        </li>-->
+<!--                        <li class="nav-item">-->
+<!--                            <a class="nav-link" href="#" data-scroll-nav="4">Team</a>-->
+<!--                        </li>-->
+<!--                        <li class="nav-item">-->
+<!--                            <a class="nav-link" href="#">Blog</a>-->
+<!--                        </li>-->
                         <li class="nav-item download-btn">
-                            <a class="nav-link" href="#" data-scroll-nav="5">Download</a>
+                            <a class="nav-link" href="#" data-scroll-nav="5">Notify Me</a>
                         </li>
                     </ul>
                 </div>
