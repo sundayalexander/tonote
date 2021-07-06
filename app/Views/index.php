@@ -48,7 +48,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <!-- Logo -->
-                <a class="logo" href="#"><img src="assets/images/logo-2.png" alt="logo"></a>
+                <a class="logo" href="#"><img src="assets/images/logo-2.png" alt="tonote logo" width="160"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"><i class="icofont-navigation-menu"></i></span>
                 </button>
