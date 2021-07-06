@@ -48,7 +48,9 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <!-- Logo -->
-                <a class="logo" href="#"><img src="assets/images/logo-2.png" alt="tonote logo" width="160"></a>
+                <a class="logo" href="<?php echo route_to('App\Controllers\Home::index'); ?>">
+                    <img class="header-logo" src="assets/images/logo-2.png" alt="tonote logo" width="160">
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"><i class="icofont-navigation-menu"></i></span>
                 </button>
@@ -59,13 +61,13 @@
                             <a class="nav-link active" href="#" data-scroll-nav="0">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="2"
+                            <a class="nav-link" href="#" data-scroll-nav="1"
                                style="text-transform: uppercase;">
                                 Become a remote online notary
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#" data-scroll-nav="1" style="margin-right: 4em;">
+                            <a class="nav-link" href="#" data-scroll-nav="2" style="margin-right: 4em;">
                                 FAQ
                             </a>
                         </li>
@@ -123,7 +125,7 @@
 
 <!--end core feature area-->
 <!--start about area-->
-<section id="about-area" class="bg-3" data-scroll-index="2">
+<section id="about-area" class="bg-3" data-scroll-index="1">
     <div class="container">
         <div class="row">
             <!--start about content-->
@@ -372,7 +374,7 @@
 <!--start testimonial area-->
 
 <!--start faq area-->
-<section id="faq-area" class="bg-2" data-scroll-index="1">
+<section id="faq-area" class="bg-2" data-scroll-index="2">
     <div class="container">
         <div class="row">
             <!--start section heading-->
