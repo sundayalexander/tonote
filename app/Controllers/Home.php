@@ -6,10 +6,10 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('index');
+        $this->view('home');
     }
 
-    public function view($page = 'home')
+    public function view($page = 'index')
     {
         if (!is_file(APPPATH . '/Views/' . $page . '.php')) {
             // Whoops, we don't have a page for that!

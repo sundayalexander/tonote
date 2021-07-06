@@ -1,16 +1,18 @@
-<section id="home-area" class="bg-1" data-scroll-index="0">
+<!--end header-->
+<!--start home area-->
+<section id="home-area" class="bg-2" data-scroll-index="0">
     <div class="container">
         <div class="row">
             <!--start caption-->
-            <div class="col-lg-8">
-                <div class="caption d-table">
+            <div class="col-lg-7 col-md-8">
+                <div class="caption two d-table">
                     <div class="d-table-cell align-middle">
-                        <h1 class="text-white">Arribo is the best way to present your app to the world!</h1>
-                        <h4 class="text-light font-open-sans">Arribo is the most unique mobile app, designed for managing startups, small business projects, and supporting modern companies.</h4>
-                        <div class="caption-btns">
+                        <h1 class="mb-3">The Perfect App Landing page For Your App </h1>
+                        <h4 class="text-dark font-open-sans">Arribo is the most unique mobile app, designed for managing startups, small business projects, and supporting modern companies.</h4>
+                        <div class="caption-btns v2">
                             <a class="bg" href="">Download Now</a><a class="popup-video" href="https://www.youtube.com/watch?v=iaj8ktgL3BY&t=5s"><i class="icofont-ui-play"></i> Play video</a>
                         </div>
-                        <div class="caption-download-btns">
+                        <div class="caption-download-btns v2">
                             <ul>
                                 <li><a href=""><i class="icofont-brand-android-robot"></i></a></li>
                                 <li><a href=""><i class="icofont-brand-apple"></i></a></li>
@@ -26,86 +28,16 @@
 </section>
 <!--start home area-->
 <!--start core feature area-->
-<section id="core-feature-area" class="bg-1">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-md-10 offset-md-1">
-                <div class="section-heading text-center">
-                    <h5>About our App</h5>
-                    <h2>Wonderful features to satisfy you to use our mobile app</h2>
-                    <p>Here you are welcome to present number of the most characteristic features of your app you are proud of.It was designed to promote your mobile App, services or business projects </p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="row">
-            <!--start core feature single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="core-feature-single text-center">
-                    <div class="icon">
-                        <i class="icon-gear"></i>
-                    </div>
-                    <h3>Quick Setup</h3>
-                    <p>The app is really easy to install, the complete setup process will take less than 1 minute of your time.</p>
-                </div>
-            </div>
-            <!--end core feature single-->
-            <!--start core feature single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="core-feature-single two text-center">
-                    <div class="icon">
-                        <i class="icon-web-design"></i>
-                    </div>
-                    <h3>Lovely Design</h3>
-                    <p>With carefully thought-out design, Arribo looks great on any device and Easy to Use, Easy way to customize.</p>
-                </div>
-            </div>
-            <!--end core feature single-->
-            <!--start core feature single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="core-feature-single three text-center">
-                    <div class="icon three">
-                        <i class="icon-report"></i>
-                    </div>
-                    <h3>Optimized Data</h3>
-                    <p>Speed is very important when you work with loading data, especially if you have a large number of users.</p>
-                </div>
-            </div>
-            <!--end core feature single-->
-            <!--start core feature single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="core-feature-single four text-center">
-                    <div class="icon four">
-                        <i class="icon-list"></i>
-                    </div>
-                    <h3>Secure Data</h3>
-                    <p>Transfer all information with the help of SSL - a solution allowing you to save any data from the public eye.</p>
-                </div>
-            </div>
-            <!--end core feature single-->
-        </div>
-        <div class="row">
-            <!--start read more button-->
-            <div class="col-lg-12">
-                <div class="load-more-btn text-center">
-                    <a href="">Learn More</a>
-                </div>
-            </div>
-            <!--end read more button-->
-        </div>
-    </div>
-</section>
+
 <!--end core feature area-->
 <!--start about area-->
-<section id="about-area" class="bg-1">
+<section id="about-area" class="bg-3" data-scroll-index="1">
     <div class="container">
         <div class="row">
             <!--start about content-->
-            <div class="col-md-6">
-                <div class="about-cont">
-                    <h5>About Arribo</h5>
-                    <h2>Delivering exceptional user experiences.</h2>
+            <div class="col-md-6 pr-lg-5">
+                <div class="about-cont mt-0">
+                    <h2>Become An E-Notary Public</h2>
                     <p>Arribo is designed for those who love to user interface. You will love the seamless way we display the user inter face on your devices.As businesses rely on software or app to engage customers, innovation and velocity becomes core to delivering value.</p>
                     <p>But you’re held back by antiquated technology and legacy development processes. Our customers use our app, to adopt next-generation development practices, deliver new applications, and modernize existing applications.</p>
                 </div>
@@ -135,381 +67,175 @@
                 </div>
             </div>
             <!--end about content-->
+
+            <div class="col-md-6 bg-white pt-4">
+                <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
+                <style type="text/css">
+                    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                    .contact-form form input {
+                        height: 55px;
+                        border: 0;
+                        border-bottom: 1px solid #e9e9ea;
+                        border-radius: 0;
+                        font-family: 'Open Sans', sans-serif;
+                        font-size: 14px;
+                        background-color: transparent
+                    }
+                    .contact-form form .button{
+                        cursor: pointer;
+                    }
+                    #mc_embed_signup div.mce_inline_error{
+                        color: #ff0000;
+                        margin: 0 0 1em 0;
+                        padding: 5px 10px;
+                        background-color: transparent;
+                        font-weight: normal;
+                        z-index: 1;
+                    }
+                    /*#mce-success-response{*/
+                    /*    color: #036503;*/
+                    /*}*/
+
+                </style>
+                <h3 class="text-center mt-4 mb-4">Become A Remote Online Notary</h3>
+                <div id="mc_embed_signup" class="contact-form two">
+
+                    <form action="https://gmail.us6.list-manage.com/subscribe/post?u=51935ac35559b859a69d757cf&amp;id=c8830e3ab5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                            <div class="mc-field-group form-group">
+                                <input type="email" placeholder="Email *" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                            </div>
+                            <div class="mc-field-group form-group">
+                                <input type="text" value="" name="FNAME" class="required form-control" id="mce-FNAME" placeholder="First Name*" required>
+                            </div>
+                            <div class="mc-field-group form-group">
+                                <!--                                <label for="mce-LNAME">Last Name </label>-->
+                                <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Last Name*" required>
+                            </div>
+                            <label for="mce-MMERGE6">Do you have a Traditional Notary Certificate? </label>
+                            <div class="mc-field-group form-group">
+                                <select name="MMERGE6" class="required form-control" id="mce-MMERGE6">
+                                    <!--                                    <option value=""></option>-->
+                                    <option value="YES">YES</option>
+                                    <option value="NO">NO</option>
+
+                                </select>
+                            </div>
+                            <div id="mce-responses" class="clear">
+                                <div class="response text-danger" id="mce-error-response" style="display:none"></div>
+                                <div class="response text-success" id="mce-success-response" style="display:none"></div>
+                            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_51935ac35559b859a69d757cf_c8830e3ab5" tabindex="-1" value=""></div>
+
+                            <div class="clear">
+                                <input type="submit" value="Submit Now" name="subscribe" id="mc-embedded-subscribe"
+                                       class="button"></div>
+                        </div>
+                    </form>
+                </div>
+                <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[6]='MMERGE6';ftypes[6]='dropdown';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                <!--End mc_embed_signup-->
+            </div>
         </div>
-    </div>
-    <!--start app mocup-->
-    <div class="about-app-mocup">
-        <img src="assets/images/app-mocup-1.png" class="img-fluid" alt="">
     </div>
     <!--end app mocup-->
 </section>
 <!--end about area-->
 <!--start video area-->
-<section id="video-area" class="bg-1">
-    <div class="video-cont d-table text-center">
-        <div class="d-table-cell align-middle">
-            <div class="video-overlay"></div>
-            <a class="popup-video" href="https://www.youtube.com/watch?v=om4qTKMuPPs"><i class="icofont-ui-play"></i></a>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="video title">
-                    <h5>Explore Amazing features</h5>
-                    <h2>That will boost your productivity</h2>
-                    <p>With our wide range of features, you can create a custom app no matter what your niche: restaurant, Realtor, small business,rock band, and all the rest!</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-8">
-                <div class="counter title">
-                    <h5>Take a Look at our</h5>
-                    <h2 class="text-white">Some Facts</h2>
-                    <p>Arribo enables all its users with constant support and wide set of tools to develop and grow their businesses and projects.some of our favorite facts that you might not have known.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <!--start counter single-->
-            <div class="col-md-3 col-6">
-                <div class="counter-single">
-                    <div class="icon">
-                        <img src="assets/images/icon-like.png" class="img-fluid" alt="">
-                    </div>
-                    <h2>5,289</h2>
-                    <p>5 star Rating</p>
-                </div>
-            </div>
-            <!--end counter single-->
-            <!--start counter single-->
-            <div class="col-md-3 col-6">
-                <div class="counter-single">
-                    <div class="icon">
-                        <img src="assets/images/icon-user.png" class="img-fluid" alt="">
-                    </div>
-                    <h2>4,188</h2>
-                    <p>Happy Users</p>
-                </div>
-            </div>
-            <!--end counter single-->
-            <!--start counter single-->
-            <div class="col-md-3 col-6">
-                <div class="counter-single">
-                    <div class="icon">
-                        <img src="assets/images/icon-cloud.png" class="img-fluid" alt="">
-                    </div>
-                    <h2>9,087</h2>
-                    <p>app download</p>
-                </div>
-            </div>
-            <!--end counter single-->
-            <!--start counter single-->
-            <div class="col-md-3 col-6">
-                <div class="counter-single">
-                    <div class="icon">
-                        <img src="assets/images/icon-trophy.png" class="img-fluid" alt="">
-                    </div>
-                    <h2>26</h2>
-                    <p>Best Awards</p>
-                </div>
-            </div>
-            <!--end counter single-->
-        </div>
-    </div>
-</section>
+<!--<section id="video-area" class="bg-2">-->
+<!--    <div class="video-cont d-table text-center">-->
+<!--        <div class="d-table-cell align-middle">-->
+<!--            <div class="video-overlay"></div>-->
+<!--            <a class="popup-video" href="https://www.youtube.com/watch?v=om4qTKMuPPs"><i class="icofont-ui-play"></i></a>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6">-->
+<!--                <div class="video title">-->
+<!--                    <h5>Explore Amazing features</h5>-->
+<!--                    <h2>That will boost your productivity</h2>-->
+<!--                    <p>With our wide range of features, you can create a custom app no matter what your niche: restaurant, Realtor, small business,rock band, and all the rest!</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-6 col-md-8">-->
+<!--                <div class="counter title">-->
+<!--                    <h5 class="text-light">Take a Look at our</h5>-->
+<!--                    <h2 class="text-white">Some Facts</h2>-->
+<!--                    <p>Arribo enables all its users with constant support and wide set of tools to develop and grow their businesses and projects.some of our favorite facts that you might not have known.-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--            start counter single-->
+<!--            <div class="col-md-3 col-6">-->
+<!--                <div class="counter-single">-->
+<!--                    <div class="icon">-->
+<!--                        <img src="assets/images/icon-like-1.png" class="img-fluid" alt="">-->
+<!--                    </div>-->
+<!--                    <h2>5,289</h2>-->
+<!--                    <p>5 star Rating</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            end counter single-->
+<!--            start counter single-->
+<!--            <div class="col-md-3 col-6">-->
+<!--                <div class="counter-single">-->
+<!--                    <div class="icon">-->
+<!--                        <img src="assets/images/icon-user-1.png" class="img-fluid" alt="">-->
+<!--                    </div>-->
+<!--                    <h2>4,188</h2>-->
+<!--                    <p>Happy Users</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            end counter single-->
+<!--            start counter single-->
+<!--            <div class="col-md-3 col-6">-->
+<!--                <div class="counter-single">-->
+<!--                    <div class="icon">-->
+<!--                        <img src="assets/images/icon-cloud-1.png" class="img-fluid" alt="">-->
+<!--                    </div>-->
+<!--                    <h2>9,087</h2>-->
+<!--                    <p>app download</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <!-end counter single-->
+<!--            <!-start counter single-->
+<!--            <div class="col-md-3 col-6">-->
+<!--                <div class="counter-single">-->
+<!--                    <div class="icon">-->
+<!--                        <img src="assets/images/icon-trophy-1.png" class="img-fluid" alt="">-->
+<!--                    </div>-->
+<!--                    <h2>26</h2>-->
+<!--                    <p>Best Awards</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <!-end counter single-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 <!--end video area-->
-<!--start awesome feature area-->
-<section id="awesome-feat-area" class="bg-1" data-scroll-index="1">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>an exhaustive thriving list of</h5>
-                    <h2>Awesome Features</h2>
-                    <p>We've gone over everything you could possibly want to know about Arribo, from how exactly the app works.Three Simple Steps to journey.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-    </div>
-    <div class="row">
-        <!--start feature images-->
-        <div class="col-md-5">
-            <div class="awesome-feat-img text-center">
-                <a data-owl-item="1" class="feature-link active">
-                    <div class="feat-screen-single">
-                        <img src="assets/images/app-mocup-3.png" class="img-fluid" alt="">
-                    </div>
-                </a>
-                <a data-owl-item="2" class="feature-link">
-                    <div class="feat-screen-single">
-                        <img src="assets/images/app-mocup-3.png" class="img-fluid" alt="">
-                    </div>
-                </a>
-                <a data-owl-item="3" class="feature-link">
-                    <div class="feat-screen-single">
-                        <img src="assets/images/app-mocup-3.png" class="img-fluid" alt="">
-                    </div>
-                </a>
-                <a data-owl-item="4" class="feature-link">
-                    <div class="feat-screen-single">
-                        <img src="assets/images/app-mocup-3.png" class="img-fluid" alt="">
-                    </div>
-                </a>
-            </div>
-        </div>
-        <!--end feature images-->
-        <div class="col-md-7">
-            <div class="feat-carousel-wrap">
-                <div class="awesome-feat-carousel owl-carousel">
-                    <!--start awesome-feat-single-->
-                    <div class="awesome-feat-single text-center">
-                        <div class="icon">
-                            <img src="assets/images/icon-setting.png" class="img-fluid" alt="">
-                        </div>
-                        <h3>Easy to Manage Your All Data</h3>
-                        <p>Arribo is Best app to help you take control of your device data.Apps that have the power to transform workflows, improve client relationships,boost your productivity and organize your life. </p>
-                    </div>
-                    <!--end awesome-feat-single-->
-                    <!--start awesome-feat-single-->
-                    <div class="awesome-feat-single text-center">
-                        <div class="icon two">
-                            <img src="assets/images/icon-responsive.png" class="img-fluid" alt="">
-                        </div>
-                        <h3>Responsive Design For All Devices</h3>
-                        <p>Arribo is Best app to help you take control of your device data.Apps that have the power to transform workflows, improve client relationships,boost your productivity and organize your life. </p>
-                    </div>
-                    <!--end awesome-feat-single-->
-                    <!--start awesome-feat-single-->
-                    <div class="awesome-feat-single text-center">
-                        <div class="icon three">
-                            <img src="assets/images/icon-setting.png" class="img-fluid" alt="">
-                        </div>
-                        <h3>Easy to Manage Your All Data</h3>
-                        <p>Arribo is Best app to help you take control of your device data.Apps that have the power to transform workflows, improve client relationships,boost your productivity and organize your life. </p>
-                    </div>
-                    <!--end awesome-feat-single-->
-                    <!--start awesome-feat-single-->
-                    <div class="awesome-feat-single text-center">
-                        <div class="icon two">
-                            <img src="assets/images/icon-responsive.png" class="img-fluid" alt="">
-                        </div>
-                        <h3>Responsive Design For All Devices</h3>
-                        <p>Arribo is Best app to help you take control of your device data.Apps that have the power to transform workflows, improve client relationships,boost your productivity and organize your life. </p>
-                    </div>
-                    <!--end awesome-feat-single-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--end awesome feature area-->
-<!--start how work area-->
-<section id="how-work-area">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Describe your App</h5>
-                    <h2>Let’s See How It Work</h2>
-                    <p>We've gone over everything you could possibly want to know about Arribo, from how exactly the app works.Three Simple Steps to journey.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="row how-work-wrap">
-            <div class="how-work-bg"></div>
-            <!--start how work single-->
-            <div class="col-lg-offset-1 col-lg-3 col-md-4">
-                <div class="how-work-single">
-                    <div class="icon">
-                        <i class="icofont-cloud-download"></i>
-                        <div class="number">01</div>
-                    </div>
-                    <h3>Download</h3>
-                    <p>The first step to getting on your Arribo is to download the Arribo. Open the <a href="">Google Play</a>, or <a href="">iTunes App Store</a> App on your smartphone.</p>
-                </div>
-            </div>
-            <!--end how work single-->
-            <!--start how work single-->
-            <div class="col-lg-3 col-md-4">
-                <div class="how-work-single two">
-                    <div class="icon">
-                        <i class="icofont-settings"></i>
-                        <div class="number">02</div>
-                    </div>
-                    <h3>Configure It</h3>
-                    <p>Select your mobile app's Settings tab that appear on your mobile screen, each of these customizations are unique to your Activity.</p>
-                </div>
-            </div>
-            <!--end how work single-->
-            <!--start how work single-->
-            <div class="col-lg-3 col-md-4">
-                <div class="how-work-single three">
-                    <div class="icon">
-                        <i class="icofont-trophy"></i>
-                        <div class="number">03</div>
-                    </div>
-                    <h3>Yay! Done</h3>
-                    <p>Explore and share Arribo.Check out our FAQ for more information on the system, memberships, 24-Hour Passes, safety tips, and more.</p>
-                </div>
-            </div>
-            <!--end how work single-->
-        </div>
-    </div>
-</section>
-<!--end how work area-->
-<!--start newsletter area-->
-<section id="newsletter-area" class="bg-1">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Be the first to know</h5>
-                    <h2 class="text-white">About New Features</h2>
-                    <p class="text-light">If you want to receive monthly updates from us just pop your email in the box. We think that spam is for jerks. And jerks we are not.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="row">
-            <!--start newsletter form-->
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                <div class="newsletter-form">
-                    <form id="mc-newsletter" action="newsletter/config.php" method="post">
-                        <div class="newsletter-input-bx">
-                            <input type="email" class="form-control" id="mc-email" name="mc-email" placeholder="Enter Your Email" required>
-                            <button type="submit">SUBSCRIBE</button>
-                        </div>
-                    </form>
-                    <div id="response"></div>
-                </div>
-            </div>
-            <!--end newsletter form-->
-        </div>
-    </div>
-</section>
-<!--end newsletter area-->
-<!--screenshot area-->
-<section id="screenshot-area" class="bg-1" data-scroll-index="2">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Showcase your app</h5>
-                    <h2>The Screenshot Gallery</h2>
-                    <p>This is easy way showcase your app screen . If you want to show your app just pop in the screenshots and the magic happens.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="screen-wrap">
-            <div class="screenshot-frame"></div>
-            <div class="screen-carousel owl-carousel">
-                <img src="assets/images/screen-1.jpg" class="img-fluid" alt="">
-                <img src="assets/images/screen-2.jpg" class="img-fluid" alt="">
-                <img src="assets/images/screen-3.jpg" class="img-fluid" alt="">
-                <img src="assets/images/screen-4.jpg" class="img-fluid" alt="">
-                <img src="assets/images/screen-2.jpg" class="img-fluid" alt="">
-            </div>
-        </div>
-    </div>
-</section>
-<!--end area-->
-<!--start pricing area-->
-<section id="pricing-area" data-scroll-index="3">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7">
-                <div class="section-heading">
-                    <h5>pricing Plan</h5>
-                    <h2>Choose The Right Plan</h2>
-                    <p>Build trust with prospective clients, delight existing customers, and increase the efficiency and collaboration within your team. We have experience with plethora of technologies.</p>
-                    <p>Arribo has plans, from free to paid, that scale with your needs. Subscribe to a plan that fits the size of your business.Arribo monthly pricing is based on how many functions you need to start your work. If you ready to use Arribo for a long time you can choose yearly plan and save some money.</p>
-                </div>
-                <div class="toggle-container">
-                    <div class="switch-toggles">
-                        <div class="monthly active">Monthly</div>
-                        <div class="yearly">Yearly</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-5">
-                <div id="pricing-wrap">
-                    <!--start monthly pricing table-->
-                    <div class="monthly active">
-                        <div class="price-tbl-single highlighted">
-                            <div class="table-inner text-center">
-                                <h4>start</h4>
-                                <div class="price">
-                                    <div class="price-bg"></div>
-                                    <h2><sup>$</sup>15/<span>MON</span></h2>
-                                </div>
-                                <ul>
-                                    <li>5 GB Space</li>
-                                    <li>5 Subdomain Unlimited</li>
-                                    <li>Easy to Customize</li>
-                                    <li>Unlimited Users</li>
-                                    <li>Highest Speed</li>
-                                    <li>Easy to Customize</li>
-                                    <li>Support Unlimited User</li>
-                                </ul>
-                                <a href="">get started</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end monthly pricing table-->
-                    <!--start monthly pricing table-->
-                    <div class="yearly">
-                        <div class="price-tbl-single highlighted">
-                            <div class="table-inner text-center">
-                                <h4>Standard</h4>
-                                <div class="price">
-                                    <div class="price-bg"></div>
-                                    <h2><sup>$</sup>20/<span>MON</span></h2>
-                                </div>
-                                <ul>
-                                    <li>5 GB Space</li>
-                                    <li>5 Subdomain Unlimited</li>
-                                    <li>Easy to Customize</li>
-                                    <li>Unlimited Users</li>
-                                    <li>Highest Speed</li>
-                                    <li>Easy to Customize</li>
-                                    <li>Support Unlimited User</li>
-                                </ul>
-                                <a href="">get started</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end monthly pricing table-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!--end pricing area-->
 <!--start custom plan area-->
 <section id="custom-plan-area">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
-                <div class="custom-plan-wrap bg-1 row">
+                <div class="custom-plan-wrap bg-2 row">
                     <div class="col-md-8 offset-md-2">
                         <div class="section-heading text-center">
-                            <h5>Arribo Cost Calculator</h5>
+                            <h5 class="text-light">Arribo Cost Calculator</h5>
                             <h2 class="text-white">Need a Custom Plan?</h2>
                             <p class="text-white">We’ve created this handy plan cost calculator just for you. Find out how much your custom plan will cost in under a minute! </p>
                         </div>
                     </div>
                     <div class="col-lg-12">
-                        <div class="plan-btn text-center">
+                        <div class="plan-btn two text-center">
                             <a href="">Use Cost Calculator</a>
                         </div>
                     </div>
@@ -520,286 +246,106 @@
 </section>
 <!--end custom plan area-->
 <!--start team area-->
-<section id="team-area" data-scroll-index="4">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Our creative team</h5>
-                    <h2>Meet The Team</h2>
-                    <p>Meet the people behind Arribo We are the team of professional analysts, publishing dozens of application. Join us!</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <!--start team single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="team-single text-center">
-                    <div class="team-img">
-                        <img src="assets/images/team-1.jpg" class="img-fluid" alt="">
-                        <div class="team-social">
-                            <ul>
-                                <li><a href=""><i class="icofont-facebook"></i></a></li>
-                                <li><a href=""><i class="icofont-twitter"></i></a></li>
-                                <li><a href=""><i class="icofont-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-info">
-                        <h3>Penny Tool</h3>
-                        <p>Visual Designer</p>
-                    </div>
-                </div>
-            </div>
-            <!--end team single-->
-            <!--start team single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="team-single text-center">
-                    <div class="team-img">
-                        <img src="assets/images/team-2.jpg" class="img-fluid" alt="">
-                        <div class="team-social">
-                            <ul>
-                                <li><a href=""><i class="icofont-facebook"></i></a></li>
-                                <li><a href=""><i class="icofont-twitter"></i></a></li>
-                                <li><a href=""><i class="icofont-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-info">
-                        <h3>Pat Hines</h3>
-                        <p>Android Developer</p>
-                    </div>
-                </div>
-            </div>
-            <!--end team single-->
-            <!--start team single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="team-single text-center">
-                    <div class="team-img">
-                        <img src="assets/images/team-3.jpg" class="img-fluid" alt="">
-                        <div class="team-social">
-                            <ul>
-                                <li><a href=""><i class="icofont-facebook"></i></a></li>
-                                <li><a href=""><i class="icofont-twitter"></i></a></li>
-                                <li><a href=""><i class="icofont-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-info">
-                        <h3>Donald Huff</h3>
-                        <p>iOS Developer</p>
-                    </div>
-                </div>
-            </div>
-            <!--end team single-->
-            <!--start team single-->
-            <div class="col-lg-3 col-md-6">
-                <div class="team-single text-center">
-                    <div class="team-img">
-                        <img src="assets/images/team-4.jpg" class="img-fluid" alt="">
-                        <div class="team-social">
-                            <ul>
-                                <li><a href=""><i class="icofont-facebook"></i></a></li>
-                                <li><a href=""><i class="icofont-twitter"></i></a></li>
-                                <li><a href=""><i class="icofont-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-info">
-                        <h3>Angela Moore</h3>
-                        <p>Product Strategist</p>
-                    </div>
-                </div>
-            </div>
-            <!--end team single-->
-        </div>
-    </div>
-</section>
+<!--<section id="team-area" data-scroll-index="4">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">-->
+<!--                <div class="section-heading text-center">-->
+<!--                    <h5>Our creative team</h5>-->
+<!--                    <h2>Meet The Team</h2>-->
+<!--                    <p>Meet the people behind Arribo We are the team of professional analysts, publishing dozens of application. Join us!</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--start team single-->
+<!--            <div class="col-lg-3 col-md-6">-->
+<!--                <div class="team-single text-center">-->
+<!--                    <div class="team-img">-->
+<!--                        <img src="assets/images/team-1.jpg" class="img-fluid" alt="">-->
+<!--                        <div class="team-social two">-->
+<!--                            <ul>-->
+<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="team-info">-->
+<!--                        <h3>Penny Tool</h3>-->
+<!--                        <p>Visual Designer</p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--end team single-->
+<!--start team single-->
+<!--            <div class="col-lg-3 col-md-6">-->
+<!--                <div class="team-single text-center">-->
+<!--                    <div class="team-img">-->
+<!--                        <img src="assets/images/team-2.jpg" class="img-fluid" alt="">-->
+<!--                        <div class="team-social two">-->
+<!--                            <ul>-->
+<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="team-info">-->
+<!--                        <h3>Pat Hines</h3>-->
+<!--                        <p>Android Developer</p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--end team single-->
+<!--start team single-->
+<!--            <div class="col-lg-3 col-md-6">-->
+<!--                <div class="team-single text-center">-->
+<!--                    <div class="team-img">-->
+<!--                        <img src="assets/images/team-3.jpg" class="img-fluid" alt="">-->
+<!--                        <div class="team-social two">-->
+<!--                            <ul>-->
+<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="team-info">-->
+<!--                        <h3>Donald Huff</h3>-->
+<!--                        <p>iOS Developer</p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--end team single-->
+<!--start team single-->
+<!--            <div class="col-lg-3 col-md-6">-->
+<!--                <div class="team-single text-center">-->
+<!--                    <div class="team-img">-->
+<!--                        <img src="assets/images/team-4.jpg" class="img-fluid" alt="">-->
+<!--                        <div class="team-social two">-->
+<!--                            <ul>-->
+<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
+<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="team-info">-->
+<!--                        <h3>Angela Moore</h3>-->
+<!--                        <p>Product Strategist</p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--end team single-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 <!--end team area-->
 <!--start testimonial area-->
-<section id="testimonial-area">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Trusted by 50,000+ User</h5>
-                    <h2>A Word From Our Customers</h2>
-                    <p>Our passion drives us to work hard and deliver outstanding results so we can be the best app development company. Hear what our clients have to say about Arribo.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="testi-wrap">
-            <!--start testimonial single-->
-            <div class="client-single active position-1" data-position="position-1">
-                <div class="client-img">
-                    <img src="assets/images/client-1.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-2" data-position="position-2">
-                <div class="client-img">
-                    <img src="assets/images/client-7.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-3" data-position="position-3">
-                <div class="client-img">
-                    <img src="assets/images/client-3.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-4" data-position="position-4">
-                <div class="client-img">
-                    <img src="assets/images/client-6.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-5" data-position="position-5">
-                <div class="client-img">
-                    <img src="assets/images/client-4.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-6" data-position="position-6">
-                <div class="client-img">
-                    <img src="assets/images/client-5.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-            <!--start testimonial single-->
-            <div class="client-single inactive position-7" data-position="position-7">
-                <div class="client-img">
-                    <img src="assets/images/client-2.jpg" alt="">
-                </div>
-                <div class="client-comment">
-                    <h3>Installation was pretty easy.We have been Arribo customers for years, and we have had nothing but amazing experiences with the Arribo and well-designed mobile app. Arribo provided that for us with easy-to-use software and personalized support. I like this app. Thank you</h3>
-                    <span><i class="icofont-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Fatih Senel</h3>
-                    <p>Digilite Web Solutions</p>
-                </div>
-            </div>
-            <!--end testimonial single-->
-        </div>
-    </div>
-</section>
-<!--end testimonial area-->
-<!--start app download area-->
-<section id="app-download-area" data-scroll-index="5">
-    <div class="app-download-bg bg-1"></div>
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-lg-6 col-md-8">
-                <div class="section-heading">
-                    <h5>Choose Your Device Platform</h5>
-                    <h2>Get The App on</h2>
-                    <p>Get the latest resources for downloading, installing, and updating Arribo. Select your device platform and Use Our app and Enjoy Your Life.</p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-    </div>
-    <div class="app-downlod-review">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-7">
-                    <div class="download-btns">
-                        <a href=""><img src="assets/images/playstore-icon.png" class="img-fluid" alt=""> Play Store</a><a class="bg" href=""><i class="icofont-brand-apple"></i> App Store</a>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6 col-6">
-                            <div class="app-reviews">
-                                <h6>Reviews</h6>
-                                <div class="rating-number float-left">
-                                    <h2>4.5</h2>
-                                </div>
-                                <div class="rating-details float-left">
-                                    <p class="m-0"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i></p>
-                                    <p class="font-light">125,064 ratings</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-6">
-                            <div class="app-reviews">
-                                <h6>Reviews</h6>
-                                <div class="rating-number float-left">
-                                    <h2>4.7</h2>
-                                </div>
-                                <div class="rating-details float-left">
-                                    <p class="m-0"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i></p>
-                                    <p class="font-light">125,064 ratings</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="app-download-mockup">
-        <img src="assets/images/imac-mocup.png" class="img-fluid" alt="">
-    </div>
-</section>
-<!--end app download area-->
+
 <!--start faq area-->
-<section id="faq-area" class="bg-1">
+<section id="faq-area" class="bg-2" data-scroll-index="2">
     <div class="container">
         <div class="row">
             <!--start section heading-->
@@ -816,7 +362,7 @@
             <div class="col-md-7">
                 <div id="accordion" role="tablist">
                     <!--start faq single-->
-                    <div class="card">
+                    <div class="card two">
                         <div class="card-header active" role="tab" id="faq1">
                             <h5 class="mb-0">
                                 <a data-toggle="collapse" href="#collapse1" aria-expanded="true" aria-controls="collapse1">Is the Mobile App Secure?</a>
@@ -830,7 +376,7 @@
                     </div>
                     <!--end faq single-->
                     <!--start faq single-->
-                    <div class="card">
+                    <div class="card two">
                         <div class="card-header" role="tab" id="faq2">
                             <h5 class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false" aria-controls="collapse2">What features does the Mobile App have?</a>
@@ -844,7 +390,7 @@
                     </div>
                     <!--end faq single-->
                     <!--start faq single-->
-                    <div class="card">
+                    <div class="card two">
                         <div class="card-header" role="tab" id="faq3">
                             <h5 class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false" aria-controls="collapse3">How do I get the Mobile App for my phone?</a>
@@ -858,7 +404,7 @@
                     </div>
                     <!--end faq single-->
                     <!--start faq single-->
-                    <div class="card">
+                    <div class="card two">
                         <div class="card-header" role="tab" id="faq4">
                             <h5 class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false" aria-controls="collapse4">How does Arribo differ from usual apps? </a>
@@ -883,7 +429,7 @@
 </section>
 <!--end faq area-->
 <!--start contact area-->
-<section id="contact-area" class="bg-1">
+<section id="contact-area" class="bg-2">
     <div class="container">
         <div class="row">
             <!--start section heading-->
@@ -899,7 +445,7 @@
         <div class="row">
             <!--start contact form-->
             <div class="col-lg-5 col-md-7">
-                <div class="contact-form">
+                <div class="contact-form two">
                     <form id="ajax-contact" action="contact.php" method="post">
                         <div class="form-group">
                             <input type="text" class="form-control" id="name" name="name" placeholder="Name*" required="required" data-error="name is required.">
@@ -922,3 +468,5 @@
         </div>
     </div>
 </section>
+<!--end contact area-->
+<!--start footer-->
