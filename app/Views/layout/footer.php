@@ -69,9 +69,21 @@
             <div class="col-lg-5 col-md-5 mx-auto">
                 <div class="footer-social text-right">
                     <ul>
-                        <li><a href=""><i class="icofont-facebook"></i></a></li>
-                        <li><a href=""><i class="icofont-linkedin"></i></a></li>
-                        <li><a href=""><i class="icofont-twitter"></i></a></li>
+                        <li>
+                            <a target="_blank" href="https://www.facebook.com/GetToNote">
+                                <i class="icofont-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.linkedin.com/company/gettonote">
+                                <i class="icofont-linkedin"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.instagram.com/mytonote/">
+                                <i class="icofont-instagram"></i>
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
