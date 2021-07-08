@@ -1,23 +1,24 @@
 <!--end header-->
 <!--start home area-->
-<section id="home-area" class="bg-2" data-scroll-index="0">
+<section id="home-area" class="bg-2" data-scroll-index="0" xmlns="http://www.w3.org/1999/html">
     <div class="container">
         <div class="row">
             <!--start caption-->
             <div class="col-lg-7 col-md-8">
-                <div class="caption two d-table">
+                <div class="caption two d-table" style="padding-top: 180">
                     <div class="d-table-cell align-middle">
-                        <h1 class="mb-3">The Perfect App Landing page For Your App </h1>
-                        <h4 class="text-dark font-open-sans">Arribo is the most unique mobile app, designed for managing startups, small business projects, and supporting modern companies.</h4>
-                        <div class="caption-btns v2">
-                            <a class="bg" href="">Download Now</a><a class="popup-video" href="https://www.youtube.com/watch?v=iaj8ktgL3BY&t=5s"><i class="icofont-ui-play"></i> Play video</a>
-                        </div>
-                        <div class="caption-download-btns v2">
-                            <ul>
-                                <li><a href=""><i class="icofont-brand-android-robot"></i></a></li>
-                                <li><a href=""><i class="icofont-brand-apple"></i></a></li>
-                                <li><a href=""><i class="icofont-brand-windows"></i></a></li>
-                            </ul>
+                        <h1 class="mb-3 pr-1">
+                            A convenient and remote way of closing transactions
+                        </h1>
+                        <h4 class="text-dark font-open-sans">
+                            ToNote is a legally binding and fully remote way to sign, notarize and share
+                            documents with ease.
+                        </h4>
+                        <h4 class="text-dark font-open-sans mt-4">
+                            <strong><em>Be the first to know when we launch.</em></strong>
+                        </h4>
+                        <div class="caption-btns v2 mt-2">
+                            <a class="bg ml-0" href=""><strong>Sign Up</strong></a>
                         </div>
                     </div>
                 </div>
@@ -38,37 +39,24 @@
             <div class="col-md-6 pr-lg-5">
                 <div class="about-cont mt-0">
                     <h2>Become An E-Notary Public</h2>
-                    <p>Arribo is designed for those who love to user interface. You will love the seamless way we display the user inter face on your devices.As businesses rely on software or app to engage customers, innovation and velocity becomes core to delivering value.</p>
-                    <p>But you’re held back by antiquated technology and legacy development processes. Our customers use our app, to adopt next-generation development practices, deliver new applications, and modernize existing applications.</p>
-                </div>
-                <div class="about-info row">
-                    <div class="col-md-6 col-6">
-                        <div class="about-info-single">
-                            <div class="icon">
-                                <i class="icon-employee"></i>
-                            </div>
-                            <div class="content">
-                                <h3>17,501</h3>
-                                <p>Premium User</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-6">
-                        <div class="about-info-single two">
-                            <div class="icon">
-                                <i class="icon-eye-tracking"></i>
-                            </div>
-                            <div class="content">
-                                <h3>1,987</h3>
-                                <p>Daily Visitors</p>
-                            </div>
-                        </div>
+                    <p>
+                        ToNote securely connects Notaries to a large network of potential clients with our remote
+                        online notarization platform.
+
+                    </p>
+                    <p>
+                        Connect via your internet enabled device, anywhere and anytime.
+                    </p>
+
+                    <div class="plan-btn two">
+                        <a href="">Learn More</a>
                     </div>
                 </div>
+
             </div>
             <!--end about content-->
 
-            <div class="col-md-6 bg-white pt-4">
+            <div class="col-md-6 bg-white box-shadow pt-4">
                 <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
                 <style type="text/css">
                     /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -99,7 +87,7 @@
 
                 </style>
                 <h3 class="text-center mt-4 mb-4">Become A Remote Online Notary</h3>
-                <div id="mc_embed_signup" class="contact-form two">
+                <div id="mc_embed_signup" class="contact-form two pb-3">
 
                     <form action="https://gmail.us6.list-manage.com/subscribe/post?u=51935ac35559b859a69d757cf&amp;id=c8830e3ab5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div id="mc_embed_signup_scroll">
@@ -129,7 +117,7 @@
                             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_51935ac35559b859a69d757cf_c8830e3ab5" tabindex="-1" value=""></div>
 
                             <div class="clear">
-                                <input type="submit" value="Submit Now" name="subscribe" id="mc-embedded-subscribe"
+                                <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
                                        class="button"></div>
                         </div>
                     </form>
@@ -229,14 +217,19 @@
                 <div class="custom-plan-wrap bg-2 row">
                     <div class="col-md-8 offset-md-2">
                         <div class="section-heading text-center">
-                            <h5 class="text-light">Arribo Cost Calculator</h5>
-                            <h2 class="text-white">Need a Custom Plan?</h2>
-                            <p class="text-white">We’ve created this handy plan cost calculator just for you. Find out how much your custom plan will cost in under a minute! </p>
+                            <h3 class="text-white px-4">
+                                Notarization And Business Closing Transactions, Digitized
+                            </h3>
+                            <p class="text-white">
+                                Join our list and be the first to know when we launch
+                            </p><br/>
+                            <input type="email" class="form-control text-center placeholder-color-white" style="background: transparent; border: 0;
+                            color: white; border-bottom: solid 1px white; outline: unset; border-radius: unset;" placeholder="Email">
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="plan-btn two text-center">
-                            <a href="">Use Cost Calculator</a>
+                            <a href="">Join The List</a>
                         </div>
                     </div>
                 </div>
@@ -353,7 +346,11 @@
                 <div class="section-heading text-center">
                     <h5>Take A look</h5>
                     <h2>Frequently Asked Questions</h2>
-                    <p>Our Mobile App can be downloaded and installed on your compatible mobile device easily. If you have any questions - please look through the most frequently asked questions or contact us for more details.</p>
+                    <p>
+                        Below you’ll find answers to the most common questions you may have about ToNote and Notary
+                        services. If you still can’t find the answer you’re looking for, leave us a message and we
+                        will respond shortly.
+                    </p>
                 </div>
             </div>
             <!--end section heading-->
@@ -437,7 +434,9 @@
                 <div class="section-heading">
                     <h5>Contact us</h5>
                     <h2>Get In Touch</h2>
-                    <p>If you have any questions, just fill in the contact form, and we will answer you shortly.</p>
+                    <p>
+                        We’re here to help and answer any question you might have.
+                    </p>
                 </div>
             </div>
             <!--end section heading-->
