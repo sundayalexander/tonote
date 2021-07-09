@@ -48,7 +48,7 @@
                         Connect via your internet enabled device, anywhere and anytime.
                     </p>
 
-                    <div class="plan-btn two">
+                    <div class="plan-btn two mb-5">
                         <a href="">Learn More</a>
                     </div>
                 </div>

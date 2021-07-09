@@ -2,10 +2,10 @@
 <footer id="footer" class="bg-2">
     <div class="container">
 
-        <div class="footer-cont mb-5">
+        <div class="footer-cont mb-3">
             <div class="row">
                 <!--start footer widget single-->
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="footer-widget">
                         <h3>TONote</h3>
                         <ul>
@@ -17,7 +17,7 @@
                 </div>
                 <!--end footer widget single-->
                 <!--start footer widget single-->
-                <div class="col-lg-6 col-md-6 text-right">
+                <div class="col-lg-6 col-md-6 col-sm-12 text-right footer-link">
                     <div class="footer-widget">
                         <h3>Company</h3>
                         <ul>

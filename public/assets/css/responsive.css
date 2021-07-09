@@ -222,8 +222,8 @@
         padding: 20px 30px 35px;
     }
     #navbarContent {
-        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#e61eb6));
-        background: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);
+        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#3890fe));
+        background: linear-gradient( 90deg, #20007e 0%, #3890fe 100%);
     }
     .navbar-nav .nav-item {
         padding: 4px 0;
@@ -536,8 +536,8 @@
         padding: 20px 30px 35px;
     }
     #navbarContent {
-        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#e61eb6));
-        background: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);
+        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#3890fe));
+        background: linear-gradient( 90deg, #20007e 0%, #3890fe 100%);
     }
     .navbar-nav .nav-item {
         padding: 4px 0;
@@ -1037,8 +1037,8 @@
         padding: 20px 30px 35px;
     }
     #navbarContent {
-        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#e61eb6));
-        background: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);
+        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#3890fe));
+        background: linear-gradient( 90deg, #20007e 0%, #3890fe 100%);
     }
     .navbar-nav .nav-item {
         padding: 4px 0;
@@ -1054,8 +1054,11 @@
         right: auto;
     }
     .navbar-toggler span {
-        color: #fff;
+        color: #023293;
         font-size: 30px;
+    }
+    #header.two.sticky  .navbar-toggler span{
+        color: #fff;
     }
     .core-feature-single {
         margin: 0 0 30px;
@@ -1252,7 +1255,7 @@
         margin-bottom: 40px;
     }
     .footer-cont {
-        padding: 80px 0 30px;
+        padding: 20px 0 10px;
     }
     .footer-widget h3 {
         font-size: 20px;
@@ -1614,8 +1617,8 @@
         padding: 20px 30px 35px;
     }
     #navbarContent {
-        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#e61eb6));
-        background: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);
+        background: -webkit-gradient( linear, left top, right top, from(#20007e), to(#3890fe));
+        background: linear-gradient( 90deg, #20007e 0%, #3890fe 100%);
     }
     .navbar-nav .nav-item {
         padding: 4px 0;
