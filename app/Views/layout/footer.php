@@ -1,32 +1,30 @@
-
-<!--shape image start-->
-<div class="shape-img subscribe-wrap">
-<!--    <img src="img/footer-top-shape.png" alt="footer shape" class="img-fluid">-->
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-<!--                <h4 class="color-secondary sub-title" style="width: 100%; !important;">-->
-<!--                    Join our list and be the first to know when we launch-->
-<!--                </h4>-->
-                <form action="#" method="post" class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
-                    <div class="d-flex align-items-center">
-                        <input type="text" class="form-control input" id="email-footer" name="email"
-                               placeholder="info@yourdomain.com">
-                        <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
 <!--shape image end-->
 
 <!--footer section start-->
 <footer class="footer-section">
 
     <!--footer top start-->
-    <div class="footer-top pt-150 background-img-2"
+    <div class="footer-top pt-4 background-img-2"
          style="background: url('img/footer-bg.png')no-repeat center top / cover">
+        <div class="container pb-100 mb-5">
+            <div class="row justify-content-center">
+                <h4 class="sub-title" style="color: #fff;">
+                    Notarization And Business Closing Transactions, Digitized
+                </h4>
+                <p style="width: 100%; !important; text-align: center; color: #fff" class="">
+                    Join our list and be the first to know when we launch
+                </p>
+                <div class="col-md-6">
+                    <form action="#" method="post" class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
+                        <div class="d-flex align-items-center">
+                            <input type="text" class="form-control input" id="email-footer" name="email"
+                                   placeholder="info@yourdomain.com">
+                            <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
@@ -102,15 +100,11 @@
                                     </li>
                                     <li class="mb-2 d-flex align-items-center">
                                         <span class="ti-mobile mr-2"></span>
-                                        <a href="tel:+61283766284"> +61 2 8376 6284</a>
+                                        <a href="tel:+2349131585399">+234-913-1585-399</a>
                                     </li>
                                     <li class="mb-2 d-flex align-items-center">
                                         <span class="ti-email mr-2"></span>
-                                        <a href="mailto:mail@example.com"> mail@example.com</a>
-                                    </li>
-                                    <li class="mb-2 d-flex align-items-center">
-                                        <span class="ti-world mr-2"></span>
-                                        <a href="#"> www.yourdomain.com</a>
+                                        <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a>
                                     </li>
                                 </ul>
                             </div>

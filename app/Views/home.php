@@ -768,16 +768,20 @@
                 <div class="col-md-5">
                     <div class="section-heading">
                         <h2>Contact Us</h2>
+<!--                        <p>-->
+<!--                            We’re here to help and answer any question you might have.-->
+<!--                        </p>-->
                         <p>
-                            We’re here to help and answer any question you might have.
+                            For further information, do not hesitate to reach out.
                         </p>
                     </div>
                     <div class="footer-address">
-                        <h6><strong>Head Office</strong></h6>
-                        <p>121 King St, Melbourne VIC 3000, Australia</p>
+<!--                        <h6><strong>Head Office</strong></h6>-->
+<!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
                         <ul>
-                            <li><span>Phone: +61 2 8376 6284</span></li>
-                            <li><span>Email : <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></span>
+                            <li><span>Phone: <a href="tel:+2349131585399">+234-913-1585-399</a></span></li>
+                            <li>
+                                <span>Email : <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a></span>
                             </li>
                         </ul>
                     </div>

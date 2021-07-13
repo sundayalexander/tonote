@@ -862,8 +862,8 @@ span.sub-title{
 /*subscribe form footer*/
 
 .subscribe-form-footer{
-    position: absolute;
-    top: 8px;
+    /*position: absolute;*/
+    /*top: 8px;*/
     width: 100%;
 }
 
