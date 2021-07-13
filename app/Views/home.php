@@ -1,471 +1,697 @@
-<!--end header-->
-<!--start home area-->
-<section id="home-area" class="bg-2" data-scroll-index="0" xmlns="http://www.w3.org/1999/html">
-    <div class="container">
-        <div class="row">
-            <!--start caption-->
-            <div class="col-lg-7 col-md-8">
-                <div class="caption two d-table" style="padding-top: 180">
-                    <div class="d-table-cell align-middle">
-                        <h1 class="mb-3 pr-1">
-                            A convenient and remote way of closing transactions
-                        </h1>
-                        <h4 class="text-dark font-open-sans">
-                            ToNote is a legally binding and fully remote way to sign, notarize and share
-                            documents with ease.
-                        </h4>
-                        <h4 class="text-dark font-open-sans mt-4">
-                            <strong><em>Be the first to know when we launch.</em></strong>
-                        </h4>
-                        <div class="caption-btns v2 mt-2">
-                            <a class="bg ml-0" href=""><strong>Sign Up</strong></a>
+<div class="main">
+
+    <!--hero section start-->
+    <section class="hero-section hero-section-3 ptb-100">
+        <!--animated circle shape start-->
+        <div class="circles">
+            <div class="point animated-point-1"></div>
+            <div class="point animated-point-2"></div>
+            <div class="point animated-point-3"></div>
+            <div class="point animated-point-4"></div>
+            <div class="point animated-point-5"></div>
+            <div class="point animated-point-6"></div>
+        </div>
+        <!--animated circle shape end-->
+        <div class="container" id="animation-area-1">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+                    <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
+                        <span class="text-uppercase color-secondary font-weight-bold">Best Design Quality</span>
+                        <h1 class="font-weight-bold">We Build Best Apps that Users Love</h1>
+                        <p class="lead">Progressively fashion impactful synergy after covalent quality vectors.
+                            Phosfluorescently administrate highly efficient e-business without 24/7 partnerships. </p>
+                        <div class="action-btn mt-4">
+                            <a href="#" class="btn solid-btn">Get our Services</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-9 col-md-7 col-lg-5 offset-xl-1 align-self-sm-end">
+                    <div class="hero-img position-relative">
+                        <div class="image-bg-positioning">
+                            <img src="img/app-product.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="animation-item d-none d-md-block d-lg-block">
+                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">
+                                <p class="gr-text-11 mb-0 text-mirage-2">“A better way to manage your sales, team,
+                                    clients.”</p>
+                                <div class="small-card-img ml-3">
+                                    <img src="img/team-2.jpg" alt="" width="80px" class="rounded-circle img-fluid">
+                                </div>
+                            </div>
+                            <div class="p-4 w-75 rounded-custom d-flex secondary-bg hero-animated-card-2">
+                                <div class="small-card-img mr-3 text-white">
+                                    <img src="img/team-5.jpg" alt="" width="80px" class="rounded-circle img-fluid">
+                                </div>
+                                <p class="gr-text-11 mb-0 text-white">“Ensuring the best return on investment for
+                                    business”</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!--end caption-->
         </div>
-    </div>
-</section>
-<!--start home area-->
-<!--start core feature area-->
+    </section>
+    <!--hero section end-->
 
-<!--end core feature area-->
-<!--start about area-->
-<section id="about-area" class="bg-3" data-scroll-index="1">
-    <div class="container">
-        <div class="row">
-            <!--start about content-->
-            <div class="col-md-6 pr-lg-5">
-                <div class="about-cont mt-0">
-                    <h2>Become An E-Notary Public</h2>
-                    <p>
-                        ToNote securely connects Notaries to a large network of potential clients with our remote
-                        online notarization platform.
-
-                    </p>
-                    <p>
-                        Connect via your internet enabled device, anywhere and anytime.
-                    </p>
-
-                    <div class="plan-btn two mb-5">
-                        <a href="">Learn More</a>
+    <section class="pb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                    <div class="single-fact p-3 text-center">
+                        <h3 class="title display-3 font-weight-bolder">50K</h3>
+                        <p class="mb-0">People are already reading this book and improving!</p>
                     </div>
                 </div>
-
+                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                    <div class="single-fact p-3 text-center">
+                        <h3 class="title display-3 font-weight-bolder">96% </h3>
+                        <p class="mb-0">Satisfaction rate comes from our awesome customers.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">
+                    <div class="single-fact p-3 text-center">
+                        <h3 class="title display-3 font-weight-bolder">4.9</h3>
+                        <p class="mb-0">Average customer ratings we have got all over internet.</p>
+                    </div>
+                </div>
             </div>
-            <!--end about content-->
+        </div>
+    </section>
 
-            <div class="col-md-6 bg-white box-shadow pt-4">
-                <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
-                <style type="text/css">
-                    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                    .contact-form form input {
-                        height: 55px;
-                        border: 0;
-                        border-bottom: 1px solid #e9e9ea;
-                        border-radius: 0;
-                        font-family: 'Open Sans', sans-serif;
-                        font-size: 14px;
-                        background-color: transparent
-                    }
-                    .contact-form form .button{
-                        cursor: pointer;
-                    }
-                    #mc_embed_signup div.mce_inline_error{
-                        color: #ff0000;
-                        margin: 0 0 1em 0;
-                        padding: 5px 10px;
-                        background-color: transparent;
-                        font-weight: normal;
-                        z-index: 1;
-                    }
-                    /*#mce-success-response{*/
-                    /*    color: #036503;*/
-                    /*}*/
+    <!--about us section start-->
+    <section id="about" class="about-us ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-md-4">
+                    <div class="about-content-right">
+                        <img src="img/image-15.png" alt="about us" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <div class="about-content-left section-heading">
+                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>
+                        <h2>Use Our Apps
+                            to Manage Everything Your Business</h2>
 
-                </style>
-                <h3 class="text-center mt-4 mb-4">Become A Remote Online Notary</h3>
-                <div id="mc_embed_signup" class="contact-form two pb-3">
-
-                    <form action="https://gmail.us6.list-manage.com/subscribe/post?u=51935ac35559b859a69d757cf&amp;id=c8830e3ab5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                        <div id="mc_embed_signup_scroll">
-                            <div class="mc-field-group form-group">
-                                <input type="email" placeholder="Email *" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                        <div class="single-feature mb-4 mt-5">
+                            <div class="icon-box-wrap d-flex align-items-center mb-2">
+                                <div class="mr-3 icon-box">
+                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">
+                                </div>
+                                <p class="mb-0">Proactively syndicate open-source e-markets after low-risk high-yield
+                                    synergy. Professionally
+                                    simplify visionary technology.</p>
                             </div>
-                            <div class="mc-field-group form-group">
-                                <input type="text" value="" name="FNAME" class="required form-control" id="mce-FNAME" placeholder="First Name*" required>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <div class="mr-3 icon-box">
+                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">
+                                </div>
+                                <p class="mb-0">Intrinsicly aggregate cutting-edge internal or "organic" sources through
+                                    pandemic manufactured products. Synergistically.</p>
                             </div>
-                            <div class="mc-field-group form-group">
-                                <!--                                <label for="mce-LNAME">Last Name </label>-->
-                                <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Last Name*" required>
+                            <p></p>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <div class="mr-3 icon-box">
+                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">
+                                </div>
+                                <p class="mb-0">Completely administrate empowered e-tailers after extensive experiences.
+                                    Holisticly leverage existing quality networks.</p>
                             </div>
-                            <label for="mce-MMERGE6">Do you have a Traditional Notary Certificate? </label>
-                            <div class="mc-field-group form-group">
-                                <select name="MMERGE6" class="required form-control" id="mce-MMERGE6">
-                                    <!--                                    <option value=""></option>-->
-                                    <option value="YES">YES</option>
-                                    <option value="NO">NO</option>
+                            <p></p>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <div class="mr-3 icon-box">
+                                    <img src="img/image-icon-4.png" alt="icon image" class="img-fluid">
+                                </div>
+                                <p class="mb-0">Intrinsicly incentivize functionalized metrics whereas go forward
+                                    networks. Collaboratively fabricate clicks-and-mortar intellectual.</p>
+                            </div>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--about us section end-->
 
-                                </select>
-                            </div>
-                            <div id="mce-responses" class="clear">
-                                <div class="response text-danger" id="mce-error-response" style="display:none"></div>
-                                <div class="response text-success" id="mce-success-response" style="display:none"></div>
-                            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_51935ac35559b859a69d757cf_c8830e3ab5" tabindex="-1" value=""></div>
+    <!--features section start-->
+    <div id="features" class="feature-section ptb-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Best features</span>
+                        <h2>Easy Process with Best Features</h2>
+                        <p>Objectively deliver professional value with diverse web-readiness.
+                            Collaboratively transition wireless customer service without goal-oriented catalysts for
+                            change. Collaboratively.</p>
 
-                            <div class="clear">
-                                <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
-                                       class="button"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!--feature new style start-->
+            <div class="row row-grid align-items-center">
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-1 rounded-circle">
+                                <span class="ti-face-smile"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Responsive web design</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-2 rounded-circle">
+                                <span class="ti-vector"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Loaded with features</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-3 rounded-circle">
+                                <span class="ti-headphone-alt"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Friendly online support</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="position-relative" style="z-index: 10;">
+                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-layout-media-right"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Free updates forever</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-5 rounded-circle">
+                                <span class="ti-layout-cta-right"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Built with Sass</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-6 rounded-circle">
+                                <span class="ti-palette"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Infinite colors</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--feature new style end-->
+        </div>
+    </div>
+    <!--features section end-->
+
+
+    <!--our video promo section start-->
+    <section class="video-promo ptb-100 background-img"
+             style="background: url('img/hero-bg-1.jpg')no-repeat center center / cover">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="video-promo-content mt-4 text-center">
+                        <a href="https://www.youtube.com/watch?v=9No-FiEInLA"
+                           class="popup-youtube video-play-icon d-inline-block"><span
+                                    class="ti-control-play"></span></a>
+                        <h5 class="mt-4 text-white">Watch video overview</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--our video promo section end-->
+
+    <!--our pricing packages section start-->
+    <section id="pricing" class="package-section ptb-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Our Pricing Package</span>
+                        <h2>Affordable Pricing and Packages Choose your Best One</h2>
+                        <p>
+                            Distinctively brand cutting-edge imperatives through synergistic strategize orthogonal
+                            relationships whereas infrastructures customize low-risk high-yield processes rather than
+                            user friendly.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md">
+                    <div class="card text-center single-pricing-pack p-5">
+                        <h5 class="mb-2">Basic</h5>
+                        <div class="pricing-img mt-3 mb-4">
+                            <img src="img/basic.svg" alt="pricing img" class="img-fluid">
+                        </div>
+
+                        <div class="card-body p-0">
+                            <ul class="list-unstyled text-sm pricing-feature-list">
+                                <li>5 Users access same time</li>
+                                <li>Integrated eCommerce</li>
+                                <li>Customization interface</li>
+                                <li>Weekly updated</li>
+                                <li>24/7 Phone Support</li>
+                                <li>Event Analytics</li>
+                            </ul>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="h1 text-center mb-0 color-secondary">$<span
+                                            class="price font-weight-bolder">29</span></div>
+                            </div>
+                            <a href="#" class="btn outline-btn" target="_blank">Purchase now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md">
+                    <div class="card text-center popular-price single-pricing-pack p-5">
+                        <h5 class="mb-2">Standard</h5>
+                        <div class="pricing-img mt-3 mb-4">
+                            <img src="img/standard.svg" alt="pricing img" class="img-fluid">
+                        </div>
+
+                        <div class="card-body p-0">
+                            <ul class="list-unstyled text-sm pricing-feature-list">
+                                <li>10 Users access same time</li>
+                                <li>Integrated eCommerce</li>
+                                <li>Customization interface</li>
+                                <li>Daily updated</li>
+                                <li>24/7 Phone Support</li>
+                                <li>Event Analytics</li>
+                            </ul>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="h1 text-center mb-0 color-secondary">$<span
+                                            class="price font-weight-bolder">145</span></div>
+                            </div>
+                            <a href="#" class="btn solid-btn" target="_blank">Purchase now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md">
+                    <div class="card text-center single-pricing-pack p-5">
+                        <h5 class="mb-2">Unlimited</h5>
+                        <div class="pricing-img mt-3 mb-4">
+                            <img src="img/unlimited.svg" alt="pricing img" class="img-fluid">
+                        </div>
+
+                        <div class="card-body p-0">
+                            <ul class="list-unstyled text-sm pricing-feature-list">
+                                <li>20 Users access same time</li>
+                                <li>Integrated eCommerce</li>
+                                <li>Fully Customization interface</li>
+                                <li>Free updated</li>
+                                <li>24/7 Phone Support</li>
+                                <li>Event Analytics</li>
+                            </ul>
+                            <div class="py-4 border-0 pricing-header">
+                                <div class="h1 text-center mb-0 color-secondary">$<span
+                                            class="price font-weight-bolder">249</span></div>
+                            </div>
+                            <a href="#" class="btn outline-btn" target="_blank">Purchase now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5 text-center">
+                <p class="mb-2">If you need custom services or Need more? <a href="#" class="color-secondary">
+                        Contact us
+                    </a></p>
+            </div>
+        </div>
+    </section>
+    <!--our pricing packages section end-->
+
+    <!--screenshots section start-->
+    <section id="screenshots" class="screenshots-section ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center">
+                        <span class="text-uppercase color-secondary sub-title">App Screenshots</span>
+                        <h2>App Screenshots Looks Awesome</h2>
+                        <p>Credibly synthesize multimedia based networks vis-a-vis re-engineer enterprise-wide
+                            imperatives whereas fully tested web-readiness. Continually leverage existing worldwide
+                            interfaces </p>
+                    </div>
+                </div>
+            </div>
+            <!--start app screen carousel-->
+            <div class="screen-slider-content mt-5">
+                <div class="screenshot-frame"></div>
+                <div class="screen-carousel owl-carousel owl-theme dot-indicator">
+                    <img src="img/01.png" class="img-fluid" alt="screenshots">
+                    <img src="img/02.png" class="img-fluid" alt="screenshots">
+                    <img src="img/03.png" class="img-fluid" alt="screenshots">
+                    <img src="img/04.png" class="img-fluid" alt="screenshots">
+                    <img src="img/05.png" class="img-fluid" alt="screenshots">
+                    <img src="img/06.png" class="img-fluid" alt="screenshots">
+                </div>
+            </div>
+            <!--end app screen carousel-->
+
+        </div>
+    </section>
+    <!--screenshots section end-->
+
+    <!--our blog section start-->
+    <section id="blog" class="our-blog-section ptb-100 primary-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="section-heading mb-5 text-white">
+                        <h2 class="text-white">Our Latest News</h2>
+                        <p>
+                            Enthusiastically drive revolutionary opportunities before emerging leadership. Distinctively
+                            transform tactical methods of empowerment via resource sucking core.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="single-blog-card card border-0 shadow-sm white-bg">
+                        <span class="category position-absolute badge badge-pill badge-primary">Lifestyle</span>
+                        <img src="img/blog/1.jpg" class="card-img-top position-relative" alt="blog">
+                        <div class="card-body">
+                            <div class="post-meta mb-2">
+                                <ul class="list-inline meta-list">
+                                    <li class="list-inline-item">Jan 21, 2019</li>
+                                    <li class="list-inline-item"><span>45</span> Comments</li>
+                                    <li class="list-inline-item"><span>10</span> Share</li>
+                                </ul>
+                            </div>
+                            <h3 class="h5 card-title"><a href="#">Appropriately productize fully</a></h3>
+                            <p class="card-text">Some quick example text to build on the card title and make up the
+                                bulk.</p>
+                            <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-blog-card card border-0 shadow-sm white-bg">
+                        <span class="category position-absolute badge badge-pill badge-danger">Technology</span>
+                        <img src="img/blog/2.jpg" class="card-img-top position-relative" alt="blog">
+                        <div class="card-body">
+                            <div class="post-meta mb-2">
+                                <ul class="list-inline meta-list">
+                                    <li class="list-inline-item">May 26, 2019</li>
+                                    <li class="list-inline-item"><span>30</span> Comments</li>
+                                    <li class="list-inline-item"><span>5</span> Share</li>
+                                </ul>
+                            </div>
+                            <h3 class="h5 card-title"><a href="#">Quickly formulate backend</a></h3>
+                            <p class="card-text">Synergistically engage effective ROI after customer directed
+                                partnerships.</p>
+                            <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-blog-card card border-0 shadow-sm white-bg">
+                        <span class="category position-absolute badge badge-pill badge-info">Science</span>
+                        <img src="img/blog/3.jpg" class="card-img-top" alt="blog">
+                        <div class="card-body">
+                            <div class="post-meta mb-2">
+                                <ul class="list-inline meta-list">
+                                    <li class="list-inline-item">Apr 25, 2019</li>
+                                    <li class="list-inline-item"><span>41</span> Comments</li>
+                                    <li class="list-inline-item"><span>30</span> Share</li>
+                                </ul>
+                            </div>
+                            <h3 class="h5 card-title"><a href="#">Objectively extend extensive</a></h3>
+                            <p class="card-text">Holisticly mesh open-source leadership rather than proactive
+                                users. </p>
+                            <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--our blog section end-->
+
+    <!--our team section start-->
+    <section id="team" class="team-member-section ptb-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7 col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Lovely Team</span>
+                        <h2>Our Team Members</h2>
+                        <p>
+                            Following reasons show advantages of adding AppCo to your lead pages, foster market
+                            positioning products without demos and checkouts.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-team-member position-relative">
+                        <div class="team-image">
+                            <img src="img/team-4.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                        </div>
+                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                            <h5 class="mb-0">Edna Mason</h5>
+                            <h6>Senior Designer</h6>
+                            <ul class="list-inline team-social social-icon mt-4 text-white">
+                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-team-member position-relative">
+                        <div class="team-image">
+                            <img src="img/team-1.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                        </div>
+                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                            <h5 class="mb-0">Edna Mason</h5>
+                            <h6>Senior Designer</h6>
+                            <ul class="list-inline team-social social-icon mt-4 text-white">
+                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-team-member position-relative">
+                        <div class="team-image">
+                            <img src="img/team-2.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                        </div>
+                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                            <h5 class="mb-0">Edna Mason</h5>
+                            <h6>Senior Designer</h6>
+                            <ul class="list-inline team-social social-icon mt-4 text-white">
+                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-team-member position-relative">
+                        <div class="team-image">
+                            <img src="img/team-3.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                        </div>
+                        <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                            <h5 class="mb-0">Edna Mason</h5>
+                            <h6>Senior Designer</h6>
+                            <ul class="list-inline team-social social-icon mt-4 text-white">
+                                <li class="list-inline-item"><a href="#"><span class="ti-facebook"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-twitter"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-github"></span></a></li>
+                                <li class="list-inline-item"><a href="#"><span class="ti-dribbble"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--our team section end-->
+
+
+    <!--contact us section start-->
+    <section id="contact" class="contact-us gray-light-bg ptb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 pb-3 message-box d-none">
+                    <div class="alert alert-danger"></div>
+                </div>
+                <div class="col-md-5">
+                    <div class="section-heading">
+                        <h2>Contact With Us</h2>
+                        <p>It's very easy to get in touch with us. Just use the contact form or pay us a
+                            visit for a coffee at the office. Dynamically innovate competitive technology after an
+                            expanded array of leadership.</p>
+                    </div>
+                    <div class="footer-address">
+                        <h6><strong>Head Office</strong></h6>
+                        <p>121 King St, Melbourne VIC 3000, Australia</p>
+                        <ul>
+                            <li><span>Phone: +61 2 8376 6284</span></li>
+                            <li><span>Email : <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <form action="#" method="POST" id="contactForm" class="contact-us-form" novalidate="novalidate">
+                        <h5>Reach us quickly</h5>
+                        <div class="row">
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="name" id="name"
+                                           placeholder="Enter name"
+                                           required="required">
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email"
+                                           placeholder="Enter email"
+                                           required="required">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" name="phone" value="" class="form-control" id="phone"
+                                           placeholder="Your Phone">
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" name="company" value="" size="40" class="form-control"
+                                           id="company" placeholder="Your Company">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea name="message" id="message" class="form-control" rows="7" cols="25"
+                                              placeholder="Message"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 mt-3">
+                                <button type="submit" class="btn solid-btn" id="btnContactUs">
+                                    Send Message
+                                </button>
+                            </div>
                         </div>
                     </form>
+                    <p class="form-message"></p>
                 </div>
-                <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[6]='MMERGE6';ftypes[6]='dropdown';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-                <!--End mc_embed_signup-->
             </div>
         </div>
-    </div>
-    <!--end app mocup-->
-</section>
-<!--end about area-->
-<!--start video area-->
-<!--<section id="video-area" class="bg-2">-->
-<!--    <div class="video-cont d-table text-center">-->
-<!--        <div class="d-table-cell align-middle">-->
-<!--            <div class="video-overlay"></div>-->
-<!--            <a class="popup-video" href="https://www.youtube.com/watch?v=om4qTKMuPPs"><i class="icofont-ui-play"></i></a>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-md-6">-->
-<!--                <div class="video title">-->
-<!--                    <h5>Explore Amazing features</h5>-->
-<!--                    <h2>That will boost your productivity</h2>-->
-<!--                    <p>With our wide range of features, you can create a custom app no matter what your niche: restaurant, Realtor, small business,rock band, and all the rest!</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-6 col-md-8">-->
-<!--                <div class="counter title">-->
-<!--                    <h5 class="text-light">Take a Look at our</h5>-->
-<!--                    <h2 class="text-white">Some Facts</h2>-->
-<!--                    <p>Arribo enables all its users with constant support and wide set of tools to develop and grow their businesses and projects.some of our favorite facts that you might not have known.-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="row">-->
-<!--            start counter single-->
-<!--            <div class="col-md-3 col-6">-->
-<!--                <div class="counter-single">-->
-<!--                    <div class="icon">-->
-<!--                        <img src="assets/images/icon-like-1.png" class="img-fluid" alt="">-->
-<!--                    </div>-->
-<!--                    <h2>5,289</h2>-->
-<!--                    <p>5 star Rating</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            end counter single-->
-<!--            start counter single-->
-<!--            <div class="col-md-3 col-6">-->
-<!--                <div class="counter-single">-->
-<!--                    <div class="icon">-->
-<!--                        <img src="assets/images/icon-user-1.png" class="img-fluid" alt="">-->
-<!--                    </div>-->
-<!--                    <h2>4,188</h2>-->
-<!--                    <p>Happy Users</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            end counter single-->
-<!--            start counter single-->
-<!--            <div class="col-md-3 col-6">-->
-<!--                <div class="counter-single">-->
-<!--                    <div class="icon">-->
-<!--                        <img src="assets/images/icon-cloud-1.png" class="img-fluid" alt="">-->
-<!--                    </div>-->
-<!--                    <h2>9,087</h2>-->
-<!--                    <p>app download</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <!-end counter single-->
-<!--            <!-start counter single-->
-<!--            <div class="col-md-3 col-6">-->
-<!--                <div class="counter-single">-->
-<!--                    <div class="icon">-->
-<!--                        <img src="assets/images/icon-trophy-1.png" class="img-fluid" alt="">-->
-<!--                    </div>-->
-<!--                    <h2>26</h2>-->
-<!--                    <p>Best Awards</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <!-end counter single-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
-<!--end video area-->
+    </section>
+    <!--contact us section end-->
 
-<!--end pricing area-->
-<!--start custom plan area-->
-<section id="custom-plan-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 offset-lg-1">
-                <div class="custom-plan-wrap bg-2 row">
-                    <div class="col-md-8 offset-md-2">
-                        <div class="section-heading text-center">
-                            <h3 class="text-white px-4">
-                                Notarization And Business Closing Transactions, Digitized
-                            </h3>
-                            <p class="text-white">
-                                Join our list and be the first to know when we launch
-                            </p><br/>
-                            <input type="email" class="form-control text-center placeholder-color-white" style="background: transparent; border: 0;
-                            color: white; border-bottom: solid 1px white; outline: unset; border-radius: unset;" placeholder="Email">
-                        </div>
+    <!--client section start-->
+    <section class="client-section ptb-100">
+        <div class="container">
+            <!--clients logo start-->
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Lovely Clients</span>
+                        <h2>Trusted by Companies</h2>
+                        <p>
+                            Rapidiously morph transparent internal develop economically sound core competencies sources
+                            whereas resource sucking
+                            e-business. Conveniently innovate compelling internal.
+                        </p>
                     </div>
-                    <div class="col-lg-12">
-                        <div class="plan-btn two text-center">
-                            <a href="">Join The List</a>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-12">
+                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">
+                        <div class="item single-client">
+                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-6-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-4-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-7-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-2-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
                         </div>
                     </div>
                 </div>
             </div>
+            <!--clients logo end-->
         </div>
-    </div>
-</section>
-<!--end custom plan area-->
-<!--start team area-->
-<!--<section id="team-area" data-scroll-index="4">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">-->
-<!--                <div class="section-heading text-center">-->
-<!--                    <h5>Our creative team</h5>-->
-<!--                    <h2>Meet The Team</h2>-->
-<!--                    <p>Meet the people behind Arribo We are the team of professional analysts, publishing dozens of application. Join us!</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="row">-->
-<!--start team single-->
-<!--            <div class="col-lg-3 col-md-6">-->
-<!--                <div class="team-single text-center">-->
-<!--                    <div class="team-img">-->
-<!--                        <img src="assets/images/team-1.jpg" class="img-fluid" alt="">-->
-<!--                        <div class="team-social two">-->
-<!--                            <ul>-->
-<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="team-info">-->
-<!--                        <h3>Penny Tool</h3>-->
-<!--                        <p>Visual Designer</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--end team single-->
-<!--start team single-->
-<!--            <div class="col-lg-3 col-md-6">-->
-<!--                <div class="team-single text-center">-->
-<!--                    <div class="team-img">-->
-<!--                        <img src="assets/images/team-2.jpg" class="img-fluid" alt="">-->
-<!--                        <div class="team-social two">-->
-<!--                            <ul>-->
-<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="team-info">-->
-<!--                        <h3>Pat Hines</h3>-->
-<!--                        <p>Android Developer</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--end team single-->
-<!--start team single-->
-<!--            <div class="col-lg-3 col-md-6">-->
-<!--                <div class="team-single text-center">-->
-<!--                    <div class="team-img">-->
-<!--                        <img src="assets/images/team-3.jpg" class="img-fluid" alt="">-->
-<!--                        <div class="team-social two">-->
-<!--                            <ul>-->
-<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="team-info">-->
-<!--                        <h3>Donald Huff</h3>-->
-<!--                        <p>iOS Developer</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--end team single-->
-<!--start team single-->
-<!--            <div class="col-lg-3 col-md-6">-->
-<!--                <div class="team-single text-center">-->
-<!--                    <div class="team-img">-->
-<!--                        <img src="assets/images/team-4.jpg" class="img-fluid" alt="">-->
-<!--                        <div class="team-social two">-->
-<!--                            <ul>-->
-<!--                                <li><a href=""><i class="icofont-facebook"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-twitter"></i></a></li>-->
-<!--                                <li><a href=""><i class="icofont-linkedin"></i></a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="team-info">-->
-<!--                        <h3>Angela Moore</h3>-->
-<!--                        <p>Product Strategist</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--end team single-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
-<!--end team area-->
-<!--start testimonial area-->
+    </section>
+    <!--client section start-->
 
-<!--start faq area-->
-<section id="faq-area" class="bg-2" data-scroll-index="2">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-md-8 offset-md-2">
-                <div class="section-heading text-center">
-                    <h5>Take A look</h5>
-                    <h2>Frequently Asked Questions</h2>
-                    <p>
-                        Below you’ll find answers to the most common questions you may have about ToNote and Notary
-                        services. If you still can’t find the answer you’re looking for, leave us a message and we
-                        will respond shortly.
-                    </p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="row">
-            <div class="col-md-7">
-                <div id="accordion" role="tablist">
-                    <!--start faq single-->
-                    <div class="card two">
-                        <div class="card-header active" role="tab" id="faq1">
-                            <h5 class="mb-0">
-                                <a data-toggle="collapse" href="#collapse1" aria-expanded="true" aria-controls="collapse1">Is the Mobile App Secure?</a>
-                            </h5>
-                        </div>
-                        <div id="collapse1" class="collapse show" role="tabpanel" aria-labelledby="faq1" data-parent="#accordion">
-                            <div class="card-body">
-                                <p>Both the Mobile Apps and the Mobile Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone. Once you've installed a Mobile App on your phone, you'll also have the ability to view a map of our offices and payment locations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end faq single-->
-                    <!--start faq single-->
-                    <div class="card two">
-                        <div class="card-header" role="tab" id="faq2">
-                            <h5 class="mb-0">
-                                <a class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false" aria-controls="collapse2">What features does the Mobile App have?</a>
-                            </h5>
-                        </div>
-                        <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="faq2" data-parent="#accordion">
-                            <div class="card-body">
-                                <p>Both the Mobile Apps and the Mobile Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone. Once you've installed a Mobile App on your phone, you'll also have the ability to view a map of our offices and payment locations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end faq single-->
-                    <!--start faq single-->
-                    <div class="card two">
-                        <div class="card-header" role="tab" id="faq3">
-                            <h5 class="mb-0">
-                                <a class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false" aria-controls="collapse3">How do I get the Mobile App for my phone?</a>
-                            </h5>
-                        </div>
-                        <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="faq3" data-parent="#accordion">
-                            <div class="card-body">
-                                <p>Both the Mobile Apps and the Mobile Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone. Once you've installed a Mobile App on your phone, you'll also have the ability to view a map of our offices and payment locations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end faq single-->
-                    <!--start faq single-->
-                    <div class="card two">
-                        <div class="card-header" role="tab" id="faq4">
-                            <h5 class="mb-0">
-                                <a class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false" aria-controls="collapse4">How does Arribo differ from usual apps? </a>
-                            </h5>
-                        </div>
-                        <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="faq4" data-parent="#accordion">
-                            <div class="card-body">
-                                <p>Both the Mobile Apps and the Mobile Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone. Once you've installed a Mobile App on your phone, you'll also have the ability to view a map of our offices and payment locations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end faq single-->
-                </div>
-            </div>
-            <div class="col-md-5">
-                <div class="faq-img">
-                    <img src="assets/images/faq-img-1.png" class="img-fluid" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--end faq area-->
-<!--start contact area-->
-<section id="contact-area" class="bg-2">
-    <div class="container">
-        <div class="row">
-            <!--start section heading-->
-            <div class="col-lg-5 col-md-8">
-                <div class="section-heading">
-                    <h5>Contact us</h5>
-                    <h2>Get In Touch</h2>
-                    <p>
-                        We’re here to help and answer any question you might have.
-                    </p>
-                </div>
-            </div>
-            <!--end section heading-->
-        </div>
-        <div class="row">
-            <!--start contact form-->
-            <div class="col-lg-5 col-md-7">
-                <div class="contact-form two">
-                    <form id="ajax-contact" action="contact.php" method="post">
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Name*" required="required" data-error="name is required.">
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Email*" required="required" data-error="valid email is required.">
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <textarea class="form-control" id="message" name="message" rows="10" placeholder="Message*" required="required" data-error="Please, leave us a message."></textarea>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <button type="submit">SUBMIT NOW</button>
-                        <div class="messages"></div>
-                    </form>
-                </div>
-            </div>
-            <!--end contact form-->
-        </div>
-    </div>
-</section>
-<!--end contact area-->
-<!--start footer-->
+</div>
