@@ -67,10 +67,10 @@
                         <a class="nav-link page-scroll" href="<?php echo route_to('App\Controllers\Home::index'); ?>">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#features">Become a Remote Online Notary</a>
+                        <a class="nav-link page-scroll" href="<?php echo route_to('App\Controllers\Home::index'); ?>#about">Become a Remote Online Notary</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#pricing">FAQ</a>
+                        <a class="nav-link page-scroll" href="<?php echo route_to('App\Controllers\Home::index'); ?>#faq">FAQ</a>
                     </li>
                     <li class="nav-item">
                         <div class="action-btn">

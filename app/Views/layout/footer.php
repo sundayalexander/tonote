@@ -1,15 +1,18 @@
 
 <!--shape image start-->
 <div class="shape-img subscribe-wrap">
-    <img src="img/footer-top-shape.png" alt="footer shape" class="img-fluid">
+<!--    <img src="img/footer-top-shape.png" alt="footer shape" class="img-fluid">-->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">
+<!--                <h4 class="color-secondary sub-title" style="width: 100%; !important;">-->
+<!--                    Join our list and be the first to know when we launch-->
+<!--                </h4>-->
                 <form action="#" method="post" class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
                     <div class="d-flex align-items-center">
                         <input type="text" class="form-control input" id="email-footer" name="email"
                                placeholder="info@yourdomain.com">
-                        <input type="submit" class="button btn solid-btn" id="submit-footer" value="Subscribe">
+                        <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
                     </div>
                 </form>
             </div>
@@ -28,20 +31,30 @@
             <div class="row justify-content-between">
                 <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
-                        <img src="img/logo-white-1x.png" alt="footer logo" width="120" class="img-fluid mb-3">
-                        <p>Holisticly empower premium architectures without value-added ideas. Seamlessly evolve
-                            cross-platform experiences.</p>
+                        <img src="img/logo-white.png" alt="footer logo" width="120" class="img-fluid mb-3">
+                        <p>
+                            ToNote securely connects Notaries to a large network of potential clients with our
+                            remote online notarization platform.
+                        </p>
 
                         <div class="social-list-wrap">
                             <ul class="social-list list-inline list-unstyled">
-                                <li class="list-inline-item"><a href="#" target="_blank" title="Facebook"><span
-                                                class="ti-facebook"></span></a></li>
-                                <li class="list-inline-item"><a href="#" target="_blank" title="Twitter"><span
-                                                class="ti-twitter"></span></a></li>
-                                <li class="list-inline-item"><a href="#" target="_blank"
-                                                                title="Instagram"><span class="ti-instagram"></span></a></li>
-                                <li class="list-inline-item"><a href="#" target="_blank"
-                                                                title="printerst"><span class="ti-pinterest"></span></a></li>
+                                <li class="list-inline-item">
+                                    <a href="https://www.facebook.com/GetToNote" target="_blank" title="Facebook">
+                                        <span class="ti-facebook"></span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://www.linkedin.com/company/gettonote" target="_blank" title="Linkedin">
+                                        <span class="ti-linkedin"></span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://www.instagram.com/mytonote/" target="_blank" title="Instagram">
+                                        <span class="ti-instagram"></span>
+                                    </a>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -50,12 +63,11 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
                             <div class="footer-nav-wrap text-white">
-                                <h5 class="mb-3 text-white">Resources</h5>
+                                <h5 class="mb-3 text-white">Quick Links</h5>
                                 <ul class="list-unstyled">
-                                    <li class="mb-2"><a href="#">Help</a></li>
-                                    <li class="mb-2"><a href="#">Events</a></li>
-                                    <li class="mb-2"><a href="#">Live Support</a></li>
-                                    <li class="mb-2"><a href="#">Open Sources</a></li>
+                                    <li class="mb-2"><a href="#">Home</a></li>
+                                    <li class="mb-2"><a href="#">FAQ</a></li>
+                                    <li class="mb-2"><a href="#">Contact Us</a></li>
                                     <li class="mb-2"><a href="#">Documentation</a></li>
                                 </ul>
                             </div>
@@ -68,13 +80,10 @@
                                         <a href="#">About Us</a>
                                     </li>
                                     <li class="mb-2">
-                                        <a href="#">Careers</a>
+                                        <a href="#">Privacy Policy</a>
                                     </li>
                                     <li class="mb-2">
-                                        <a href="#">Customers</a>
-                                    </li>
-                                    <li class="mb-2">
-                                        <a href="#">Community</a>
+                                        <a href="#">Terms of Use</a>
                                     </li>
                                     <li class="mb-2">
                                         <a href="#">Our Team</a>
@@ -86,16 +95,23 @@
                             <div class="footer-nav-wrap text-white">
                                 <h5 class="mb-3 text-white">Location</h5>
                                 <ul class="list-unstyled support-list">
-                                    <li class="mb-2 d-flex align-items-center"><span class="ti-location-pin mr-2"></span>
+                                    <li class="mb-2 d-flex align-items-center">
+                                        <span class="ti-location-pin mr-2"></span>
                                         121 King Melbourne
                                         <br>Australia 3000
                                     </li>
-                                    <li class="mb-2 d-flex align-items-center"><span class="ti-mobile mr-2"></span> <a
-                                                href="tel:+61283766284"> +61 2 8376 6284</a></li>
-                                    <li class="mb-2 d-flex align-items-center"><span class="ti-email mr-2"></span><a
-                                                href="mailto:mail@example.com"> mail@example.com</a></li>
-                                    <li class="mb-2 d-flex align-items-center"><span class="ti-world mr-2"></span><a
-                                                href="#"> www.yourdomain.com</a></li>
+                                    <li class="mb-2 d-flex align-items-center">
+                                        <span class="ti-mobile mr-2"></span>
+                                        <a href="tel:+61283766284"> +61 2 8376 6284</a>
+                                    </li>
+                                    <li class="mb-2 d-flex align-items-center">
+                                        <span class="ti-email mr-2"></span>
+                                        <a href="mailto:mail@example.com"> mail@example.com</a>
+                                    </li>
+                                    <li class="mb-2 d-flex align-items-center">
+                                        <span class="ti-world mr-2"></span>
+                                        <a href="#"> www.yourdomain.com</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -109,7 +125,7 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-7">
                         <div class="copyright-wrap small-text">
-                            <p class="mb-0 text-white">© ThemeTags Design Agency, All rights reserved</p>
+                            <p class="mb-0 text-white">© ToNote, All rights reserved</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-5">

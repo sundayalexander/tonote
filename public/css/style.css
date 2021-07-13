@@ -199,16 +199,16 @@ strong, b{
     background: #f4f7fa;
 }
 .primary-bg{
-    background: #6730e3;
+    background: #003bb3;
 }
 .secondary-bg{
-    background: #9629e6;
+    background: #014be1;
 }
 .color-primary{
-    color: #6730e3;
+    color: #003bb3;
 }
 .color-secondary{
-    color: #9629e6
+    color: #014be1
 }
 .white-bg{
     background: #ffffff;
@@ -271,8 +271,8 @@ strong, b{
     color: #fff;
     -webkit-box-shadow: 0 5px 12px 0 rgba(67,37,204,.2);
     box-shadow: 0 5px 12px 0 rgba(67,37,204,.2);
-    background: #6730e3;
-    border: 2px solid #6730e3;
+    background: #003bb3;
+    border: 2px solid #003bb3;
     border-radius: 30px;
 }
 
@@ -285,13 +285,13 @@ strong, b{
 
 .outline-btn{
     border-radius: 30px;
-    color: #6730e3;
+    color: #003bb3;
     display: inline-block;
-    border: 2px solid #6730e3;
+    border: 2px solid #003bb3;
 }
 .outline-btn:hover{
     color: #fff;
-    background: #6730e3;
+    background: #003bb3;
     -webkit-box-shadow: 0 20px 30px 0 rgba(67,37,204,.2);
     box-shadow: 0 20px 30px 0 rgba(67,37,204,.2);
 }
@@ -310,7 +310,7 @@ strong, b{
 .google-play-btn{
     background: #ffffff;
     border-color: #ffffff;
-    color: #6730e3;
+    color: #003bb3;
     border-radius: 30px;
 }
 .google-play-btn:hover{
@@ -324,7 +324,7 @@ strong, b{
 }
 .app-store-btn:hover{
     background: #ffffff;
-    color: #6730e3;
+    color: #003bb3;
 }
 
 /*form field css*/
@@ -1396,7 +1396,7 @@ span.sub-title{
     border-radius: 1rem;
 }
 .card.single-promo-card:hover{
-    background: #6730e3;
+    background: #003bb3;
     color: #ffffff;
 }
 .card.single-promo-card:hover  span, .card.single-promo-card:hover h5, .card.single-promo-card:hover p.text-muted{
@@ -1477,7 +1477,7 @@ span.sub-title{
     left: -80px;
     width: 200px;
     height: 200px;
-    background: #9629e6;
+    background: #014be1;
     content: "";
     top: -100px;
     border-radius: 100%;
@@ -1488,7 +1488,7 @@ span.sub-title{
     right: -108px;
     width: 200px;
     height: 200px;
-    background: #6730e3;
+    background: #003bb3;
     content: "";
     bottom: -100px;
     border-radius: 100%;
@@ -1714,7 +1714,7 @@ span.sub-title{
 .icon-box{
     height: 65px;
     width: 65px;
-    color: #9629e6;
+    color: #014be1;
     text-align: center;
     -webkit-box-shadow: 0 4px 15px 0 rgba(52, 27, 159,0.1);
     box-shadow: 0 4px 15px 0 rgba(52, 27, 159, 0.1);
@@ -1786,7 +1786,7 @@ span.sub-title{
     left: 0;
     font-family: 'themify';
     font-weight: 400;
-    color: #9629e6;
+    color: #014be1;
 }
 
 /*feature new style*/
@@ -1828,11 +1828,11 @@ span.sub-title{
 }
 .feature-tab li a.nav-link.active, .feature-tab li a.nav-link:hover{
    border-color: #ebebeb;
-    background: #6730e3;
+    background: #003bb3;
     color: #ffffff;
 }
 .feature-tab li a.nav-link.active{
-    background: #6730e3;
+    background: #003bb3;
     color: #ffffff;
 }
 .feature-tab li a.nav-link.active span, .feature-tab li a.nav-link:hover span{
@@ -1853,7 +1853,7 @@ span.sub-title{
     display: block;
     font-size: 25px;
     margin-bottom: 10px;
-    color: #9629e6;
+    color: #014be1;
 }
 .feature-tab-content{
     margin-top: 25px;
@@ -1931,7 +1931,7 @@ span.sub-title{
     -webkit-animation: ripple-white 1s linear infinite;
     animation: ripple-white 1s linear infinite;
     -webkit-transition: .5s;
-    background-color: #9629e6;
+    background-color: #014be1;
 }
 @-webkit-keyframes ripple-white {
     0% {
@@ -1996,7 +1996,7 @@ span.sub-title{
 .single-counter span{
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
-    color: #9629e6;
+    color: #014be1;
     font-size: 25px;
     line-height: 28px;
 }
@@ -2018,7 +2018,7 @@ span.sub-title{
 }
 .single-pricing-pack:hover {
     box-shadow: 0 .2em .5rem rgba(31,45,61,.125)!important;
-    border-top: 4px solid #9629e6;
+    border-top: 4px solid #014be1;
 }
 .single-pricing-pack .card-body {
     color: rgb(132, 146, 166);
@@ -2055,7 +2055,7 @@ span.sub-title{
 /*price new style*/
 .popular-price{
     box-shadow: 0 .2em .5rem rgba(31,45,61,.125)!important;
-    border-top: 4px solid #9629e6 !important;
+    border-top: 4px solid #014be1 !important;
 }
 
 
@@ -2104,7 +2104,7 @@ span.sub-title{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     font-family: themify;
-    color: #9629e6;
+    color: #014be1;
 }
 
 /*sccreenshot css*/
@@ -2217,7 +2217,7 @@ span.sub-title{
     outline: none;
 }
 .dot-indicator.owl-theme button.owl-dot.active span{
-    background: #9629e6;
+    background: #014be1;
     border: 2px solid transparent;
     -webkit-transform: scale(0.8);
     transform: scale(0.8);
@@ -2246,10 +2246,10 @@ span.sub-title{
 .arrow-indicator.owl-theme .owl-nav [class*=owl-] span{
     font-size: 20px;
     line-height: 20px;
-    color: #9629e6;
+    color: #014be1;
 }
 .arrow-indicator.owl-theme .owl-nav [class*=owl-]:hover{
-    background: #9629e6 !important;
+    background: #014be1 !important;
 }
 .arrow-indicator.owl-theme .owl-nav [class*=owl-]:hover span{
     color: #ffffff !important;
@@ -2310,7 +2310,7 @@ span.sub-title{
     color: #565656;
 }
 .list-creative .address::before {
-    background: #9629e6;
+    background: #014be1;
 }
 .list-creative .phone::before {
     background: #202877;
@@ -2323,7 +2323,7 @@ span.sub-title{
     text-decoration: none;
 }
 .list-terms-medium a:hover {
-    color: #9629e6;
+    color: #014be1;
 }
 
 .google-map{
@@ -2652,7 +2652,7 @@ span.sub-title{
     border-radius: .375rem;
 }
 .form-control:focus{
-    border-color: #6730e3;
+    border-color: #003bb3;
 }
 .btn.border-radius{
     border-radius: 4px;
@@ -2688,7 +2688,7 @@ span.sub-title{
 
 .input-icon span{
     padding: 18px 15px;
-    border-left: 2px solid #6730e3;
+    border-left: 2px solid #003bb3;
     position: absolute;
     font-size: 18px;
     height: calc(3.4rem + 2px);
@@ -3125,7 +3125,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
     width: 100%;
 }
 .offer-tag{
-    background: #6730e3;
+    background: #003bb3;
     padding: 30px;
     border-radius: 10px 60px;
     position: absolute;
@@ -3231,4 +3231,39 @@ button, [type="button"], [type="reset"], [type="submit"] {
         -webkit-transform: translateX(0) translateY(5px);
         transform: translateX(0) translateY(5px)
     }
+}
+
+li.nav-item .solid-btn, .white-bg.affix ul li .solid-btn{
+    color: #fff !important;
+    -webkit-box-shadow: 0 5px 12px 0 rgba(67,37,204,.2);
+    box-shadow: 0 5px 12px 0 rgba(67,37,204,.2);
+    background: #003bb3;
+    border: 2px solid #003bb3;
+    border-radius: 30px;
+    padding: 6px 25px;
+    margin-top: -5px;
+}
+li.nav-item .solid-btn:hover, .white-bg.affix ul li .solid-btn:hover{
+    background: transparent;
+    color: #202877 !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.box-shadow{
+    box-shadow: 0 5px 12px 0 rgba(67,37,204,.2);
+    border-radius: 5px;
+}
+
+.mailchimp-form form input.form-control {
+    height: 55px;
+    border: 0;
+    border-bottom: 1px solid #e9e9ea;
+    border-radius: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    background-color: transparent
+}
+
+.mailchimp-form  form .button {
+    cursor: pointer;
 }
