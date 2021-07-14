@@ -24,11 +24,11 @@
                             ToNote is a legally binding and fully remote way to sign, notarize and share
                             documents with ease.
                         </p>
-                        <span class="text-uppercase color-secondary font-weight-bold" style="font-style: italic;">
-                           <strong><em>Be the first to know when we launch.</em></strong>
+                        <span class="color-secondary font-weight-bold">
+                           <strong>- Be The First To Know When We Launch</strong>
                         </span>
                         <div class="action-btn mt-4">
-                            <a href="#join-list" class="btn solid-btn">Sign Up</a>
+                            <a href="#join-list" class="btn solid-btn">Join The List</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,54 @@
                 <!--                    </div>-->
                 <!--                </div>-->
 
-                <div class="col-md-6 bg-white box-shadow">
+                <div class="col-md-5">
+                    <div class="about-content-left section-heading">
+                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
+                        <h3>
+                            Become An E-Notary Public
+                        </h3>
+
+                        <div class="single-feature mb-4 mt-5">
+                            <div class="icon-box-wrap d-flex align-items-center mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    ToNote securely connects Notaries to a large network of potential clients with our
+                                    remote online notarization platform.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    Connect via your internet enabled device, anywhere and anytime.
+                                </p>
+                            </div>
+                            <p></p>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <!--                                <div class="action-btn mt-4">-->
+                                <!--                                    <a href="#" class="btn solid-btn">LEARN MORE</a>-->
+                                <!--                                </div>-->
+                            </div>
+                            <p></p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <h4 class="text-center mt-4 mb-4 color-secondary sub-title">
+                        Sign Up To Become an E-Notary Public
+                    </h4>
                     <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
                     <style type="text/css">
                         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -114,10 +161,7 @@
                         /*}*/
 
                     </style>
-                    <h4 class="text-center mt-4 mb-4 color-secondary sub-title">
-                        Become A Remote Online Notary
-                    </h4>
-                    <div id="mc_embed_signup" class="mailchimp-form two pb-3">
+                    <div id="mc_embed_signup" class=" two pb-3">
 
                         <form action="https://gmail.us6.list-manage.com/subscribe/post?u=51935ac35559b859a69d757cf&amp;id=c8830e3ab5"
                               method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
@@ -181,50 +225,6 @@
                         }(jQuery));
                         var $mcj = jQuery.noConflict(true);</script>
                     <!--End mc_embed_signup-->
-                </div>
-
-                <div class="col-md-5">
-                    <div class="about-content-left section-heading">
-                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
-                        <h3>
-                            Become An E-Notary Public
-                        </h3>
-
-                        <div class="single-feature mb-4 mt-5">
-                            <div class="icon-box-wrap d-flex align-items-center mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    ToNote securely connects Notaries to a large network of potential clients with our
-                                    remote online notarization platform.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    Connect via your internet enabled device, anywhere and anytime.
-                                </p>
-                            </div>
-                            <p></p>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <div class="action-btn mt-4">
-                                    <a href="#" class="btn solid-btn">LEARN MORE</a>
-                                </div>
-                            </div>
-                            <p></p>
-                        </div>
-
-                    </div>
                 </div>
             </div>
         </div>
@@ -357,121 +357,22 @@
     <!--promo section end-->
 
 
-    <!--features section start-->
-    <!--    <div id="features" class="gray-light-bg feature-section ptb-100">-->
-    <!--        <div class="container">-->
-    <!--            <div class="row justify-content-center">-->
-    <!--                <div class="col-md-8">-->
-    <!--                    <div class="section-heading text-center mb-5">-->
-    <!--                        <span class="text-uppercase color-secondary sub-title">Best features</span>-->
-    <!--                        <h2>Easy Process with Best Features</h2>-->
-    <!--                        <p>Objectively deliver professional value with diverse web-readiness.-->
-    <!--                            Collaboratively transition wireless customer service without goal-oriented catalysts for-->
-    <!--                            change. Collaboratively.</p>-->
-    <!---->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!---->
-
-    <!--            <div class="row row-grid align-items-center">-->
-    <!--                <div class="col-lg-4">-->
-    <!--                    <div class="d-flex align-items-start mb-5">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-1 rounded-circle">-->
-    <!--                                <span class="ti-face-smile"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Responsive web design</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="d-flex align-items-start mb-5">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-2 rounded-circle">-->
-    <!--                                <span class="ti-vector"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Loaded with features</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="d-flex align-items-start">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-3 rounded-circle">-->
-    <!--                                <span class="ti-headphone-alt"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Friendly online support</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="col-lg-4">-->
-    <!--                    <div class="position-relative" style="z-index: 10;">-->
-    <!--                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="col-lg-4">-->
-    <!--                    <div class="d-flex align-items-start mb-5">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-4 rounded-circle">-->
-    <!--                                <span class="ti-layout-media-right"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Free updates forever</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="d-flex align-items-start mb-5">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-5 rounded-circle">-->
-    <!--                                <span class="ti-layout-cta-right"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Built with Sass</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="d-flex align-items-start">-->
-    <!--                        <div class="pr-4">-->
-    <!--                            <div class="icon icon-shape icon-color-6 rounded-circle">-->
-    <!--                                <span class="ti-palette"></span>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                        <div class="icon-text">-->
-    <!--                            <h5>Infinite colors</h5>-->
-    <!--                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--features section end-->
-
-
     <!--our video promo section start-->
     <section id="join-list" class="ptb-100" style=" background: -webkit-gradient(linear, right top, left top, from(#2e19a7), to(#2291f2));
     background: linear-gradient(to left, #2e19a7, #2291f2);">
 
         <div class="container mb-5">
             <div class="row justify-content-center">
-                <h4 class="sub-title text-white">
+                <h4 class="sub-title text-white text-center">
                     Notarization And Business Closing Transactions, Digitized
                 </h4>
-                <p style="width: 100%; !important; text-align: center;" class="text-white">
+                <p style="width: 100%; !important; text-align: center;" class="text-white text-center">
                     Join our list and be the first to know when we launch
                 </p>
 
                 <div class="col-md-6">
                     <form action="#" method="post"
-                          class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
+                          class="subscribe-form subscribe-form-footer d-md-block d-lg-block">
                         <div class="d-flex align-items-center">
                             <input type="text" class="form-control input" id="email-footer" name="email"
                                    placeholder="info@yourdomain.com">
@@ -597,35 +498,103 @@
     <!--our pricing packages section end-->
 
     <!--screenshots section start-->
-    <section id="screenshots" class="screenshots-section ptb-100">
+    <!--features section start-->
+    <div id="features" class="feature-section ptb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <div class="section-heading text-center">
-                        <span class="text-uppercase color-secondary sub-title">App Screenshots</span>
-                        <h2>App Screenshots Looks Awesome</h2>
-                        <p>Credibly synthesize multimedia based networks vis-a-vis re-engineer enterprise-wide
-                            imperatives whereas fully tested web-readiness. Continually leverage existing worldwide
-                            interfaces </p>
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Best features</span>
+                        <h2>Easy Process with Best Features</h2>
+                        <p>Objectively deliver professional value with diverse web-readiness.
+                            Collaboratively transition wireless customer service without goal-oriented catalysts for
+                            change. Collaboratively.</p>
+
                     </div>
                 </div>
             </div>
-            <!--start app screen carousel-->
-            <div class="screen-slider-content mt-5">
-                <div class="screenshot-frame"></div>
-                <div class="screen-carousel owl-carousel owl-theme dot-indicator">
-                    <img src="img/01.png" class="img-fluid" alt="screenshots">
-                    <img src="img/02.png" class="img-fluid" alt="screenshots">
-                    <img src="img/03.png" class="img-fluid" alt="screenshots">
-                    <img src="img/04.png" class="img-fluid" alt="screenshots">
-                    <img src="img/05.png" class="img-fluid" alt="screenshots">
-                    <img src="img/06.png" class="img-fluid" alt="screenshots">
+
+
+            <div class="row row-grid align-items-center">
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-1 rounded-circle">
+                                <span class="ti-face-smile"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Responsive web design</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-2 rounded-circle">
+                                <span class="ti-vector"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Loaded with features</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-3 rounded-circle">
+                                <span class="ti-headphone-alt"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Friendly online support</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="position-relative" style="z-index: 10;">
+                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-layout-media-right"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Free updates forever</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-5 rounded-circle">
+                                <span class="ti-layout-cta-right"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Built with Sass</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-6 rounded-circle">
+                                <span class="ti-palette"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Infinite colors</h5>
+                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <!--end app screen carousel-->
-
         </div>
-    </section>
+    </div>
+    <!--features section end-->
     <!--screenshots section end-->
 
     <!--our blog section start-->

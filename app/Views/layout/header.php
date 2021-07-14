@@ -74,7 +74,7 @@
                     </li>
                     <li class="nav-item">
                         <div class="action-btn">
-                            <a class="page-scroll btn solid-btn" href="#join-list" style="box-shadow: 0 5px 12px 0 rgba(48, 7, 232, 0.9);">Notify Me</a>
+                            <a class="page-scroll btn solid-btn" href="#join-list">Notify Me</a>
                         </div>
                     </li>
 
