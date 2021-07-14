@@ -124,11 +124,11 @@
                     </div>
                     <div class="col-md-6 col-lg-5">
                         <div class="terms-policy-wrap text-lg-right text-md-right text-left">
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a class="small-text" href="#">Terms</a></li>
-                                <li class="list-inline-item"><a class="small-text" href="#">Security</a></li>
-                                <li class="list-inline-item"><a class="small-text" href="#">Privacy Policy</a></li>
-                            </ul>
+<!--                            <ul class="list-inline">-->
+<!--                                <li class="list-inline-item"><a class="small-text" href="#">Terms</a></li>-->
+<!--                                <li class="list-inline-item"><a class="small-text" href="#">Security</a></li>-->
+<!--                                <li class="list-inline-item"><a class="small-text" href="#">Privacy Policy</a></li>-->
+<!--                            </ul>-->
                         </div>
                     </div>
                 </div>
