@@ -4,27 +4,8 @@
 <footer class="footer-section">
 
     <!--footer top start-->
-    <div class="footer-top pt-4 background-img-2"
+    <div class="footer-top pt-60 background-img-2"
          style="background: url('img/footer-bg.png')no-repeat center top / cover">
-        <div class="container pb-100 mb-5">
-            <div class="row justify-content-center">
-                <h4 class="sub-title" style="color: #fff;">
-                    Notarization And Business Closing Transactions, Digitized
-                </h4>
-                <p style="width: 100%; !important; text-align: center; color: #fff" class="">
-                    Join our list and be the first to know when we launch
-                </p>
-                <div class="col-md-6">
-                    <form action="#" method="post" class="subscribe-form subscribe-form-footer d-none d-md-block d-lg-block">
-                        <div class="d-flex align-items-center">
-                            <input type="text" class="form-control input" id="email-footer" name="email"
-                                   placeholder="info@yourdomain.com">
-                            <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
