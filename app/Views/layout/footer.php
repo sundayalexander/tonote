@@ -10,7 +10,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
-                        <img src="img/logo-white.png" alt="footer logo" width="120" class="img-fluid mb-3">
+                        <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">
                         <p>
                             ToNote securely connects Notaries to a large network of potential clients with our
                             remote online notarization platform.

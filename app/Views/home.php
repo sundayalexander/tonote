@@ -25,7 +25,7 @@
                             documents with ease.
                         </p>
                         <span class="color-secondary font-weight-bold">
-                           <strong>- Be The First To Know When We Launch</strong>
+                           <strong>Be The First To Know When We Launch</strong>
                         </span>
                         <div class="action-btn mt-4">
                             <a href="#join-list" class="btn solid-btn">Join The List</a>
@@ -37,22 +37,22 @@
                         <div class="image-bg-positioning">
                             <img src="img/app-product.png" alt="" class="img-fluid">
                         </div>
-                        <div class="animation-item d-none d-md-block d-lg-block">
-                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">
-                                <p class="gr-text-11 mb-0 text-mirage-2">“A better way to manage your sales, team,
-                                    clients.”</p>
-                                <div class="small-card-img ml-3">
-                                    <img src="img/team-2.jpg" alt="" width="80px" class="rounded-circle img-fluid">
-                                </div>
-                            </div>
-                            <div class="p-4 w-75 rounded-custom d-flex secondary-bg hero-animated-card-2">
-                                <div class="small-card-img mr-3 text-white">
-                                    <img src="img/team-5.jpg" alt="" width="80px" class="rounded-circle img-fluid">
-                                </div>
-                                <p class="gr-text-11 mb-0 text-white">“Ensuring the best return on investment for
-                                    business”</p>
-                            </div>
-                        </div>
+<!--                        <div class="animation-item d-none d-md-block d-lg-block">-->
+<!--                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">-->
+<!--                                <p class="gr-text-11 mb-0 text-mirage-2">“A better way to manage your sales, team,-->
+<!--                                    clients.”</p>-->
+<!--                                <div class="small-card-img ml-3">-->
+<!--                                    <img src="img/team-2.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="p-4 w-75 rounded-custom d-flex secondary-bg hero-animated-card-2">-->
+<!--                                <div class="small-card-img mr-3 text-white">-->
+<!--                                    <img src="img/team-5.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
+<!--                                </div>-->
+<!--                                <p class="gr-text-11 mb-0 text-white">“Ensuring the best return on investment for-->
+<!--                                    business”</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="col-md-6">
-                    <h4 class="text-center mt-4 mb-4 color-secondary sub-title">
+                    <h4 class="text-center mt-4 mb-4 sub-title">
                         Sign Up To Become an E-Notary Public
                     </h4>
                     <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->

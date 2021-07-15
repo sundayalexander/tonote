@@ -6,21 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- SEO Meta description -->
+    <meta name="keyword" content="tonote, remote online notary, transaction, signatory, signature, legal binding">
     <meta name="description"
-          content="AppCo App Landing Page Template. agency landing page template helps you easily create websites for your business, marketing landing page template form promotion and many more.">
-    <meta name="author" content="ThemeTags">
+          content="ToNote is a legally binding and fully remote way to sign, notarize and share documents with ease. A convenient and remote way of closing transactions.">
+    <meta name="author" content="ToNote">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-    <meta property="og:site_name" content=""/> <!-- website name -->
-    <meta property="og:site" content=""/> <!-- website link -->
-    <meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
-    <meta property="og:description" content=""/> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content=""/> <!-- image link, make sure it's jpg -->
-    <meta property="og:url" content=""/> <!-- where do you want your post to link to -->
-    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="ToNote"/> <!-- website name -->
+    <meta property="og:site" content="<?php echo route_to('App\Controllers\Home::index'); ?>"/> <!-- website link -->
+    <meta property="og:title" content="ToNote - A convenient and remote way of closing transactions"/> <!-- title shown in the actual shared post -->
+    <meta property="og:description" content="ToNote is a legally binding and fully remote way to sign, notarize and share documents with ease. A convenient and remote way of closing transactions."/> <!-- description shown in the actual shared post -->
+    <meta property="og:image" content="<?php echo route_to('App\Controllers\Home::index'); ?>/img/app-product.png"/> <!-- image link, make sure it's jpg -->
+    <meta property="og:url" content="<?php echo route_to('App\Controllers\Home::index'); ?>"/> <!-- where do you want your post to link to -->
+    <meta property="og:type" content="website"/>
 
     <!--title-->
-    <title><?= $title ?> - ToNote</title>
+<!--    <title>--><?//= $title ?><!-- - ToNote</title>-->
+    <title>ToNote - A convenient and remote way of closing transactions</title>
 
     <!--favicon icon-->
     <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
@@ -55,7 +57,7 @@
     <nav class="navbar navbar-expand-lg fixed-top custom-nav white-bg">
         <div class="container">
             <a class="navbar-brand" href="<?php echo route_to('App\Controllers\Home::index'); ?>">
-                <img src="img/logo.png" width="120" alt="logo" class="img-fluid"></a>
+                <img src="img/logo.svg" width="120" alt="logo" class="img-fluid"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="ti-menu"></span>
