@@ -1,7 +1,7 @@
 <div class="main">
 
     <!--hero section start-->
-    <section class="hero-section hero-section-3 ptb-100">
+    <section class="hero-section hero-section-3 pt-8">
         <!--animated circle shape start-->
         <div class="circles">
             <div class="point animated-point-1"></div>
@@ -17,12 +17,11 @@
                 <div class="col-12 col-md-9 col-lg-7 col-xl-6">
                     <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
 
-                        <h1 class="font-weight-bold">
-                            A convenient and remote way of closing transactions
+                        <h1 class="font-weight-bold pt-150">
+                            All in one solution for signing, sharing & notarizing documents remotely
                         </h1>
                         <p class="lead">
-                            ToNote is a legally binding and fully remote way to sign, notarize and share
-                            documents with ease.
+                            Make your closing transactions simpler and more accessible with ToNote.
                         </p>
                         <span class="color-secondary font-weight-bold">
                            <strong>Be The First To Know When We Launch</strong>
@@ -37,22 +36,22 @@
                         <div class="image-bg-positioning">
                             <img src="img/app-product.png" alt="" class="img-fluid">
                         </div>
-<!--                        <div class="animation-item d-none d-md-block d-lg-block">-->
-<!--                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">-->
-<!--                                <p class="gr-text-11 mb-0 text-mirage-2">“A better way to manage your sales, team,-->
-<!--                                    clients.”</p>-->
-<!--                                <div class="small-card-img ml-3">-->
-<!--                                    <img src="img/team-2.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                            <div class="p-4 w-75 rounded-custom d-flex secondary-bg hero-animated-card-2">-->
-<!--                                <div class="small-card-img mr-3 text-white">-->
-<!--                                    <img src="img/team-5.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
-<!--                                </div>-->
-<!--                                <p class="gr-text-11 mb-0 text-white">“Ensuring the best return on investment for-->
-<!--                                    business”</p>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                        <!--                        <div class="animation-item d-none d-md-block d-lg-block">-->
+                        <!--                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">-->
+                        <!--                                <p class="gr-text-11 mb-0 text-mirage-2">“A better way to manage your sales, team,-->
+                        <!--                                    clients.”</p>-->
+                        <!--                                <div class="small-card-img ml-3">-->
+                        <!--                                    <img src="img/team-2.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                            <div class="p-4 w-75 rounded-custom d-flex secondary-bg hero-animated-card-2">-->
+                        <!--                                <div class="small-card-img mr-3 text-white">-->
+                        <!--                                    <img src="img/team-5.jpg" alt="" width="80px" class="rounded-circle img-fluid">-->
+                        <!--                                </div>-->
+                        <!--                                <p class="gr-text-11 mb-0 text-white">“Ensuring the best return on investment for-->
+                        <!--                                    business”</p>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                     </div>
                 </div>
             </div>
@@ -60,30 +59,281 @@
     </section>
     <!--hero section end-->
 
-    <!--    <section class="pb-100">-->
-    <!--        <div class="container">-->
-    <!--            <div class="row">-->
-    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
-    <!--                    <div class="single-fact p-3 text-center">-->
-    <!--                        <h3 class="title display-3 font-weight-bolder">50K</h3>-->
-    <!--                        <p class="mb-0">People are already reading this book and improving!</p>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
-    <!--                    <div class="single-fact p-3 text-center">-->
-    <!--                        <h3 class="title display-3 font-weight-bolder">96% </h3>-->
-    <!--                        <p class="mb-0">Satisfaction rate comes from our awesome customers.</p>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
-    <!--                    <div class="single-fact p-3 text-center">-->
-    <!--                        <h3 class="title display-3 font-weight-bolder">4.9</h3>-->
-    <!--                        <p class="mb-0">Average customer ratings we have got all over internet.</p>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </section>-->
+    <!--features section start-->
+    <div id="features" class="feature-section ptb-60">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">
+                            Best features
+                        </span>
+                        <h2>Easy Process with Best Features</h2>
+                        <p>Objectively deliver professional value with diverse web-readiness.
+                            Collaboratively transition wireless customer service without goal-oriented catalysts for
+                            change. Collaboratively.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row row-grid align-items-center">
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-1 rounded-circle">
+                                <span class="ti-share"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Full Service</h5>
+                            <p class="mb-0">
+                                Conveniently Sign, Share and Seal documents.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-2 rounded-circle">
+                                <span class="ti-cloud"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Remote Notarization</h5>
+                            <p class="mb-0">
+                                ToNote provides a full digital platform to notarize documents.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-3 rounded-circle">
+                                <span class="ti-lock"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Security</h5>
+                            <p class="mb-0">
+                                Documents securely stored via an encrypted digital locker.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="position-relative" style="z-index: 10;">
+                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-headphone-alt"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Real Time Support</h5>
+                            <p class="mb-0">
+                                Accessible 24/7, our support team is readily available to answer any
+                                questions you may have about ToNote.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-5 rounded-circle">
+                                <span class="ti-shield"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Trusted</h5>
+                            <p class="mb-0">
+                                100% Vetted and Verified notaries on ToNote.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-6 rounded-circle">
+                                <span class="ti-archive"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Document Storage & Retrieval</h5>
+                            <p class="mb-0">
+                                Secured storage and retrieval of documentation and notary session audits.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--features section end-->
+
+    <!--our video promo section start-->
+    <section id="join-list" class="ptb-100" style="background: url('img/footer-bg.png')no-repeat center top / cover;">
+
+        <div class="container mb-5">
+            <div class="row justify-content-center">
+                <h4 class="sub-title text-white text-center">
+                    Notarization And Business Closing Transactions, Digitized
+                </h4>
+                <p style="width: 100%; !important; text-align: center;" class="text-white text-center">
+                    Join our list and be the first to know when we launch.
+                </p>
+
+                <div class="col-md-6">
+                    <form action="#" method="post"
+                          class="subscribe-form subscribe-form-footer d-md-block d-lg-block">
+                        <div class="d-flex align-items-center">
+                            <input type="text" class="form-control input" id="email-footer" name="email"
+                                   placeholder="info@yourdomain.com">
+                            <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!--        <div class="container">-->
+        <!--            <div class="row justify-content-center">-->
+        <!--                <div class="col-md-6">-->
+        <!--                    <div class="video-promo-content mt-4 text-center">-->
+        <!--                        <a href="https://www.youtube.com/watch?v=9No-FiEInLA"-->
+        <!--                           class="popup-youtube video-play-icon d-inline-block"><span-->
+        <!--                                    class="ti-control-play"></span></a>-->
+        <!--                        <h5 class="mt-4 text-white">Watch video overview</h5>-->
+        <!--                    </div>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </div>-->
+    </section>
+    <!--our video promo section end-->
+
+    <!--promo section start-->
+    <section id="faq" class="promo-section ptb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-9">
+                    <div class="section-heading mb-5">
+                        <h2>Frequently Asked Questions</h2>
+                        <p class="lead">
+                            Below you’ll find answers to the most common questions you may have about ToNote
+                            and Notary services. If you still can’t find the answer you’re looking for, leave us a
+                            message and we will respond shortly.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--pricing faq start-->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div id="accordion-1" class="accordion accordion-faq">
+                        <!-- Accordion card 1 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-1" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-1" aria-expanded="false" aria-controls="collapse-1-1">
+                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
+                            </div>
+                            <div id="collapse-1-1" class="collapse" aria-labelledby="heading-1-1"
+                                 data-parent="#accordion-1">
+                                <div class="card-body">
+                                    <p>Uniquely leverage other's distinctive infomediaries rather than leveraged supply
+                                        chains. Continually seize distributed collaboration and idea-sharing whereas
+                                        user.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 2 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-2" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
+                                <h6 class="mb-0"><span class="ti-gallery mr-3"></span> How do I get access to a theme?
+                                </h6>
+                            </div>
+                            <div id="collapse-1-2" class="collapse" aria-labelledby="heading-1-2"
+                                 data-parent="#accordion-1">
+                                <div class="card-body">
+                                    <p>Rapidiously incentivize virtual e-commerce and exceptional e-tailers.
+                                        Progressively network focused catalysts for change without orthogonal benefits.
+                                        Dramatically empower.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 3 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-3" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
+                                <h6 class="mb-0"><span class="ti-wallet mr-3"></span> How do I see previous orders?
+                                </h6>
+                            </div>
+                            <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
+                                 data-parent="#accordion-1">
+                                <div class="card-body">
+                                    <p>Proactively monetize long-term high-impact innovation and scalable relationships.
+                                        Dynamically mesh principle-centered functionalities before next-generation best
+                                        practices. Distinctively empower.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="accordion-2" class="accordion accordion-faq">
+                        <!-- Accordion card 1 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-1" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-1" aria-expanded="false" aria-controls="collapse-2-1">
+                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
+                            </div>
+                            <div id="collapse-2-1" class="collapse" aria-labelledby="heading-2-1"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>Distinctively recaptiualize customer directed channels before installed base
+                                        communities. Continually disintermediate distinctive web services vis-a-vis team
+                                        building e-commerce.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 2 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-2" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2">
+                                <h6 class="mb-0"><span class="ti-lock mr-3"></span> How do I get access to a theme?</h6>
+                            </div>
+                            <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>Quickly recaptiualize revolutionary meta-services and multimedia based channels.
+                                        Seamlessly impact diverse deliverables rather than cooperative strategic theme
+                                        areas.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 3 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-3" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3">
+                                <h6 class="mb-0"><span class="ti-widget mr-3"></span> How do I see previous orders?
+                                </h6>
+                            </div>
+                            <div id="collapse-2-3" class="collapse" aria-labelledby="heading-2-3"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>Efficiently supply B2B networks vis-a-vis best-of-breed schemas. Dramatically
+                                        parallel task reliable technology with cross functional core competencies.
+                                        Phosfluorescently.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--pricing faq end-->
+        </div>
+    </section>
+    <!--promo section end-->
 
     <!--about us section start-->
     <section id="about" class="about-us ptb-100 gray-light-bg">
@@ -231,172 +481,179 @@
     </section>
     <!--about us section end-->
 
-
-    <!--promo section start-->
-    <section id="faq" class="promo-section ptb-100">
+    <!--client section start-->
+    <section class="client-section ptb-100">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-9">
-                    <div class="section-heading mb-5">
-                        <h2>Frequently Asked Questions</h2>
-                        <p class="lead">
-                            Below you’ll find answers to the most common questions you may have about ToNote
-                            and Notary services. If you still can’t find the answer you’re looking for, leave us a
-                            message and we will respond shortly.
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="section-heading text-center mb-5">
+                        <span class="text-uppercase color-secondary sub-title">Lovely Partners</span>
+                        <h2>Trusted by Companies</h2>
+                        <p>
+                            Rapidiously morph transparent internal develop economically sound core competencies sources
+                            whereas resource sucking
+                            e-business. Conveniently innovate compelling internal.
                         </p>
                     </div>
                 </div>
             </div>
-            <!--pricing faq start-->
-            <div class="row">
-                <div class="col-lg-6">
-                    <div id="accordion-1" class="accordion accordion-faq">
-                        <!-- Accordion card 1 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-1-1" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-1" aria-expanded="false" aria-controls="collapse-1-1">
-                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
-                            </div>
-                            <div id="collapse-1-1" class="collapse" aria-labelledby="heading-1-1"
-                                 data-parent="#accordion-1">
-                                <div class="card-body">
-                                    <p>Uniquely leverage other's distinctive infomediaries rather than leveraged supply
-                                        chains. Continually seize distributed collaboration and idea-sharing whereas
-                                        user.</p>
-                                </div>
-                            </div>
+            <div class="row align-items-center">
+                <div class="col-md-12">
+                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">
+                        <div class="item single-client">
+                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
                         </div>
-                        <!-- Accordion card 2 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-1-2" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
-                                <h6 class="mb-0"><span class="ti-gallery mr-3"></span> How do I get access to a theme?
-                                </h6>
-                            </div>
-                            <div id="collapse-1-2" class="collapse" aria-labelledby="heading-1-2"
-                                 data-parent="#accordion-1">
-                                <div class="card-body">
-                                    <p>Rapidiously incentivize virtual e-commerce and exceptional e-tailers.
-                                        Progressively network focused catalysts for change without orthogonal benefits.
-                                        Dramatically empower.</p>
-                                </div>
-                            </div>
+                        <div class="item single-client">
+                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
                         </div>
-                        <!-- Accordion card 3 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-1-3" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
-                                <h6 class="mb-0"><span class="ti-wallet mr-3"></span> How do I see previous orders?
-                                </h6>
-                            </div>
-                            <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
-                                 data-parent="#accordion-1">
-                                <div class="card-body">
-                                    <p>Proactively monetize long-term high-impact innovation and scalable relationships.
-                                        Dynamically mesh principle-centered functionalities before next-generation best
-                                        practices. Distinctively empower.</p>
-                                </div>
-                            </div>
+                        <div class="item single-client">
+                            <img src="img/client-6-color.png" alt="client logo" class="client-img">
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div id="accordion-2" class="accordion accordion-faq">
-                        <!-- Accordion card 1 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-2-1" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-1" aria-expanded="false" aria-controls="collapse-2-1">
-                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
-                            </div>
-                            <div id="collapse-2-1" class="collapse" aria-labelledby="heading-2-1"
-                                 data-parent="#accordion-2">
-                                <div class="card-body">
-                                    <p>Distinctively recaptiualize customer directed channels before installed base
-                                        communities. Continually disintermediate distinctive web services vis-a-vis team
-                                        building e-commerce.</p>
-                                </div>
-                            </div>
+                        <div class="item single-client">
+                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
                         </div>
-                        <!-- Accordion card 2 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-2-2" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2">
-                                <h6 class="mb-0"><span class="ti-lock mr-3"></span> How do I get access to a theme?</h6>
-                            </div>
-                            <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
-                                 data-parent="#accordion-2">
-                                <div class="card-body">
-                                    <p>Quickly recaptiualize revolutionary meta-services and multimedia based channels.
-                                        Seamlessly impact diverse deliverables rather than cooperative strategic theme
-                                        areas.</p>
-                                </div>
-                            </div>
+                        <div class="item single-client">
+                            <img src="img/client-4-color.png" alt="client logo" class="client-img">
                         </div>
-                        <!-- Accordion card 3 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-2-3" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3">
-                                <h6 class="mb-0"><span class="ti-widget mr-3"></span> How do I see previous orders?
-                                </h6>
-                            </div>
-                            <div id="collapse-2-3" class="collapse" aria-labelledby="heading-2-3"
-                                 data-parent="#accordion-2">
-                                <div class="card-body">
-                                    <p>Efficiently supply B2B networks vis-a-vis best-of-breed schemas. Dramatically
-                                        parallel task reliable technology with cross functional core competencies.
-                                        Phosfluorescently.</p>
-                                </div>
-                            </div>
+                        <div class="item single-client">
+                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-7-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-2-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                        </div>
+                        <div class="item single-client">
+                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
                         </div>
                     </div>
                 </div>
             </div>
-            <!--pricing faq end-->
+
         </div>
     </section>
-    <!--promo section end-->
+    <!--client section start-->
 
-
-    <!--our video promo section start-->
-    <section id="join-list" class="ptb-100" style=" background: -webkit-gradient(linear, right top, left top, from(#2e19a7), to(#2291f2));
-    background: linear-gradient(to left, #2e19a7, #2291f2);">
-
-        <div class="container mb-5">
-            <div class="row justify-content-center">
-                <h4 class="sub-title text-white text-center">
-                    Notarization And Business Closing Transactions, Digitized
-                </h4>
-                <p style="width: 100%; !important; text-align: center;" class="text-white text-center">
-                    Join our list and be the first to know when we launch
-                </p>
-
-                <div class="col-md-6">
-                    <form action="#" method="post"
-                          class="subscribe-form subscribe-form-footer d-md-block d-lg-block">
-                        <div class="d-flex align-items-center">
-                            <input type="text" class="form-control input" id="email-footer" name="email"
-                                   placeholder="info@yourdomain.com">
-                            <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
+    <!--contact us section start-->
+    <section id="contact" class="contact-us gray-light-bg ptb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 pb-3 message-box d-none">
+                    <div class="alert alert-danger"></div>
+                </div>
+                <div class="col-md-5">
+                    <div class="section-heading">
+                        <h2>Contact Us</h2>
+                        <!--                        <p>-->
+                        <!--                            We’re here to help and answer any question you might have.-->
+                        <!--                        </p>-->
+                        <p>
+                            For further information, do not hesitate to reach out.
+                        </p>
+                    </div>
+                    <div class="footer-address">
+                        <!--                        <h6><strong>Head Office</strong></h6>-->
+                        <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
+                        <ul>
+                            <li><span>Phone: <a href="tel:+2349131585399">+234-913-1585-399</a></span></li>
+                            <li>
+                                <span>Email : <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a></span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <form action="#" method="POST" id="contactForm" class="contact-us-form" novalidate="novalidate">
+                        <h5>Get In Touch</h5>
+                        <div class="row">
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="name" id="name"
+                                           placeholder="Enter name"
+                                           required="required">
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email"
+                                           placeholder="Enter email"
+                                           required="required">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" name="phone" value="" class="form-control" id="phone"
+                                           placeholder="Your Phone">
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-12">
+                                <div class="form-group">
+                                    <input type="text" name="company" value="" size="40" class="form-control"
+                                           id="company" placeholder="Your Company">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea name="message" id="message" class="form-control" rows="7" cols="25"
+                                              placeholder="Message"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 mt-3">
+                                <button type="submit" class="btn solid-btn" id="btnContactUs">
+                                    Send Message
+                                </button>
+                            </div>
                         </div>
                     </form>
+                    <p class="form-message"></p>
                 </div>
             </div>
         </div>
-
-        <!--        <div class="container">-->
-        <!--            <div class="row justify-content-center">-->
-        <!--                <div class="col-md-6">-->
-        <!--                    <div class="video-promo-content mt-4 text-center">-->
-        <!--                        <a href="https://www.youtube.com/watch?v=9No-FiEInLA"-->
-        <!--                           class="popup-youtube video-play-icon d-inline-block"><span-->
-        <!--                                    class="ti-control-play"></span></a>-->
-        <!--                        <h5 class="mt-4 text-white">Watch video overview</h5>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        </div>-->
     </section>
-    <!--our video promo section end-->
+    <!--contact us section end-->
+
+
+
+    <!--    <section class="pb-100">-->
+    <!--        <div class="container">-->
+    <!--            <div class="row">-->
+    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
+    <!--                    <div class="single-fact p-3 text-center">-->
+    <!--                        <h3 class="title display-3 font-weight-bolder">50K</h3>-->
+    <!--                        <p class="mb-0">People are already reading this book and improving!</p>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
+    <!--                    <div class="single-fact p-3 text-center">-->
+    <!--                        <h3 class="title display-3 font-weight-bolder">96% </h3>-->
+    <!--                        <p class="mb-0">Satisfaction rate comes from our awesome customers.</p>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="col-lg-4 col-md-4 col-sm-6 mb-4 mb-md-4 mb-lg-0">-->
+    <!--                    <div class="single-fact p-3 text-center">-->
+    <!--                        <h3 class="title display-3 font-weight-bolder">4.9</h3>-->
+    <!--                        <p class="mb-0">Average customer ratings we have got all over internet.</p>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </section>-->
+
+
+
+
+
+
 
     <!--our pricing packages section start-->
     <!--    <section id="pricing" class="package-section ptb-100">-->
@@ -498,103 +755,7 @@
     <!--our pricing packages section end-->
 
     <!--screenshots section start-->
-    <!--features section start-->
-    <div id="features" class="feature-section ptb-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="section-heading text-center mb-5">
-                        <span class="text-uppercase color-secondary sub-title">Best features</span>
-                        <h2>Easy Process with Best Features</h2>
-                        <p>Objectively deliver professional value with diverse web-readiness.
-                            Collaboratively transition wireless customer service without goal-oriented catalysts for
-                            change. Collaboratively.</p>
 
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="row row-grid align-items-center">
-                <div class="col-lg-4">
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-1 rounded-circle">
-                                <span class="ti-face-smile"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Responsive web design</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-2 rounded-circle">
-                                <span class="ti-vector"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Loaded with features</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-start">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-3 rounded-circle">
-                                <span class="ti-headphone-alt"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Friendly online support</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="position-relative" style="z-index: 10;">
-                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-layout-media-right"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Free updates forever</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-5 rounded-circle">
-                                <span class="ti-layout-cta-right"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Built with Sass</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-start">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-6 rounded-circle">
-                                <span class="ti-palette"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Infinite colors</h5>
-                            <p class="mb-0">Modular and interchangable componente between layouts and even demos.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--features section end-->
     <!--screenshots section end-->
 
     <!--our blog section start-->
@@ -762,148 +923,5 @@
     <!--        </div>-->
     <!--    </section>-->
     <!--our team section end-->
-
-
-    <!--contact us section start-->
-    <section id="contact" class="contact-us gray-light-bg ptb-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 pb-3 message-box d-none">
-                    <div class="alert alert-danger"></div>
-                </div>
-                <div class="col-md-5">
-                    <div class="section-heading">
-                        <h2>Contact Us</h2>
-                        <!--                        <p>-->
-                        <!--                            We’re here to help and answer any question you might have.-->
-                        <!--                        </p>-->
-                        <p>
-                            For further information, do not hesitate to reach out.
-                        </p>
-                    </div>
-                    <div class="footer-address">
-                        <!--                        <h6><strong>Head Office</strong></h6>-->
-                        <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
-                        <ul>
-                            <li><span>Phone: <a href="tel:+2349131585399">+234-913-1585-399</a></span></li>
-                            <li>
-                                <span>Email : <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a></span>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-7">
-                    <form action="#" method="POST" id="contactForm" class="contact-us-form" novalidate="novalidate">
-                        <h5>Get In Touch</h5>
-                        <div class="row">
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" name="name" id="name"
-                                           placeholder="Enter name"
-                                           required="required">
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="email" class="form-control" name="email" id="email"
-                                           placeholder="Enter email"
-                                           required="required">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" name="phone" value="" class="form-control" id="phone"
-                                           placeholder="Your Phone">
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" name="company" value="" size="40" class="form-control"
-                                           id="company" placeholder="Your Company">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea name="message" id="message" class="form-control" rows="7" cols="25"
-                                              placeholder="Message"></textarea>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-12 mt-3">
-                                <button type="submit" class="btn solid-btn" id="btnContactUs">
-                                    Send Message
-                                </button>
-                            </div>
-                        </div>
-                    </form>
-                    <p class="form-message"></p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--contact us section end-->
-
-    <!--client section start-->
-    <!--    <section class="client-section ptb-100">-->
-    <!--        <div class="container">-->
-
-    <!--            <div class="row justify-content-center">-->
-    <!--                <div class="col-md-8">-->
-    <!--                    <div class="section-heading text-center mb-5">-->
-    <!--                        <span class="text-uppercase color-secondary sub-title">Lovely Clients</span>-->
-    <!--                        <h2>Trusted by Companies</h2>-->
-    <!--                        <p>-->
-    <!--                            Rapidiously morph transparent internal develop economically sound core competencies sources-->
-    <!--                            whereas resource sucking-->
-    <!--                            e-business. Conveniently innovate compelling internal.-->
-    <!--                        </p>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--            <div class="row align-items-center">-->
-    <!--                <div class="col-md-12">-->
-    <!--                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-6-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-4-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-7-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-2-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                        <div class="item single-client">-->
-    <!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-
-    <!--        </div>-->
-    <!--    </section>-->
-    <!--client section start-->
 
 </div>

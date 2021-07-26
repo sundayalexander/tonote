@@ -12,8 +12,7 @@
                     <div class="footer-nav-wrap text-white">
                         <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">
                         <p>
-                            ToNote securely connects Notaries to a large network of potential clients with our
-                            remote online notarization platform.
+                            ToNote is a legally binding and fully remote way to sign, notarize and share documents with ease
                         </p>
 
                         <div class="social-list-wrap">
@@ -72,13 +71,8 @@
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
                             <div class="footer-nav-wrap text-white">
-                                <h5 class="mb-3 text-white">Location</h5>
+                                <h5 class="mb-3 text-white">Contact</h5>
                                 <ul class="list-unstyled support-list">
-                                    <li class="mb-2 d-flex align-items-center">
-                                        <span class="ti-location-pin mr-2"></span>
-                                        121 King Melbourne
-                                        <br>Australia 3000
-                                    </li>
                                     <li class="mb-2 d-flex align-items-center">
                                         <span class="ti-mobile mr-2"></span>
                                         <a href="tel:+2349131585399">+234-913-1585-399</a>

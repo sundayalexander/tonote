@@ -218,7 +218,7 @@ strong, b{
     background: #399fb6;
 }
 .bg-color-2{
-    background: #0ba077;
+    background: #2c67e0;
 }
 .bg-color-3{
     background: #6582ed;
@@ -228,28 +228,28 @@ strong, b{
 }
 
 .icon-color-1{
-    background: #efdff7;
-    color: #b17cc6;
+    background: #c1d3ff;
+    color: #236bfd;
 }
 .icon-color-2{
     background-color: #c6e6fd;
-    color: #63b0e3;
+    color: #3c78f1;
 }
 .icon-color-3{
-    background-color: #efe3e3;
-    color: #ed7265;
+    background-color: #a7bafc;
+    color: #0051ff;
 }
 .icon-color-4{
     background-color: #ddedea;
-    color: #45d7ba;
+    color: #003bb3;
 }
 .icon-color-5{
-    background-color: #ffe0e3;
-    color: #bd2130;
+    background-color: #91aef6;
+    color: #0049de;
 }
 .icon-color-6{
     background-color: #e2e8ff;
-    color: #6582ed;
+    color: #2267f5;
 }
 
 .outline-btn, .solid-btn, .primary-solid-btn{
