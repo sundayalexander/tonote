@@ -17,9 +17,9 @@
                 <div class="col-12 col-md-9 col-lg-7 col-xl-6">
                     <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
 
-                        <h1 class="font-weight-bold pt-150">
+                        <h2 class="font-weight-bold pt-150">
                             All in one solution for signing, sharing & notarizing documents remotely
-                        </h1>
+                        </h2>
                         <p class="lead">
                             Make your closing transactions simpler and more accessible with ToNote.
                         </p>
@@ -82,7 +82,7 @@
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-1 rounded-circle">
-                                <span class="ti-share"></span>
+                                <span class="ti-notepad"></span>
                             </div>
                         </div>
                         <div class="icon-text">
@@ -215,8 +215,8 @@
     <section id="faq" class="promo-section ptb-100">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-md-9">
-                    <div class="section-heading mb-5">
+                <div class="col-lg-8 col-md-9 mx-auto">
+                    <div class="section-heading mb-5 text-center">
                         <h2>Frequently Asked Questions</h2>
                         <p class="lead">
                             Below you’ll find answers to the most common questions you may have about ToNote
