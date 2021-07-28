@@ -8,6 +8,9 @@ class Home extends BaseController
     {
         $this->view('home');
     }
+    public function signup(){
+        return view('signup');
+    }
 
     public function contact()
     {

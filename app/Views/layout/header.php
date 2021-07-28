@@ -47,6 +47,11 @@
     <link rel="stylesheet" href="css/style.css">
     <!--responsive css-->
     <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        #join-list a{
+            color: #0d154b;
+        }
+    </style>
 
 </head>
 <body>

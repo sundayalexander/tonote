@@ -18,7 +18,7 @@
                     <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
 
                         <h2 class="font-weight-bold pt-150">
-                            All in one solution for signing, sharing & notarizing documents remotely
+                            An all in one solution for signing, sharing & notarizing documents online
                         </h2>
                         <p class="lead">
                             Make your closing transactions simpler and more accessible with ToNote.
@@ -60,18 +60,19 @@
     <!--hero section end-->
 
     <!--features section start-->
-    <div id="features" class="feature-section ptb-60">
+    <div id="features" class="feature-section gray-light-bg ptb-60">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <span class="text-uppercase color-secondary sub-title">
-                            Best features
-                        </span>
-                        <h2>Easy Process with Best Features</h2>
-                        <p>Objectively deliver professional value with diverse web-readiness.
-                            Collaboratively transition wireless customer service without goal-oriented catalysts for
-                            change. Collaboratively.</p>
+                        <!--                        <span class="text-uppercase color-secondary sub-title">-->
+                        <!--                            Best features-->
+                        <!--                        </span>-->
+                        <h2>ToNote Key Features</h2>
+                        <p>
+                            Discover essential features that enables you securely sign, share and notarize documents
+                            with ToNote
+                        </p>
 
                     </div>
                 </div>
@@ -172,42 +173,65 @@
     <!--features section end-->
 
     <!--our video promo section start-->
+
     <section id="join-list" class="ptb-100" style="background: url('img/footer-bg.png')no-repeat center top / cover;">
 
         <div class="container mb-5">
             <div class="row justify-content-center">
                 <h4 class="sub-title text-white text-center">
-                    Notarization And Business Closing Transactions, Digitized
+                    Get ToNote for a convenient way to sign, share and notarize documents online
                 </h4>
                 <p style="width: 100%; !important; text-align: center;" class="text-white text-center">
                     Join our list and be the first to know when we launch.
                 </p>
 
                 <div class="col-md-6">
-                    <form action="#" method="post"
-                          class="subscribe-form subscribe-form-footer d-md-block d-lg-block">
+                    <form action="https://gettonote.us6.list-manage.com/subscribe/post?u=1fcb3478dbbbc99c55e271755&amp;id=598491e9e5"
+                          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+                          target="_blank" novalidate
+                          class="validate subscribe-form subscribe-form-footer d-md-block d-lg-block">
+                        <div id="mce-responses" class="clear" style="color: #e8e4e4;position: absolute; top: 70px;">
+                            <div class="response align-content-center" id="mce-error-response"
+                                 style="display:none"></div>
+                            <div class="response align-content-center" id="mce-success-response"
+                                 style="display:none"></div>
+                        </div>
                         <div class="d-flex align-items-center">
-                            <input type="text" class="form-control input" id="email-footer" name="email"
+                            <input type="email" value="" name="EMAIL" id="mce-EMAIL"
+                                   class="required email form-control input"
                                    placeholder="info@yourdomain.com">
-                            <input type="submit" class="button btn solid-btn" id="submit-footer" value="Join The List">
+
+                            <input type="hidden" name="group[54042]" class="REQ_CSS" id="mce-group[54042]" value="1">
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                <input type="text" name="b_1fcb3478dbbbc99c55e271755_598491e9e5" tabindex="-1" value="">
+                            </div>
+
+                            <input type="submit" name="subscribe" class="button btn solid-btn"
+                                   id="mc-embedded-subscribe" value="Join The List">
+
+
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+                            <!--                            <div class="clear">-->
+                            <!--                                <input type="submit" value="Subscribe" name="subscribe" id="" class="button">-->
+                            <!--                            </div>-->
                         </div>
                     </form>
                 </div>
+                <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'>
+                </script>
+                <script type='text/javascript'>(function ($) {
+                        window.fnames = new Array();
+                        window.ftypes = new Array();
+                        fnames[0] = 'EMAIL';
+                        ftypes[0] = 'email';
+                    }(jQuery));
+                    var $mcj = jQuery.noConflict(true);</script>
+                <!--End mc_embed_signup-->
             </div>
         </div>
 
-        <!--        <div class="container">-->
-        <!--            <div class="row justify-content-center">-->
-        <!--                <div class="col-md-6">-->
-        <!--                    <div class="video-promo-content mt-4 text-center">-->
-        <!--                        <a href="https://www.youtube.com/watch?v=9No-FiEInLA"-->
-        <!--                           class="popup-youtube video-play-icon d-inline-block"><span-->
-        <!--                                    class="ti-control-play"></span></a>-->
-        <!--                        <h5 class="mt-4 text-white">Watch video overview</h5>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        </div>-->
+
     </section>
     <!--our video promo section end-->
 
@@ -390,91 +414,12 @@
                 </div>
 
                 <div class="col-md-6">
-                    <h4 class="text-center mt-4 mb-4 sub-title">
+                    <h5 class="mt-4 mb-4 sub-title">
                         Sign Up To Become an E-Notary Public
-                    </h4>
-                    <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
-                    <style type="text/css">
-                        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-                           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                        #mc_embed_signup div.mce_inline_error {
-                            color: #ff0000;
-                            margin: 0 0 1em 0;
-                            padding: 5px 10px;
-                            background-color: transparent;
-                            font-weight: normal;
-                            z-index: 1;
-                        }
-
-                        /*#mce-success-response{*/
-                        /*    color: #036503;*/
-                        /*}*/
-
-                    </style>
-                    <div id="mc_embed_signup" class=" two pb-3">
-
-                        <form action="https://gmail.us6.list-manage.com/subscribe/post?u=51935ac35559b859a69d757cf&amp;id=c8830e3ab5"
-                              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-                              class="validate" target="_blank" novalidate>
-                            <div id="mc_embed_signup_scroll">
-                                <div class="mc-field-group form-group">
-                                    <input type="email" placeholder="Email *" value="" name="EMAIL"
-                                           class="required email form-control" id="mce-EMAIL">
-                                </div>
-                                <div class="mc-field-group form-group">
-                                    <input type="text" value="" name="FNAME" class="required form-control"
-                                           id="mce-FNAME"
-                                           placeholder="First Name*" required>
-                                </div>
-                                <div class="mc-field-group form-group">
-                                    <!--                                <label for="mce-LNAME">Last Name </label>-->
-                                    <input type="text" value="" name="LNAME" class="required form-control"
-                                           id="mce-LNAME"
-                                           placeholder="Last Name*" required>
-                                </div>
-                                <label for="mce-MMERGE6">Do you have a Traditional Notary Certificate? </label>
-                                <div class="mc-field-group form-group">
-                                    <select name="MMERGE6" class="required form-control" id="mce-MMERGE6">
-                                        <!--                                    <option value=""></option>-->
-                                        <option value="YES">YES</option>
-                                        <option value="NO">NO</option>
-
-                                    </select>
-                                </div>
-                                <div id="mce-responses" class="clear">
-                                    <div class="response text-danger" id="mce-error-response"
-                                         style="display:none"></div>
-                                    <div class="response text-success" id="mce-success-response"
-                                         style="display:none"></div>
-                                </div>
-                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                    <input type="text" name="b_51935ac35559b859a69d757cf_c8830e3ab5" tabindex="-1"
-                                           value="">
-                                </div>
-
-                                <div class="clear">
-                                    <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
-                                           class="button btn solid-btn"></div>
-                            </div>
-                        </form>
-                    </div>
-                    <script type='text/javascript'
-                            src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-                    <script type='text/javascript'>(function ($) {
-                            window.fnames = new Array();
-                            window.ftypes = new Array();
-                            fnames[0] = 'EMAIL';
-                            ftypes[0] = 'email';
-                            fnames[1] = 'FNAME';
-                            ftypes[1] = 'text';
-                            fnames[2] = 'LNAME';
-                            ftypes[2] = 'text';
-                            fnames[6] = 'MMERGE6';
-                            ftypes[6] = 'dropdown';
-                        }(jQuery));
-                        var $mcj = jQuery.noConflict(true);</script>
-                    <!--End mc_embed_signup-->
+                    </h5>
+                    <iframe src="<?php echo route_to('App\Controllers\Home::signup'); ?>"
+                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
+                            style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
                 </div>
             </div>
         </div>
@@ -623,7 +568,6 @@
     <!--contact us section end-->
 
 
-
     <!--    <section class="pb-100">-->
     <!--        <div class="container">-->
     <!--            <div class="row">-->
@@ -648,11 +592,6 @@
     <!--            </div>-->
     <!--        </div>-->
     <!--    </section>-->
-
-
-
-
-
 
 
     <!--our pricing packages section start-->
