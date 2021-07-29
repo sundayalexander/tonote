@@ -16,16 +16,18 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-md-9 col-lg-7 col-xl-6">
                     <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
-
                         <h2 class="font-weight-bold pt-150">
-                            An all in one solution for signing, sharing & notarizing documents online
+                            Sign, Notarise and share documents instantly, securely and virtually.
                         </h2>
+                        <!--                        <p class="lead">-->
+                        <!--                            Make your closing transactions simpler and more accessible with ToNote.-->
+                        <!--                        </p> -->
                         <p class="lead">
-                            Make your closing transactions simpler and more accessible with ToNote.
+                            Be the first to #GetToNote when we launch
                         </p>
-                        <span class="color-secondary font-weight-bold">
-                           <strong>Be The First To Know When We Launch</strong>
-                        </span>
+                        <!--                        <span class="color-secondary font-weight-bold">-->
+                        <!--                           <strong>Be The First To Know When We Launch</strong>-->
+                        <!--                        </span>-->
                         <div class="action-btn mt-4">
                             <a href="#join-list" class="btn solid-btn">Join The List</a>
                         </div>
@@ -70,8 +72,7 @@
                         <!--                        </span>-->
                         <h2>ToNote Key Features</h2>
                         <p>
-                            Discover essential features that enables you securely sign, share and notarize documents
-                            with ToNote
+                            Discover essential features that make transaction closings safer and speedier
                         </p>
 
                     </div>
@@ -102,7 +103,7 @@
                         <div class="icon-text">
                             <h5>Remote Notarization</h5>
                             <p class="mb-0">
-                                ToNote provides a full digital platform to notarize documents.
+                                Prepare and notarise your documents at the touch of a button.
                             </p>
                         </div>
                     </div>
@@ -115,7 +116,7 @@
                         <div class="icon-text">
                             <h5>Security</h5>
                             <p class="mb-0">
-                                Documents securely stored via an encrypted digital locker.
+                                Bank grade security feature ensure all personal information and documents are 100% safe.
                             </p>
                         </div>
                     </div>
@@ -149,7 +150,7 @@
                         <div class="icon-text">
                             <h5>Trusted</h5>
                             <p class="mb-0">
-                                100% Vetted and Verified notaries on ToNote.
+                                100% vetted and verified users on the platform to ensure trust in every transaction.
                             </p>
                         </div>
                     </div>
@@ -162,7 +163,8 @@
                         <div class="icon-text">
                             <h5>Document Storage & Retrieval</h5>
                             <p class="mb-0">
-                                Secured storage and retrieval of documentation and notary session audits.
+                                Documents and notary sessions securely stored via encrypted digital locker
+                                for future audits.
                             </p>
                         </div>
                     </div>
@@ -179,7 +181,7 @@
         <div class="container mb-5">
             <div class="row justify-content-center">
                 <h4 class="sub-title text-white text-center">
-                    Get ToNote for a convenient way to sign, share and notarize documents online
+                    Get ToNote for a convenient way to sign, share and notarise documents online
                 </h4>
                 <p style="width: 100%; !important; text-align: center;" class="text-white text-center">
                     Join our list and be the first to know when we launch.
@@ -382,8 +384,18 @@
                                 <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
                                 <!--                                </div>-->
                                 <p class="mb-0">
-                                    ToNote securely connects Notaries to a large network of potential clients with our
-                                    remote online notarization platform.
+                                    Start Earning Remotely with ToNote
+                                </p>
+                            </div>
+                        </div>
+                        <div class="single-feature mb-4 mt-5">
+                            <div class="icon-box-wrap d-flex align-items-center mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    Are you a certified Notary Public in search of a market place full of potential
+                                    customers?
                                 </p>
                             </div>
                         </div>
@@ -393,7 +405,8 @@
                                 <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
                                 <!--                                </div>-->
                                 <p class="mb-0">
-                                    Connect via your internet enabled device, anywhere and anytime.
+                                    With ToNote, you can offer your notary public services from anywhere and at anytime.
+                                    Complete the form and submit to start earning once the platform launches.
                                 </p>
                             </div>
                             <p></p>
@@ -427,60 +440,60 @@
     <!--about us section end-->
 
     <!--client section start-->
-    <section class="client-section ptb-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="section-heading text-center mb-5">
-                        <span class="text-uppercase color-secondary sub-title">Lovely Partners</span>
-                        <h2>Trusted by Companies</h2>
-                        <p>
-                            Rapidiously morph transparent internal develop economically sound core competencies sources
-                            whereas resource sucking
-                            e-business. Conveniently innovate compelling internal.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">
-                        <div class="item single-client">
-                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-6-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-4-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-7-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-2-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
-                        </div>
-                        <div class="item single-client">
-                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section>
+<!--    <section class="client-section ptb-100">-->
+<!--        <div class="container">-->
+<!--            <div class="row justify-content-center">-->
+<!--                <div class="col-md-8">-->
+<!--                    <div class="section-heading text-center mb-5">-->
+<!--                        <span class="text-uppercase color-secondary sub-title">Lovely Partners</span>-->
+<!--                        <h2>Trusted by Companies</h2>-->
+<!--                        <p>-->
+<!--                            Rapidiously morph transparent internal develop economically sound core competencies sources-->
+<!--                            whereas resource sucking-->
+<!--                            e-business. Conveniently innovate compelling internal.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="row align-items-center">-->
+<!--                <div class="col-md-12">-->
+<!--                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-6-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-4-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-7-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-2-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                        <div class="item single-client">-->
+<!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--        </div>-->
+<!--    </section>-->
     <!--client section start-->
 
     <!--contact us section start-->
