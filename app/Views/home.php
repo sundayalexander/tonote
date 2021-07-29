@@ -237,84 +237,6 @@
     </section>
     <!--our video promo section end-->
 
-    <!--about us section start-->
-    <section id="about" class="about-us ptb-100 gray-light-bg">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <!--                <div class="col-md-4">-->
-                <!--                    <div class="about-content-right">-->
-                <!--                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
-                <!--                    </div>-->
-                <!--                </div>-->
-
-                <div class="col-md-5">
-                    <div class="about-content-left section-heading">
-                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
-                        <h3>
-                            Become An E-Notary Public
-                        </h3>
-
-                        <div class="single-feature mb-4 mt-5">
-                            <div class="icon-box-wrap d-flex align-items-center mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    Start Earning Remotely with ToNote
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-feature mb-4 mt-5">
-                            <div class="icon-box-wrap d-flex align-items-center mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    Are you a certified Notary Public in search of a market place full of potential
-                                    customers?
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    With ToNote, you can offer your notary public services from anywhere and at anytime.
-                                    Complete the form and submit to start earning once the platform launches.
-                                </p>
-                            </div>
-                            <p></p>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <!--                                <div class="action-btn mt-4">-->
-                                <!--                                    <a href="#" class="btn solid-btn">LEARN MORE</a>-->
-                                <!--                                </div>-->
-                            </div>
-                            <p></p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-6">
-                    <h5 class="mt-4 mb-4 sub-title">
-                        Sign Up To Become an E-Notary Public
-                    </h5>
-                    <iframe src="<?php echo route_to('App\Controllers\Home::signup'); ?>"
-                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
-                            style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--about us section end-->
-
     <!--promo section start-->
     <section id="faq" class="promo-section ptb-100">
         <div class="container">
@@ -438,6 +360,74 @@
         </div>
     </section>
     <!--promo section end-->
+
+    <!--about us section start-->
+    <section id="about" class="about-us ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <!--                <div class="col-md-4">-->
+                <!--                    <div class="about-content-right">-->
+                <!--                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
+                <!--                    </div>-->
+                <!--                </div>-->
+
+                <div class="col-md-5">
+                    <div class="about-content-left section-heading">
+                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
+                        <h3>
+                            Start Earning Remotely with ToNote
+                        </h3>
+
+                        <div class="single-feature mb-4 mt-5">
+                            <div class="icon-box-wrap d-flex align-items-center mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    Are you a certified Notary Public in search of a market place full of potential
+                                    customers?
+                                </p>
+                            </div>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    With ToNote, you can offer your notary public services from anywhere and at anytime.
+                                    Complete the form and submit to start earning once the platform launches.
+                                </p>
+                            </div>
+                            <p></p>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <!--                                <div class="action-btn mt-4">-->
+                                <!--                                    <a href="#" class="btn solid-btn">LEARN MORE</a>-->
+                                <!--                                </div>-->
+                            </div>
+                            <p></p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <h5 class="mt-4 mb-4 sub-title">
+                        Sign Up To Become an E-Notary Public
+                    </h5>
+                    <iframe src="<?=$form_url ?>"
+                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
+                            style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--about us section end-->
 
     <!--client section start-->
 <!--    <section class="client-section ptb-100">-->

@@ -56,7 +56,7 @@ class BaseController extends Controller
 		// E.g.: $this->session = \Config\Services::session();
 	}
 
-    public function view($page = 'index'){
+    public function view($page = 'index', $data=[]){
         if (!is_file(APPPATH . '/Views/' . $page . '.php')) {
             // Whoops, we don't have a page for that!
             throw new \CodeIgniter\Exceptions\PageNotFoundException($page);

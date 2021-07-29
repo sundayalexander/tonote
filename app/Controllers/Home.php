@@ -4,10 +4,18 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+    /**
+     * Index view
+     */
     public function index()
     {
-        $this->view('home');
+        $this->view('home', ['form_url' =>  'signup']);
     }
+
+    /**
+     * Signup view
+     * @return string
+     */
     public function signup(){
         return view('signup');
     }
