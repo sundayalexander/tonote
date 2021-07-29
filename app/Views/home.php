@@ -420,7 +420,7 @@
                     <h5 class="mt-4 mb-4 sub-title">
                         Sign Up To Become an E-Notary Public
                     </h5>
-                    <iframe src="<?=$form_url ?>"
+                    <iframe src="<?=$form_url?>"
                             onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
                             style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
                 </div>
