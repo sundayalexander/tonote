@@ -17,7 +17,7 @@
                 <div class="col-12 col-md-9 col-lg-7 col-xl-6">
                     <div class="hero-content section-title text-center text-lg-left my-5 mt-lg-0">
                         <h2 class="font-weight-bold pt-150">
-                            Sign, Notarise and share documents instantly, securely and virtually.
+                            Sign, Notarise and Share documents instantly, securely and virtually.
                         </h2>
                         <!--                        <p class="lead">-->
                         <!--                            Make your closing transactions simpler and more accessible with ToNote.-->
@@ -260,14 +260,27 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-1-1" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-1" aria-expanded="false" aria-controls="collapse-1-1">
-                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
+                                <h6 class="mb-0">
+                                    <span class="ti-help-alt mr-3">
+                                    </span> What is ToNote?
+                                </h6>
                             </div>
                             <div id="collapse-1-1" class="collapse" aria-labelledby="heading-1-1"
                                  data-parent="#accordion-1">
                                 <div class="card-body">
-                                    <p>Uniquely leverage other's distinctive infomediaries rather than leveraged supply
-                                        chains. Continually seize distributed collaboration and idea-sharing whereas
-                                        user.</p>
+                                    <p>
+                                        ToNote is a legally binding and fully remote way to sign, notarise and share
+                                        documents with ease.
+                                    </p>
+                                    <p>
+                                        Our platform connects you with certified notary publics and allows you securely
+                                        seal, notarise and share important documents online.
+                                    </p>
+                                    <p>
+                                        Our goal is to ensure that the flow of documentation between parties is not only
+                                        seamless, but secure, easily accessible and compliant with local/ global
+                                        regulations.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -275,15 +288,42 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-1-2" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
-                                <h6 class="mb-0"><span class="ti-gallery mr-3"></span> How do I get access to a theme?
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3">
+                                    </span> How does ToNote work?
                                 </h6>
                             </div>
                             <div id="collapse-1-2" class="collapse" aria-labelledby="heading-1-2"
                                  data-parent="#accordion-1">
                                 <div class="card-body">
-                                    <p>Rapidiously incentivize virtual e-commerce and exceptional e-tailers.
-                                        Progressively network focused catalysts for change without orthogonal benefits.
-                                        Dramatically empower.</p>
+                                    <p>
+                                        Enjoy a seamless, secure and easily accessible user experience via any
+                                        web-enabled desktop, laptop, android or iOS device.
+                                    </p>
+                                    <p>
+                                        On the platform, you can easily share documents, append e-signatures or e-seals
+                                        and get documents validated, virtually, by a notary public.
+                                    </p>
+                                    <p>
+                                        To get started, simply register via the app or website. Start with a free trial
+                                        or subscribe for a package that best fits your needs.
+                                    </p>
+                                    <p>
+                                        Once you are all signed up, it is advised that you have a fully complete and
+                                        verified profile. To do this, upload your ID for verification. Verification on
+                                        ToNote happens immediately. Once your account has been set up, you can create a
+                                        team, prepare a document and share with third parties whether they have an
+                                        account with ToNote or not.
+                                    </p>
+                                    <p>
+                                        On the other hand, as a certified notary public in Nigeria, you can easily
+                                        create an account on the platform by clicking on “Sign up as a Notary Public”.
+                                        We will require a few details to verify that you are certified before ensuring
+                                        that you are trained and onboarded as a remote online notary public. This may
+                                        takes a day or 2.
+                                        Once you are trained and have passed the assessments, simply indicate your
+                                        availability periods for notary sessions and you are open for business.
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -291,15 +331,112 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-1-3" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
-                                <h6 class="mb-0"><span class="ti-wallet mr-3"></span> How do I see previous orders?
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    What are ToNote’s working hours?
                                 </h6>
                             </div>
                             <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
                                  data-parent="#accordion-1">
                                 <div class="card-body">
-                                    <p>Proactively monetize long-term high-impact innovation and scalable relationships.
-                                        Dynamically mesh principle-centered functionalities before next-generation best
-                                        practices. Distinctively empower.</p>
+                                    <p>
+                                        ToNote is available 24 hours a day, 7 days a week except public or bank
+                                        holidays. You can log in to the app to get your documents signed and notarized
+                                        at any time. For help, send us an email on
+                                        <a href="mailto:fikayo@gettonote.com" target="_blank">fikayo@gettonote.com</a>.
+                                    </p>
+                                    <p style="font-style: italic;">
+                                        <em>
+                                            Note that all sessions are subject to availability of inactive notary
+                                            public’s. You will be placed on a queue and connected with the next
+                                            available notary on a first come first serve basis.
+                                        </em>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 1 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-4" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    Is notarising on ToNote legal in the country?
+                                </h6>
+                            </div>
+                            <div id="collapse-1-4" class="collapse" aria-labelledby="heading-1-4"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        A combination of the Notary Act, Evidence Act and Electronic Evidence Act affirm
+                                        that ToNote meets all regulatory standards required to operate and enable the
+                                        remote notarisation of documents. Endorsements by several regulatory bodies,
+                                        including the Nigerian Bar Association reaffirm this. For more regulatory and
+                                        compliance information, kindly send an email to
+                                        <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 2 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-5" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-5" aria-expanded="false" aria-controls="collapse-1-5">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    Is notarising on ToNote different from the traditional notarisation?
+                                </h6>
+                            </div>
+                            <div id="collapse-1-5" class="collapse" aria-labelledby="heading-1-5"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        ToNote brings convenience and speed to the notarisation process. The traditional
+                                        approach requires individuals’ to be in the physical presence of the notary
+                                        public. The journey to ensure that this happens may be longer and more tedious
+                                        than necessary.
+                                        With ToNote, the process and requirements are pretty much the same, with the
+                                        following benefits:
+                                    </p>
+                                    <ol>
+                                        <li>
+                                            No physical presence is required to get a document notarised. This can be
+                                            done at the comfort of your home or office via a video call between you, the
+                                            notary public and 3rd parties (where necessary).
+                                        </li>
+                                        <li>
+                                            Yourself and the notary public can now sign, stamp and seal documents
+                                            digitally.
+                                        </li>
+                                        <li>
+                                            As a notary public, you can digitise your physical stamps and seals on the
+                                            platform.
+                                        </li>
+                                        <li>
+                                            A digital certificate highlighting all time and personnel related details of
+                                            each transaction is attached to each notarised document.
+                                        </li>
+                                        <li>
+                                            Each session is recorded for future audit purposes.
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 3 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-1-6" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-6" aria-expanded="false" aria-controls="collapse-1-6">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    Does ToNote use certified notary publics?
+                                </h6>
+                            </div>
+                            <div id="collapse-1-6" class="collapse" aria-labelledby="heading-1-6"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        Yes. Before you can become a remote online notary on the platform, you must be a
+                                        commissioned notary public in your country. We are going to screen, train and
+                                        assess notary publics before certifying them as an online notary public on our
+                                        platform.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -311,14 +448,17 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-2-1" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-1" aria-expanded="false" aria-controls="collapse-2-1">
-                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Which license do I need?</h6>
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    How safe is ToNote with my personal information and contracts?
+                                </h6>
                             </div>
                             <div id="collapse-2-1" class="collapse" aria-labelledby="heading-2-1"
                                  data-parent="#accordion-2">
                                 <div class="card-body">
-                                    <p>Distinctively recaptiualize customer directed channels before installed base
-                                        communities. Continually disintermediate distinctive web services vis-a-vis team
-                                        building e-commerce.</p>
+                                    <p>
+                                        For information on data protection and what we do with personal data please see
+                                        our Privacy Policy.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -326,14 +466,30 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-2-2" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2">
-                                <h6 class="mb-0"><span class="ti-lock mr-3"></span> How do I get access to a theme?</h6>
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    What are the acceptable forms of ID on ToNote?
+                                </h6>
                             </div>
                             <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
                                  data-parent="#accordion-2">
                                 <div class="card-body">
-                                    <p>Quickly recaptiualize revolutionary meta-services and multimedia based channels.
-                                        Seamlessly impact diverse deliverables rather than cooperative strategic theme
-                                        areas.</p>
+                                    <p>
+                                        To verify your identity on ToNote you will need any of the following:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            Driver’s license
+                                        </li>
+                                        <li>
+                                            International passport
+                                        </li>
+                                        <li>
+                                            National identity card
+                                        </li>
+                                        <li>
+                                            Voters card
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -341,18 +497,164 @@
                         <div class="card">
                             <div class="card-header py-4" id="heading-2-3" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3">
-                                <h6 class="mb-0"><span class="ti-widget mr-3"></span> How do I see previous orders?
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    How much does it cost to get a document notarised?
                                 </h6>
                             </div>
                             <div id="collapse-2-3" class="collapse" aria-labelledby="heading-2-3"
                                  data-parent="#accordion-2">
                                 <div class="card-body">
-                                    <p>Efficiently supply B2B networks vis-a-vis best-of-breed schemas. Dramatically
-                                        parallel task reliable technology with cross functional core competencies.
-                                        Phosfluorescently.</p>
+                                    <p>
+                                        Single seal session with notary Public - N8,000<br/>
+                                        Additional seals per document - N4000<br/>
+                                        Based on the outcome of your call with the Notary Public, additional costs may
+                                        apply.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                        <!-- Accordion card 1 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-4" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-4" aria-expanded="false" aria-controls="collapse-2-4">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    What type of document(s) can be signed and notarised on ToNote?
+                                </h6>
+                            </div>
+                            <div id="collapse-2-4" class="collapse" aria-labelledby="heading-2-4"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        Any document that requires a signature can be prepared, signed and shared on
+                                        ToNote. Some of the most frequently notarised documents are:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            Mortgage closing documents
+                                        </li>
+                                        <li>
+                                            Loan documents
+                                        </li>
+                                        <li>
+                                            Financial Statements
+                                        </li>
+                                        <li>
+                                            Property Deeds
+                                        </li>
+                                        <li>
+                                            Asset Transfer
+                                        </li>
+                                        <li>
+                                            Management-Audit Sign off
+                                        </li>
+                                        <li>
+                                            Wills
+                                        </li>
+                                        <li>
+                                            Custody and Guardianship Agreements
+                                        </li>
+                                        <li>
+                                            Power of attorney
+                                        </li>
+                                        <li>
+                                            Court documents
+                                        </li>
+                                        <li>
+                                            Promissory note agreement
+                                        </li>
+                                        <li>
+                                            Affidavits
+                                        </li>
+                                        <li>
+                                            Articles of Incorporation
+                                        </li>
+                                        <li>
+                                            Birth Certificates
+                                        </li>
+                                        <li>
+                                            Wedding Certificates
+                                        </li>
+                                        <li>
+                                            Examination Certificate/Results
+                                        </li>
+                                        <li>
+                                            Application forms for Law School Students
+                                        </li>
+                                        <li>
+                                            Embassy Documents
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 2 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-5" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-5" aria-expanded="false" aria-controls="collapse-2-5">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    Can I sign, send and/or notarise documents outside the country?
+                                </h6>
+                            </div>
+                            <div id="collapse-2-5" class="collapse" aria-labelledby="heading-2-5"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        Absolutely, yes! From wherever you are in the world, you can buy that house and
+                                        get your documents notarised without being physically present. You can also sign
+                                        and share standard agreements with third parties for e-sign off.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 3 -->
+                        <div class="card">
+                            <div class="card-header py-4" id="heading-2-6" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-6" aria-expanded="false" aria-controls="collapse-2-6">
+                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                    How secure is ToNote?
+                                </h6>
+                            </div>
+                            <div id="collapse-2-6" class="collapse" aria-labelledby="heading-2-6"
+                                 data-parent="#accordion-2">
+                                <div class="card-body">
+                                    <p>
+                                        Your trust is what we value the most. We have the following security protocols
+                                        in place to ensure that all your personal information and documents remain safe
+                                        and secure:
+                                    </p>
+                                    <ol>
+                                        <li>
+                                            Identity verification for all platform users
+                                        </li>
+                                        <li>
+                                            Profile completion monitor and account verification to ensure every user is
+                                            authenticated and trackable (you will always be informed when a third party
+                                            user is not verified)
+                                        </li>
+                                        <li>
+                                            2 factor authentication for access to documentation
+                                        </li>
+                                        <li>
+                                            Encrypted digital locker for storage of all documents
+                                        </li>
+                                        <li>
+                                            Restricted document access based on preset team permissions
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-9 mx-auto">
+                    <div class="section-heading mb-5 text-center">
+                        <h6>
+                            I still have questions?
+                        </h6>
+                        <p class="lead">
+                            Send us an email on <a href="mail:ask@gettonote.com" target="_blank">ask@gettonote.com</a>
+                            or call us on <a href="tel:+2349057170627" target="_blank">+2349057170627</a>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -420,7 +722,7 @@
                     <h5 class="mt-4 mb-4 sub-title">
                         Sign Up To Become an E-Notary Public
                     </h5>
-                    <iframe src="<?=$form_url?>"
+                    <iframe src="<?= $form_url ?>"
                             onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
                             style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
                 </div>
@@ -430,64 +732,64 @@
     <!--about us section end-->
 
     <!--client section start-->
-<!--    <section class="client-section ptb-100">-->
-<!--        <div class="container">-->
-<!--            <div class="row justify-content-center">-->
-<!--                <div class="col-md-8">-->
-<!--                    <div class="section-heading text-center mb-5">-->
-<!--                        <span class="text-uppercase color-secondary sub-title">Lovely Partners</span>-->
-<!--                        <h2>Trusted by Companies</h2>-->
-<!--                        <p>-->
-<!--                            Rapidiously morph transparent internal develop economically sound core competencies sources-->
-<!--                            whereas resource sucking-->
-<!--                            e-business. Conveniently innovate compelling internal.-->
-<!--                        </p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="row align-items-center">-->
-<!--                <div class="col-md-12">-->
-<!--                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-6-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-4-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-7-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-2-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                        <div class="item single-client">-->
-<!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--        </div>-->
-<!--    </section>-->
+    <!--    <section class="client-section ptb-100">-->
+    <!--        <div class="container">-->
+    <!--            <div class="row justify-content-center">-->
+    <!--                <div class="col-md-8">-->
+    <!--                    <div class="section-heading text-center mb-5">-->
+    <!--                        <span class="text-uppercase color-secondary sub-title">Lovely Partners</span>-->
+    <!--                        <h2>Trusted by Companies</h2>-->
+    <!--                        <p>-->
+    <!--                            Rapidiously morph transparent internal develop economically sound core competencies sources-->
+    <!--                            whereas resource sucking-->
+    <!--                            e-business. Conveniently innovate compelling internal.-->
+    <!--                        </p>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--            <div class="row align-items-center">-->
+    <!--                <div class="col-md-12">-->
+    <!--                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-6-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-4-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-5-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-7-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-2-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-1-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                        <div class="item single-client">-->
+    <!--                            <img src="img/client-3-color.png" alt="client logo" class="client-img">-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!---->
+    <!--        </div>-->
+    <!--    </section>-->
     <!--client section start-->
 
     <!--contact us section start-->
-    <section id="contact" class="contact-us gray-light-bg ptb-100">
+    <section id="contact" class="contact-us ptb-100" style="background: #fff;">
         <div class="container">
             <div class="row">
                 <div class="col-12 pb-3 message-box d-none">
@@ -507,9 +809,9 @@
                         <!--                        <h6><strong>Head Office</strong></h6>-->
                         <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
                         <ul>
-                            <li><span>Phone: <a href="tel:+2349131585399">+234-913-1585-399</a></span></li>
+                            <li><span>Phone: <a href="tel:+2349131585399" target="_blank">+234-913-1585-399</a></span></li>
                             <li>
-                                <span>Email : <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a></span>
+                                <span>Email : <a href="mailto:fikayo@gettonote.com" target="_blank">fikayo@gettonote.com</a></span>
                             </li>
                         </ul>
                     </div>
