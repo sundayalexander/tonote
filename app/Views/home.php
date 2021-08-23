@@ -263,6 +263,7 @@
                                 <h6 class="mb-0">
                                     <span class="ti-help-alt mr-3">
                                     </span> What is ToNote?
+                                    <br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-1-1" class="collapse" aria-labelledby="heading-1-1"
@@ -289,7 +290,7 @@
                             <div class="card-header py-4" id="heading-1-2" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3">
-                                    </span> How does ToNote work?
+                                    </span> How does ToNote work?<br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-1-2" class="collapse" aria-labelledby="heading-1-2"
@@ -332,7 +333,7 @@
                             <div class="card-header py-4" id="heading-1-3" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    What are ToNote’s working hours?
+                                    What are ToNote’s working hours?<br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
@@ -359,7 +360,7 @@
                             <div class="card-header py-4" id="heading-1-4" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    Is notarising on ToNote legal in the country?
+                                    Is notarising on ToNote legal in the country?<br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-1-4" class="collapse" aria-labelledby="heading-1-4"
@@ -425,7 +426,7 @@
                             <div class="card-header py-4" id="heading-1-6" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-6" aria-expanded="false" aria-controls="collapse-1-6">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    Does ToNote use certified notary publics?
+                                    Does ToNote use certified notary publics? <br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-1-6" class="collapse" aria-labelledby="heading-1-6"
@@ -467,7 +468,7 @@
                             <div class="card-header py-4" id="heading-2-2" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    What are the acceptable forms of ID on ToNote?
+                                    What are the acceptable forms of ID on ToNote? <br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
@@ -498,7 +499,7 @@
                             <div class="card-header py-4" id="heading-2-3" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    How much does it cost to get a document notarised?
+                                    How much does it cost to get a document notarised? <br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-2-3" class="collapse" aria-labelledby="heading-2-3"
@@ -611,7 +612,7 @@
                             <div class="card-header py-4" id="heading-2-6" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-6" aria-expanded="false" aria-controls="collapse-2-6">
                                 <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    How secure is ToNote?
+                                    How secure is ToNote? <br/><br/>
                                 </h6>
                             </div>
                             <div id="collapse-2-6" class="collapse" aria-labelledby="heading-2-6"
