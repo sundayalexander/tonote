@@ -36,7 +36,11 @@
                 <div class="col-9 col-md-7 col-lg-5 offset-xl-1 align-self-sm-end">
                     <div class="hero-img position-relative">
                         <div class="image-bg-positioning">
-                            <img src="img/app-product.png" alt="" class="img-fluid">
+                            <!--                            <img src="img/app-product.png" alt="" class="img-fluid">-->
+                            <video muted="muted" loop="loop" js-play="" autoplay="autoplay" style="border: none; width: 90% !important; ">
+                                <source class="img-fluid" src="video/video.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                         <!--                        <div class="animation-item d-none d-md-block d-lg-block">-->
                         <!--                            <div class="p-4 w-75 rounded-custom d-flex white-bg hero-animated-card-1">-->
@@ -62,6 +66,113 @@
     <!--hero section end-->
 
     <!--features section start-->
+    <!--    <div id="features" class="feature-section gray-light-bg ptb-60">-->
+    <!--        <div class="container">-->
+    <!--            <div class="row justify-content-center">-->
+    <!--                <div class="col-md-8">-->
+    <!--                    <div class="section-heading text-center mb-5">-->
+    <!--                        <h2>ToNote Key Features</h2>-->
+    <!--                        <p>-->
+    <!--                            Discover essential features that make transaction closings safer and speedier-->
+    <!--                        </p>-->
+    <!---->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!---->
+    <!--            <div class="row row-grid align-items-center">-->
+    <!--                <div class="col-lg-4">-->
+    <!--                    <div class="d-flex align-items-start mb-5">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-1 rounded-circle">-->
+    <!--                                <span class="ti-notepad"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Full Service</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                Conveniently Sign, Share and Seal documents.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div class="d-flex align-items-start mb-5">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-2 rounded-circle">-->
+    <!--                                <span class="ti-cloud"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Remote Notarization</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                Prepare and notarise your documents at the touch of a button.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div class="d-flex align-items-start">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-3 rounded-circle">-->
+    <!--                                <span class="ti-lock"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Security</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                Bank grade security feature ensure all personal information and documents are 100% safe.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="col-lg-4">-->
+    <!--                    <div class="position-relative" style="z-index: 10;">-->
+    <!--                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="col-lg-4">-->
+    <!--                    <div class="d-flex align-items-start mb-5">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-4 rounded-circle">-->
+    <!--                                <span class="ti-headphone-alt"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Real Time Support</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                Accessible 24/7, our support team is readily available to answer any-->
+    <!--                                questions you may have about ToNote.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div class="d-flex align-items-start mb-5">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-5 rounded-circle">-->
+    <!--                                <span class="ti-shield"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Trusted</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                100% vetted and verified users on the platform to ensure trust in every transaction.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div class="d-flex align-items-start">-->
+    <!--                        <div class="pr-4">-->
+    <!--                            <div class="icon icon-shape icon-color-6 rounded-circle">-->
+    <!--                                <span class="ti-archive"></span>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="icon-text">-->
+    <!--                            <h5>Document Storage & Retrieval</h5>-->
+    <!--                            <p class="mb-0">-->
+    <!--                                Documents and notary sessions securely stored via encrypted digital locker-->
+    <!--                                for future audits.-->
+    <!--                            </p>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
     <div id="features" class="feature-section gray-light-bg ptb-60">
         <div class="container">
             <div class="row justify-content-center">
@@ -83,20 +194,22 @@
                 <div class="col-lg-4">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
-                            <div class="icon icon-shape icon-color-1 rounded-circle">
-                                <span class="ti-notepad"></span>
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-archive"></span>
                             </div>
                         </div>
                         <div class="icon-text">
-                            <h5>Full Service</h5>
+                            <h5>Document Storage & Retrieval</h5>
                             <p class="mb-0">
-                                Conveniently Sign, Share and Seal documents.
+                                Documents and notary sessions securely stored via encrypted digital locker
+                                for future audits.
                             </p>
                         </div>
                     </div>
+
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
-                            <div class="icon icon-shape icon-color-2 rounded-circle">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
                                 <span class="ti-cloud"></span>
                             </div>
                         </div>
@@ -107,9 +220,12 @@
                             </p>
                         </div>
                     </div>
-                    <div class="d-flex align-items-start">
+
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
-                            <div class="icon icon-shape icon-color-3 rounded-circle">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
                                 <span class="ti-lock"></span>
                             </div>
                         </div>
@@ -120,10 +236,19 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="position-relative" style="z-index: 10;">
-                        <img alt="Image placeholder" src="img/image-10.png" class="img-center img-fluid">
+
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-shield"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Trusted</h5>
+                            <p class="mb-0">
+                                100% vetted and verified users on the platform to ensure trust in every transaction.
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -141,30 +266,17 @@
                             </p>
                         </div>
                     </div>
+
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
-                            <div class="icon icon-shape icon-color-5 rounded-circle">
-                                <span class="ti-shield"></span>
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-notepad"></span>
                             </div>
                         </div>
                         <div class="icon-text">
-                            <h5>Trusted</h5>
+                            <h5>Full Service</h5>
                             <p class="mb-0">
-                                100% vetted and verified users on the platform to ensure trust in every transaction.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="d-flex align-items-start">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-6 rounded-circle">
-                                <span class="ti-archive"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Document Storage & Retrieval</h5>
-                            <p class="mb-0">
-                                Documents and notary sessions securely stored via encrypted digital locker
-                                for future audits.
+                                Conveniently Sign, Share and Seal documents.
                             </p>
                         </div>
                     </div>
@@ -222,13 +334,15 @@
                 </div>
                 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'>
                 </script>
-                <script type='text/javascript'>(function ($) {
+                <script type='text/javascript'>
+                    (function ($) {
                         window.fnames = new Array();
                         window.ftypes = new Array();
                         fnames[0] = 'EMAIL';
                         ftypes[0] = 'email';
                     }(jQuery));
-                    var $mcj = jQuery.noConflict(true);</script>
+                    var $mcj = jQuery.noConflict(true);
+                </script>
                 <!--End mc_embed_signup-->
             </div>
         </div>
@@ -723,7 +837,7 @@
                     <h5 class="mt-4 mb-4 sub-title">
                         Sign Up To Become an E-Notary Public
                     </h5>
-                    <iframe src="<?= $form_url ?>"
+                    <iframe loading="lazy" src="<?= $form_url ?>"
                             onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
                             style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
                 </div>
@@ -810,9 +924,11 @@
                         <!--                        <h6><strong>Head Office</strong></h6>-->
                         <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
                         <ul>
-                            <li><span>Phone: <a href="tel:+2349131585399" target="_blank">+234-913-1585-399</a></span></li>
+                            <li><span>Phone: <a href="tel:+2349131585399" target="_blank">+234-913-1585-399</a></span>
+                            </li>
                             <li>
-                                <span>Email : <a href="mailto:fikayo@gettonote.com" target="_blank">fikayo@gettonote.com</a></span>
+                                <span>Email : <a href="mailto:fikayo@gettonote.com"
+                                                 target="_blank">fikayo@gettonote.com</a></span>
                             </li>
                         </ul>
                     </div>
