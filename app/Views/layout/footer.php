@@ -12,7 +12,7 @@
                     <div class="footer-nav-wrap text-white">
                         <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">
                         <p>
-                            ToNote is a legally binding and fully remote way to sign, notarize and share documents with ease
+                            ToNote is a legally binding and fully remote way to sign, notarise and share documents with ease
                         </p>
 
                         <div class="social-list-wrap">

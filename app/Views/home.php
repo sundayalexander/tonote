@@ -190,7 +190,7 @@
                 </div>
             </div>
 
-            <div class="row row-grid align-items-center">
+            <div class="row row-grid align-items-start">
                 <div class="col-lg-4">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
@@ -202,27 +202,13 @@
                             <h5>Document Storage & Retrieval</h5>
                             <p class="mb-0">
                                 Documents and notary sessions securely stored via encrypted digital locker
-                                for future audits.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-cloud"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Remote Notarization</h5>
-                            <p class="mb-0">
-                                Prepare and notarise your documents at the touch of a button.
+                                for future retrieval and audits.
                             </p>
                         </div>
                     </div>
 
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4" style="padding-bottom: 25px;">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-4 rounded-circle">
@@ -236,22 +222,8 @@
                             </p>
                         </div>
                     </div>
-
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-shield"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Trusted</h5>
-                            <p class="mb-0">
-                                100% vetted and verified users on the platform to ensure trust in every transaction.
-                            </p>
-                        </div>
-                    </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4" style="padding-bottom: 25px;">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-4 rounded-circle">
@@ -266,7 +238,41 @@
                             </p>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="row row-grid align-items-start">
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-cloud"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Remote Notarisation</h5>
+                            <p class="mb-0">
+                                Prepare and notarise your documents at the touch of a button.
+                            </p>
+                        </div>
+                    </div>
 
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-shield"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Trusted</h5>
+                            <p class="mb-0">
+                                100% vetted and verified users on the platform to ensure trust in every transaction.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4" style="padding-bottom: 26px;">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-4 rounded-circle">
@@ -455,7 +461,7 @@
                                 <div class="card-body">
                                     <p>
                                         ToNote is available 24 hours a day, 7 days a week except public or bank
-                                        holidays. You can log in to the app to get your documents signed and notarized
+                                        holidays. You can log in to the app to get your documents signed and notarised
                                         at any time. For help, send us an email on
                                         <a href="mailto:fikayo@gettonote.com" target="_blank">fikayo@gettonote.com</a>.
                                     </p>
@@ -529,7 +535,7 @@
                                             each transaction is attached to each notarised document.
                                         </li>
                                         <li>
-                                            Each session is recorded for future audit purposes.
+                                            Each session is recorded for future retrieval and audit purposes.
                                         </li>
                                     </ol>
                                 </div>
@@ -779,17 +785,19 @@
     <!--promo section end-->
 
     <!--about us section start-->
-    <section id="about" class="about-us ptb-100 gray-light-bg">
+    <section id="about" class="about-us ptb-75 gray-light-bg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <!--                <div class="col-md-4">-->
-                <!--                    <div class="about-content-right">-->
-                <!--                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
-                <!--                    </div>-->
-                <!--                </div>-->
+<!--                                <div class="col-md-4">-->
+<!--                                    <div class="about-content-right">-->
+<!--                                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
+<!--                                    </div>-->
+<!--                                </div>-->
 
                 <div class="col-md-5">
+                    <img src="img/about-image.png" alt="about us" class="img-fluid mx-auto w-75">
                     <div class="about-content-left section-heading">
+
                         <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
                         <h3>
                             Start Earning Remotely with ToNote
