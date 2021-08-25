@@ -34,11 +34,12 @@
                     </div>
                 </div>
                 <div class="col-9 col-md-7 col-lg-5 offset-xl-1 align-self-sm-end">
-                    <div class="hero-img position-relative" style="width: 98%;">
+                    <div class="hero-img position-relative" style="width: 96%;">
                         <div class="image-bg-positioning" style="overflow: hidden;">
                             <!--                            <img src="img/app-product.png" alt="" class="img-fluid">-->
-                            <video preload="auto" loop="loop" js-play="" autoplay="autoplay" muted="muted"
-                                   style="border: none; width: 102% !important; margin-left: -6px" poster="img/app-product.png">
+                            <video preload="metadata" autoplay="autoplay" muted="muted" playsinline autobuffer loop="loop"
+                                   style="border: none; width: 102% !important; margin-left: -4px" id="intro-video"
+                                   poster="img/sign.png">
                                 <source class="img-fluid" src="video/video.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>

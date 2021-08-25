@@ -136,5 +136,14 @@
 <script src="js/validator.min.js"></script>
 <!--custom js-->
 <script src="js/scripts.js"></script>
+<script>
+    $('body').on('click touchstart', function () {
+        const videoElement = document.getElementById('intro-video');
+        if (!videoElement.playing) {
+            // video is already playing so do nothing
+            videoElement.play();
+        }
+    });
+</script>
 </body>
 </html>
