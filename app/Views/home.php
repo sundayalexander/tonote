@@ -34,10 +34,11 @@
                     </div>
                 </div>
                 <div class="col-9 col-md-7 col-lg-5 offset-xl-1 align-self-sm-end">
-                    <div class="hero-img position-relative">
-                        <div class="image-bg-positioning">
+                    <div class="hero-img position-relative" style="width: 98%;">
+                        <div class="image-bg-positioning" style="overflow: hidden;">
                             <!--                            <img src="img/app-product.png" alt="" class="img-fluid">-->
-                            <video muted="muted" loop="loop" js-play="" autoplay="autoplay" style="border: none; width: 90% !important; ">
+                            <video preload="auto" loop="loop" js-play="" autoplay="autoplay" muted="muted"
+                                   style="border: none; width: 102% !important; margin-left: -6px" poster="img/app-product.png">
                                 <source class="img-fluid" src="video/video.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -358,7 +359,7 @@
     <!--our video promo section end-->
 
     <!--promo section start-->
-    <section id="faq" class="promo-section ptb-100">
+    <section id="faq" class="promo-section ptb-50">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-9 mx-auto">
@@ -768,7 +769,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-9 mx-auto">
-                    <div class="section-heading mb-5 text-center">
+                    <div class="section-heading text-center">
                         <h6>
                             I still have questions?
                         </h6>
@@ -785,7 +786,7 @@
     <!--promo section end-->
 
     <!--about us section start-->
-    <section id="about" class="about-us ptb-75 gray-light-bg">
+    <section id="about" class="about-us ptb-60 gray-light-bg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
 <!--                                <div class="col-md-4">-->
@@ -795,15 +796,14 @@
 <!--                                </div>-->
 
                 <div class="col-md-5">
-                    <img src="img/about-image.png" alt="about us" class="img-fluid mx-auto w-75">
+                    <img src="img/about-image.png" alt="about us" class="img-fluid mx-auto w-50">
                     <div class="about-content-left section-heading">
 
                         <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
                         <h3>
                             Start Earning Remotely with ToNote
                         </h3>
-
-                        <div class="single-feature mb-4 mt-5">
+                        <div class="single-feature mb-4">
                             <div class="icon-box-wrap d-flex align-items-center mb-2">
                                 <!--                                <div class="mr-3 icon-box">-->
                                 <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->

@@ -3267,3 +3267,6 @@ li.nav-item .solid-btn:hover, .white-bg.affix ul li .solid-btn:hover{
 .mailchimp-form  form .button {
     cursor: pointer;
 }
+.ptb-50{
+    padding: 50px 0;
+}
