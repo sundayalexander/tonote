@@ -197,23 +197,6 @@
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-archive"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Document Storage & Retrieval</h5>
-                            <p class="mb-0">
-                                Documents and notary sessions securely stored via encrypted digital locker
-                                for future retrieval and audits.
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-4" style="padding-bottom: 25px;">
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
                                 <span class="ti-lock"></span>
                             </div>
                         </div>
@@ -225,7 +208,60 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4" style="padding-bottom: 25px;">
+
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-notepad"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>E-signing & Stamping</h5>
+                            <p class="mb-0">
+                                Receive, sign & share documents instantly and at the touch of a button.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-cloud"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Online Notarisation</h5>
+                            <p class="mb-0">
+                                Prepare and notarise your documents at the touch of a button.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="row row-grid align-items-start">
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-start mb-5">
+                        <div class="pr-4">
+                            <div class="icon icon-shape icon-color-4 rounded-circle">
+                                <span class="ti-archive"></span>
+                            </div>
+                        </div>
+                        <div class="icon-text">
+                            <h5>Document Storage & Retrieval</h5>
+                            <p class="mb-0">
+                                Documents and notary sessions securely stored via encrypted digital locker
+                                for future retrieval and audits.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
                             <div class="icon icon-shape icon-color-4 rounded-circle">
@@ -241,24 +277,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row row-grid align-items-start">
-                <div class="col-lg-4">
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-cloud"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Remote Notarisation</h5>
-                            <p class="mb-0">
-                                Prepare and notarise your documents at the touch of a button.
-                            </p>
-                        </div>
-                    </div>
 
-                </div>
                 <div class="col-lg-4">
                     <div class="d-flex align-items-start mb-5">
                         <div class="pr-4">
@@ -267,28 +286,14 @@
                             </div>
                         </div>
                         <div class="icon-text">
-                            <h5>Trusted</h5>
+                            <h5>Identity Verification</h5>
                             <p class="mb-0">
                                 100% vetted and verified users on the platform to ensure trust in every transaction.
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4" style="padding-bottom: 26px;">
-                    <div class="d-flex align-items-start mb-5">
-                        <div class="pr-4">
-                            <div class="icon icon-shape icon-color-4 rounded-circle">
-                                <span class="ti-notepad"></span>
-                            </div>
-                        </div>
-                        <div class="icon-text">
-                            <h5>Full Service</h5>
-                            <p class="mb-0">
-                                Conveniently Sign, Share and Seal documents.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
@@ -359,8 +364,77 @@
     </section>
     <!--our video promo section end-->
 
+    <!--about us section start-->
+    <section id="about" class="about-us ptb-60">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <!--                                <div class="col-md-4">-->
+                <!--                                    <div class="about-content-right">-->
+                <!--                                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
+                <!--                                    </div>-->
+                <!--                                </div>-->
+
+                <div class="col-md-5">
+                    <img src="img/about-image.png" alt="about us" class="img-fluid mx-auto w-50">
+                    <div class="about-content-left section-heading">
+
+                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
+                        <h3>
+                            Start Earning Remotely with ToNote
+                        </h3>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap d-flex align-items-center mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    Are you a certified Notary Public in search of a market place full of potential
+                                    customers?
+                                </p>
+                            </div>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <p class="mb-0">
+                                    With ToNote, you can offer your notary public services from anywhere and at anytime.
+                                    Complete the form and submit to start earning once the platform launches.
+                                </p>
+                            </div>
+                            <p></p>
+                        </div>
+                        <div class="single-feature mb-4">
+                            <div class="icon-box-wrap mb-2">
+                                <!--                                <div class="mr-3 icon-box">-->
+                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
+                                <!--                                </div>-->
+                                <!--                                <div class="action-btn mt-4">-->
+                                <!--                                    <a href="#" class="btn solid-btn">LEARN MORE</a>-->
+                                <!--                                </div>-->
+                            </div>
+                            <p></p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <h5 class="mt-4 mb-4 sub-title">
+                        Sign Up To Become an E-Notary Public
+                    </h5>
+                    <iframe loading="lazy" src="<?= $form_url ?>"
+                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
+                            style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--about us section end-->
+
     <!--promo section start-->
-    <section id="faq" class="promo-section ptb-50">
+    <section id="faq" class="promo-section ptb-50 gray-light-bg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-9 mx-auto">
@@ -465,7 +539,7 @@
                                         ToNote is available 24 hours a day, 7 days a week except public or bank
                                         holidays. You can log in to the app to get your documents signed and notarised
                                         at any time. For help, send us an email on
-                                        <a href="mailto:fikayo@gettonote.com" target="_blank">fikayo@gettonote.com</a>.
+                                        <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>.
                                     </p>
                                     <p style="font-style: italic;">
                                         <em>
@@ -786,75 +860,6 @@
     </section>
     <!--promo section end-->
 
-    <!--about us section start-->
-    <section id="about" class="about-us ptb-60 gray-light-bg">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-<!--                                <div class="col-md-4">-->
-<!--                                    <div class="about-content-right">-->
-<!--                                        <img src="img/image-15.png" alt="about us" class="img-fluid">-->
-<!--                                    </div>-->
-<!--                                </div>-->
-
-                <div class="col-md-5">
-                    <img src="img/about-image.png" alt="about us" class="img-fluid mx-auto w-50">
-                    <div class="about-content-left section-heading">
-
-                        <!--                        <span class="text-uppercase color-secondary sub-title">Android or ios Apps</span>-->
-                        <h3>
-                            Start Earning Remotely with ToNote
-                        </h3>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap d-flex align-items-center mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    Are you a certified Notary Public in search of a market place full of potential
-                                    customers?
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <p class="mb-0">
-                                    With ToNote, you can offer your notary public services from anywhere and at anytime.
-                                    Complete the form and submit to start earning once the platform launches.
-                                </p>
-                            </div>
-                            <p></p>
-                        </div>
-                        <div class="single-feature mb-4">
-                            <div class="icon-box-wrap mb-2">
-                                <!--                                <div class="mr-3 icon-box">-->
-                                <!--                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">-->
-                                <!--                                </div>-->
-                                <!--                                <div class="action-btn mt-4">-->
-                                <!--                                    <a href="#" class="btn solid-btn">LEARN MORE</a>-->
-                                <!--                                </div>-->
-                            </div>
-                            <p></p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-6">
-                    <h5 class="mt-4 mb-4 sub-title">
-                        Sign Up To Become an E-Notary Public
-                    </h5>
-                    <iframe loading="lazy" src="<?= $form_url ?>"
-                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
-                            style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--about us section end-->
-
     <!--client section start-->
     <!--    <section class="client-section ptb-100">-->
     <!--        <div class="container">-->
@@ -933,11 +938,12 @@
                         <!--                        <h6><strong>Head Office</strong></h6>-->
                         <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
                         <ul>
-                            <li><span>Phone: <a href="tel:+2349131585399" target="_blank">+234-913-1585-399</a></span>
+                            <li><span>Phone: <a href="tel:+2349057170627" target="_blank">+2349057170627</a></span>
                             </li>
                             <li>
-                                <span>Email : <a href="mailto:fikayo@gettonote.com"
-                                                 target="_blank">fikayo@gettonote.com</a></span>
+                                <span>
+                                    Email : <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>
+                                </span>
                             </li>
                         </ul>
                     </div>
@@ -945,15 +951,24 @@
                 <div class="col-md-7">
                     <form action="#" method="POST" id="contactForm" class="contact-us-form" novalidate="novalidate">
                         <h5>Get In Touch</h5>
+<!--                        <div class="row">-->
+<!--                            <div class="col-sm-6 col-12">-->
+<!--                                <div class="form-group">-->
+<!--                                    <input type="text" class="form-control" name="name" id="name"-->
+<!--                                           placeholder="Enter name"-->
+<!--                                           required="required">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-sm-6 col-12">-->
+<!--                                <div class="form-group">-->
+<!--                                    <input type="email" class="form-control" name="email" id="email"-->
+<!--                                           placeholder="Enter email"-->
+<!--                                           required="required">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
                         <div class="row">
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" name="name" id="name"
-                                           placeholder="Enter name"
-                                           required="required">
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-12">
+                            <div class="col-sm-12 col-12">
                                 <div class="form-group">
                                     <input type="email" class="form-control" name="email" id="email"
                                            placeholder="Enter email"
@@ -961,20 +976,20 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" name="phone" value="" class="form-control" id="phone"
-                                           placeholder="Your Phone">
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-12">
-                                <div class="form-group">
-                                    <input type="text" name="company" value="" size="40" class="form-control"
-                                           id="company" placeholder="Your Company">
-                                </div>
-                            </div>
-                        </div>
+<!--                        <div class="row">-->
+<!--                            <div class="col-sm-6 col-12">-->
+<!--                                <div class="form-group">-->
+<!--                                    <input type="text" name="phone" value="" class="form-control" id="phone"-->
+<!--                                           placeholder="Your Phone">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-sm-6 col-12">-->
+<!--                                <div class="form-group">-->
+<!--                                    <input type="text" name="company" value="" size="40" class="form-control"-->
+<!--                                           id="company" placeholder="Your Company">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
                         <div class="row">
                             <div class="col-12">
                                 <div class="form-group">

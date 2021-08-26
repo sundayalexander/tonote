@@ -49,8 +49,8 @@
     <link rel="stylesheet" href="css/responsive.css">
 
 </head>
-<body class="gray-light-bg">
-<div class="gray-light-bg">
+<body class="">
+<div class="">
 <!--                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
 <style type="text/css">
     /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.

@@ -8,12 +8,29 @@
          style="background: url('img/footer-bg.png')no-repeat center top / cover">
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
+                <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-md-4 mb-sm-5 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
-                        <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">
-                        <p>
-                            ToNote is a legally binding and fully remote way to sign, notarise and share documents with ease
-                        </p>
+<!--                        <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">-->
+<!--                        <p>-->
+<!--                            ToNote is a legally binding and fully remote way to sign, notarise and share documents with ease-->
+<!--                        </p>-->
+                        <div class="footer-nav-wrap text-white">
+                            <h5 class="mb-3 text-white">Contact</h5>
+                            <ul class="list-unstyled support-list">
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-mobile mr-2"></span>
+                                    <a href="tel:+2349057170627">+2349057170627</a>
+                                </li>
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-email mr-2"></span>
+                                    <a href="mailto:ask@gettonote.com">ask@gettonote.com</a>
+                                </li>
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-map-alt mr-2"></span>
+                                    address
+                                </li>
+                            </ul>
+                        </div>
 
                         <div class="social-list-wrap">
                             <ul class="social-list list-inline list-unstyled">
@@ -37,55 +54,33 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-8">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
-                            <div class="footer-nav-wrap text-white">
-                                <h5 class="mb-3 text-white">Quick Links</h5>
-                                <ul class="list-unstyled">
-                                    <li class="mb-2"><a href="#">Home</a></li>
-                                    <li class="mb-2"><a href="#">FAQ</a></li>
-                                    <li class="mb-2"><a href="#">Contact Us</a></li>
-                                    <li class="mb-2"><a href="#">Documentation</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
-                            <div class="footer-nav-wrap text-white">
-                                <h5 class="mb-3 text-white">Company</h5>
-                                <ul class="list-unstyled support-list">
-                                    <li class="mb-2">
-                                        <a href="#">About Us</a>
-                                    </li>
-                                    <li class="mb-2">
-                                        <a href="#">Privacy Policy</a>
-                                    </li>
-                                    <li class="mb-2">
-                                        <a href="#">Terms of Use</a>
-                                    </li>
-                                    <li class="mb-2">
-                                        <a href="#">Our Team</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-4 col-lg-4">
-                            <div class="footer-nav-wrap text-white">
-                                <h5 class="mb-3 text-white">Contact</h5>
-                                <ul class="list-unstyled support-list">
-                                    <li class="mb-2 d-flex align-items-center">
-                                        <span class="ti-mobile mr-2"></span>
-                                        <a href="tel:+2349131585399">+234-913-1585-399</a>
-                                    </li>
-                                    <li class="mb-2 d-flex align-items-center">
-                                        <span class="ti-email mr-2"></span>
-                                        <a href="mailto:fikayo@gettonote.com">fikayo@gettonote.com</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-sm-5 mb-md-0 mb-lg-0">
+                    <div class="footer-nav-wrap text-white">
+                        <h5 class="mb-3 text-white">Quick Links</h5>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><a href="#">Home</a></li>
+                            <li class="mb-2"><a href="#">FAQ</a></li>
+                            <li class="mb-2"><a href="#">Contact Us</a></li>
+                        </ul>
                     </div>
                 </div>
+                <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-sm-5 mb-md-0 mb-lg-0">
+                    <div class="footer-nav-wrap text-white">
+                        <h5 class="mb-3 text-white">Company</h5>
+                        <ul class="list-unstyled support-list">
+                            <li class="mb-2">
+                                <a href="#">About Us</a>
+                            </li>
+                            <li class="mb-2">
+                                <a href="#">Privacy Policy</a>
+                            </li>
+                            <li class="mb-2">
+                                <a href="#">Terms of Use</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
             </div>
         </div>
         <!--footer bottom copyright start-->
