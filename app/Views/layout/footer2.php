@@ -4,12 +4,34 @@
 <footer class="footer-section">
 
     <!--footer top start-->
-    <div class="footer-top pt-4 background-img-2"
-         style="background: url('img/footer-bg.png') no-repeat center top / cover">
+    <div class="footer-top pt-60 background-img-2"
+         style="background: url('img/footer-bg.png')no-repeat center top / cover">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-md-4 mb-sm-5 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
+<!--                        <img src="img/logo-white.svg" alt="footer logo" width="120" class="img-fluid mb-3">-->
+<!--                        <p>-->
+<!--                            ToNote is a legally binding and fully remote way to sign, notarise and share documents with ease-->
+<!--                        </p>-->
+                        <div class="footer-nav-wrap text-white">
+                            <h5 class="mb-3 text-white">Contact</h5>
+                            <ul class="list-unstyled support-list">
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-mobile mr-2"></span>
+                                    <a href="tel:+2349057170627">+2349057170627</a>
+                                </li>
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-email mr-2"></span>
+                                    <a href="mailto:ask@gettonote.com">ask@gettonote.com</a>
+                                </li>
+                                <li class="mb-2 d-flex align-items-center">
+                                    <span class="ti-map-alt mr-2"></span>
+                                    address
+                                </li>
+                            </ul>
+                        </div>
+
                         <div class="social-list-wrap">
                             <ul class="social-list list-inline list-unstyled">
                                 <li class="list-inline-item">
@@ -32,34 +54,37 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-8 col-lg-8 mb-4 mb-sm-5 mb-md-0 mb-lg-0">
-                    <div class="footer-nav-wrap text-white text-lg-right text-md-right text-left">
-                        <ul class="list-inline list-unstyled">
-                            <li class="mb-2 list-inline-item">
-                                <a href="/#home" class="page-scroll">Home</a>
+                <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-sm-5 mb-md-0 mb-lg-0">
+                    <div class="footer-nav-wrap text-white">
+                        <h5 class="mb-3 text-white">Quick Links</h5>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><a href="#">Home</a></li>
+                            <li class="mb-2"><a href="#">FAQ</a></li>
+                            <li class="mb-2"><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-sm-5 mb-md-0 mb-lg-0">
+                    <div class="footer-nav-wrap text-white">
+                        <h5 class="mb-3 text-white">Company</h5>
+                        <ul class="list-unstyled support-list">
+                            <li class="mb-2">
+                                <a href="#">About Us</a>
                             </li>
-                            <li class="mb-2 list-inline-item">
-                                <a href="/#faq" class="page-scroll">FAQ</a>
+                            <li class="mb-2">
+                                <a href="#">Privacy Policy</a>
                             </li>
-                            <li class="mb-2 list-inline-item">
-                                <a href="/#contact" class="page-scroll">Contact Us</a>
-                            </li>
-                            <li class="mb-2 list-inline-item">
-                                <a href="/#about" class="page-scroll">About Us</a>
-                            </li>
-                            <li class="mb-2 list-inline-item">
-                                <a href="<?= $privacy_url ?>">Privacy Policy</a>
-                            </li>
-                            <li class="mb-2 list-inline-item">
+                            <li class="mb-2">
                                 <a href="#">Terms of Use</a>
                             </li>
                         </ul>
                     </div>
                 </div>
+
             </div>
         </div>
         <!--footer bottom copyright start-->
-        <div class="footer-bottom border-gray-light mt-1 py-3">
+        <div class="footer-bottom border-gray-light mt-5 py-3">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-lg-7">

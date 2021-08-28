@@ -37,7 +37,8 @@
                     <div class="hero-img position-relative" style="width: 96%;">
                         <div class="image-bg-positioning" style="overflow: hidden;">
                             <!--                            <img src="img/app-product.png" alt="" class="img-fluid">-->
-                            <video preload="metadata" autoplay="autoplay" muted="muted" playsinline autobuffer loop="loop"
+                            <video preload="metadata" autoplay="autoplay" muted="muted" playsinline autobuffer
+                                   loop="loop"
                                    style="border: none; width: 102% !important; margin-left: -4px" id="intro-video"
                                    poster="img/sign.png">
                                 <source class="img-fluid" src="video/video.mp4" type="video/mp4">
@@ -935,8 +936,10 @@
                         </p>
                     </div>
                     <div class="footer-address">
-                        <!--                        <h6><strong>Head Office</strong></h6>-->
-                        <!--                        <p>121 King St, Melbourne VIC 3000, Australia</p>-->
+                        <h6>
+                            <strong>Office Address</strong>
+                        </h6>
+                        <p>1625b Saka Jojo St, Victoria Island.</p>
                         <ul>
                             <li><span>Phone: <a href="tel:+2349057170627" target="_blank">+2349057170627</a></span>
                             </li>
@@ -945,28 +948,29 @@
                                     Email : <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>
                                 </span>
                             </li>
+
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-7">
                     <form action="#" method="POST" id="contactForm" class="contact-us-form" novalidate="novalidate">
                         <h5>Get In Touch</h5>
-<!--                        <div class="row">-->
-<!--                            <div class="col-sm-6 col-12">-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="text" class="form-control" name="name" id="name"-->
-<!--                                           placeholder="Enter name"-->
-<!--                                           required="required">-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                            <div class="col-sm-6 col-12">-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="email" class="form-control" name="email" id="email"-->
-<!--                                           placeholder="Enter email"-->
-<!--                                           required="required">-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                        <!--                        <div class="row">-->
+                        <!--                            <div class="col-sm-6 col-12">-->
+                        <!--                                <div class="form-group">-->
+                        <!--                                    <input type="text" class="form-control" name="name" id="name"-->
+                        <!--                                           placeholder="Enter name"-->
+                        <!--                                           required="required">-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                            <div class="col-sm-6 col-12">-->
+                        <!--                                <div class="form-group">-->
+                        <!--                                    <input type="email" class="form-control" name="email" id="email"-->
+                        <!--                                           placeholder="Enter email"-->
+                        <!--                                           required="required">-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                         <div class="row">
                             <div class="col-sm-12 col-12">
                                 <div class="form-group">
@@ -976,20 +980,20 @@
                                 </div>
                             </div>
                         </div>
-<!--                        <div class="row">-->
-<!--                            <div class="col-sm-6 col-12">-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="text" name="phone" value="" class="form-control" id="phone"-->
-<!--                                           placeholder="Your Phone">-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                            <div class="col-sm-6 col-12">-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="text" name="company" value="" size="40" class="form-control"-->
-<!--                                           id="company" placeholder="Your Company">-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                        <!--                        <div class="row">-->
+                        <!--                            <div class="col-sm-6 col-12">-->
+                        <!--                                <div class="form-group">-->
+                        <!--                                    <input type="text" name="phone" value="" class="form-control" id="phone"-->
+                        <!--                                           placeholder="Your Phone">-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                            <div class="col-sm-6 col-12">-->
+                        <!--                                <div class="form-group">-->
+                        <!--                                    <input type="text" name="company" value="" size="40" class="form-control"-->
+                        <!--                                           id="company" placeholder="Your Company">-->
+                        <!--                                </div>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
                         <div class="row">
                             <div class="col-12">
                                 <div class="form-group">

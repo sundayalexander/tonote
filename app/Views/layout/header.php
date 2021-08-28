@@ -21,8 +21,13 @@
     <meta property="og:type" content="website"/>
 
     <!--title-->
-<!--    <title>--><?//= $title ?><!-- - ToNote</title>-->
+    <?php if(!empty($title) && $title !== null){
+        ?>
+    <title><?=$title?> - ToNote</title>
+        <?php
+    }else{ ?>
     <title>ToNote - A convenient and remote way of closing transactions</title>
+    <?php } ?>
 
     <!--favicon icon-->
     <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
@@ -74,14 +79,14 @@
                         <a class="nav-link page-scroll" href="<?php echo route_to('App\Controllers\Home::index'); ?>">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">Become a Remote Online Notary</a>
+                        <a class="nav-link page-scroll" href="/#about">Become a Remote Online Notary</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#faq">FAQ</a>
+                        <a class="nav-link page-scroll" href="/#faq">FAQ</a>
                     </li>
                     <li class="nav-item">
                         <div class="action-btn">
-                            <a class="page-scroll btn solid-btn" href="#join-list">Notify Me</a>
+                            <a class="page-scroll btn solid-btn" href="/#join-list">Notify Me</a>
                         </div>
                     </li>
 

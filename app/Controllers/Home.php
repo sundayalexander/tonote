@@ -4,12 +4,13 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+    private $urls = ['form_url' =>  'signup', 'privacy_url' => 'privacy'];
     /**
      * Index view
      */
     public function index()
     {
-        $this->view('home', ['form_url' =>  'signup']);
+        $this->view('home', $this->urls);
     }
 
     /**
@@ -20,8 +21,18 @@ class Home extends BaseController
         return view('signup');
     }
 
-    public function contact()
-    {
+    /**
+     * Signup view
+     * @return string
+     */
+    public function privacy(){
+        $data = $this->urls;
+        $data['title'] = 'Privacy Policy';
+        $this->view('privacy', $data);
+    }
+
+
+    public function contact(){
 
         // an email address that will be in the From field of the email.
         $from = 'Demo contact form <demo@domain.com>';
