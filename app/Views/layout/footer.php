@@ -51,7 +51,7 @@
                                 <a href="<?= $privacy_url ?>">Privacy Policy</a>
                             </li>
                             <li class="mb-2 list-inline-item">
-                                <a href="#">Terms of Use</a>
+                                <a href="<?= $terms_url ?>">Terms of Use</a>
                             </li>
                         </ul>
                     </div>

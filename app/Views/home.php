@@ -186,7 +186,8 @@
                         <!--                        </span>-->
                         <h2>ToNote Key Features</h2>
                         <p>
-                            Discover essential features that make transaction closings safer and speedier
+                            Discover essential features that lowers cost by 50%, saves time - 7x faster and elevates
+                            your workflow
                         </p>
 
                     </div>
@@ -441,7 +442,7 @@
                 <div class="col-lg-8 col-md-9 mx-auto">
                     <div class="section-heading mb-5 text-center">
                         <h2>Frequently Asked Questions</h2>
-                        <p class="lead">
+                        <p>
                             Below you’ll find answers to the most common questions you may have about ToNote
                             and Notary services. If you still can’t find the answer you’re looking for, leave us a
                             message and we will respond shortly.
@@ -849,10 +850,6 @@
                         <h6>
                             I still have questions?
                         </h6>
-                        <p class="lead">
-                            Send us an email on <a href="mail:ask@gettonote.com" target="_blank">ask@gettonote.com</a>
-                            or call us on <a href="tel:+2349057170627" target="_blank">+2349057170627</a>
-                        </p>
                     </div>
                 </div>
             </div>

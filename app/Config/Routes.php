@@ -35,6 +35,7 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('/signup', 'Home::signup');
 $routes->get('/privacy', 'Home::privacy');
+$routes->get('/terms', 'Home::terms');
 
 /*
  * --------------------------------------------------------------------

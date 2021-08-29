@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
-    private $urls = ['form_url' =>  'signup', 'privacy_url' => 'privacy'];
+    private $urls = ['form_url' =>  'signup', 'privacy_url' => 'privacy', 'terms_url' => 'terms'];
     /**
      * Index view
      */
@@ -22,13 +22,21 @@ class Home extends BaseController
     }
 
     /**
-     * Signup view
-     * @return string
+     * Privacy view
      */
     public function privacy(){
         $data = $this->urls;
         $data['title'] = 'Privacy Policy';
         $this->view('privacy', $data);
+    }
+
+    /**
+     * Terms and Conditions view
+     */
+    public function terms(){
+        $data = $this->urls;
+        $data['title'] = 'Terms & Conditions';
+        $this->view('terms', $data);
     }
 
 
@@ -73,7 +81,7 @@ class Home extends BaseController
                 }
             }
 
-            // All the neccessary headers for the email.
+            // All the necessary headers for the email.
             $headers = array('Content-Type: text/plain; charset="UTF-8";',
                 'From: ' . $from,
                 'Reply-To: ' . $from,
