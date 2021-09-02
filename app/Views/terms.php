@@ -271,7 +271,6 @@
                             </tr>
                             </tbody>
                         </table>
-
                     </div>
                 </div>
                 <div class="col-12 mb-4">
@@ -538,271 +537,543 @@
 
                 <div class="col-12 mb-4">
                     <div class="single-faq">
-                        <h5>Transfer of Personal Data Outside the Country</h5>
+                        <h5>Intellectual Property and other Rights</h5>
                         <p>
-                            We may transfer Personal Data outside Nigeria in the following circumstances:
+                            The Platform is protected by applicable intellectual property and other laws, including
+                            trademark and copyrights laws and treaties. The Platform, including all Intellectual
+                            Property Rights in the Platform, including the Content, belongs to and is the property of
+                            ToNote or its licensors (if any). Neither these Terms nor your access and use of the
+                            Platform gives you any ownership rights or licenses to the Content.
+                        </p>
+                        <p>
+                            Subject to the Terms herein, ToNote grants you a limited, non-exclusive and non-transferable
+                            license to access and use the Platform as expressly permitted in these Terms and any
+                            applicable paid User plan that enables registration of an Account for the use of the
+                            Platform, when applicable.
+                        </p>
+                        <p>
+                            The rights granted to you in the Terms are subject to the following restrictions:
                         </p>
                         <ul class="list-unstyled support-list">
-                            <li class="mb-2 d-flex align-items-start mb-4">
+                            <li class="mb-2 align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
                                 with your consent;
                             </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
+                            <li class="mb-2 align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer is necessary for the performance of a contract between you and
-                                ToNote or the implementation of pre-contractual measures
-                                taken at your request;
+                                you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host
+                                or otherwise commercially exploit or create derivate works based on the Platform,
+                                Content and back-end databases, (collectively, “<strong class="text-dark">ToNote’s
+                                    Properties</strong>”) or any portion of ToNote’s Properties;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer is necessary for the conclusion or performance of a contract concluded in
-                                your interest between the Company and another natural or legal person;
+                                you shall not frame or utilize framing techniques to enclose any trademark, logo, or
+                                other ToNote’s Properties (including images, text, page layout or form) of ToNote;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer is necessary for important reasons of public interest;
+                                you shall not use any metatags or other hidden text using ToNote’s name or trademarks;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer is necessary for the establishment, exercise, or defense of legal claims;
-                                or
+                                you shall not modify, translate, adapt, merge, make derivative works of, disassemble,
+                                decompile, reverse compile or reverse engineer any part of ToNote’s Properties except to
+                                the extent the foregoing restrictions are expressly prohibited by Applicable Law;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer is necessary in order to protect your vital interests; or of other persons,
-                                where you are physically or legally incapable of giving consent.
+                                access ToNote’s Properties in order to build a similar or competitive website,
+                                application or service;
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                except as expressly stated herein, no part of ToNote’s Properties may be copied,
+                                reproduced, distributed, republished, downloaded, displayed, posted or transmitted in
+                                any form or by any means;
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                you shall not remove or destroy any copyright notices or other proprietary markings
+                                contained on or in ToNote’s Properties; and
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                you shall not use ’s Properties for any illegal or unlawful purpose.
                             </li>
                         </ul>
                         <p>
-                            Upon the transfer of information outside Nigeria, some principles of data protection may
-                            be violated in the receiving country. By consenting to the processing of your Personal
-                            Data, you consent to the transfer of your Personal Data outside Nigeria.
+                            Any unauthorized use of ToNote’s Properties may result in the immediate termination of your
+                            right to use the Platform, as well as, potential liability for copyright infringement or
+                            other claims depending on the circumstances.
                         </p>
                     </div>
                 </div>
                 <div class="col-12 mb-4">
                     <div class="single-faq">
-                        <h5>Retention of Personal Data</h5>
-                        <ul class="list-unstyled support-list">
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                We will only retain your Personal Data for as long as reasonably necessary to fulfil the
-                                purposes we collected it for, including for the purposes of satisfying any legal,
-                                regulatory, tax, accounting or reporting requirements. We may retain your Personal Data
-                                for a longer period in the event of a complaint or if we reasonably believe there is a
-                                prospect of litigation in respect to our relationship with you. Where information is
-                                kept for a longer period, such as in back up storage, or archives, such information
-                                would be safeguarded in accordance with this Privacy Policy.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                To determine the appropriate retention period for Personal Data, we consider the amount,
-                                nature and sensitivity of the Personal Data, the potential risk of harm from
-                                unauthorised use or disclosure of your Personal Data, the purposes for which we process
-                                your Personal Data and whether we can achieve those purposes through other means, and
-                                the applicable legal, regulatory, reporting or other requirements.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Where any information retained is stored in an encrypted format, considerations must be
-                                taken for secure storage of the encryption keys. Encryption keys must be retained as
-                                long as the data that the keys decrypt is retained.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                In some circumstances we will anonymise your Personal Data (so that it can no longer be
-                                associated with you) for research or statistical purposes, in which case we may retain
-                                and use this information indefinitely without further notice to you.
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 mb-4">
-                    <div class="single-faq">
-                        <h5>Violations</h5>
+                        <h5>Data Protection</h5>
                         <p>
-                            We will take swift action to remedy any suspected breaches of Personal Data.
+                            ToNote shall comply with the requirement of Applicable Laws relating to the use of Personal
+                            Data in connection with the Platform.
                         </p>
                         <p>
-                            We will not be responsible for any breach of Personal Data which occurs as a result of:
+                            The User warrants that it has the legal right and authority to disclose any and all
+                            data disclosed on the Platform and indemnifies and holds ToNote harmless for any violation
+                            of this provision.
+                        </p>
+                        <p>
+                            The User authorizes ToNote to engage third parties to provide services on the Platform
+                            as may be reasonably required, at ToNote’s sole discretion.
+                        </p>
+                        <p>
+                            the User authorizes and grants its consent for ToNote to:
                         </p>
                         <ul class="list-unstyled support-list">
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                an event which is beyond our control;
+                                review, copy, reformat, modify, display, distribute, or otherwise use your information
+                                to provide services on the Platform;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                an act or threats of terrorism;
+                                capture and store data and information relating to User’s account, identity validation,
+                                Transaction, and Services;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                any act of God (including but not limited to fires, explosions, earthquakes, floods,
-                                epidemics, or pandemics) which compromises our data protection measures;
+                                store, record, distribute, alter, copy transmit and display Transaction information,
+                                documents and identity validation information of the User for any valid legal or
+                                business purpose, and further to maintain and display such information on the Platform’s
+                                Verification Portal to Customer and other Verification Portal Users, including, without
+                                limitation User Confidential Information and User Personal Data that is part of any
+                                Transaction information, Documents and identity validation information;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                war, hostilities (whether war be declared or not), invasion, act of foreign enemies,
-                                requisition, or embargo, rebellion, revolution, insurrection, or military or usurped
-                                power, or civil war which compromises our data protection measures;
+                                convey your information to other parties to your Transaction, or to those with
+                                appropriate authority, or to other third parties as provided by relevant agreements or
+                                applicable law;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the transfer of your Personal Data to a third party on your instructions; or
+                                store, record, distribute, alter, copy, or otherwise use in any manner, format and on
+                                any device or medium the Information from the Transaction for any valid legal or
+                                business purpose and no charge to us;
                             </li>
                             <li class="mb-2 d-flex align-items-start mb-4">
                                 <span class="ti-check-box mr-2"></span>
-                                the use of your Personal Data by a third party designated by you.
+                                transmit User’s information to service providers in connection with services rendered;
+                                and
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                store, maintain, display, and otherwise provide access to User Data in notary journals
+                                and other records of Services and Transactions.
                             </li>
                         </ul>
                         <p>
-                            If you know or suspect that a breach of Personal Data has occurred, or a violation of this
-                            Privacy Policy has occurred, you should immediately contact the Data Protection Officer at
-                            the contact information provided above.
-                        </p>
-                        <p>
-                            Violations of this Privacy Policy by employees may result in disciplinary action.
+                            User represents and warrants that it has sufficient authority and rights to provide the
+                            grant of rights and authorizations.
                         </p>
                     </div>
                 </div>
-                <div class="col-12 mb-4">
-                    <div class="single-faq">
-                        <h5>Your Legal Rights</h5>
-                        <p>
-                            You have the right to:
-                        </p>
-                        <ul class="list-unstyled support-list">
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Request access to your Personal Data (commonly known as a "data subject access
-                                request"). This enables you to receive a copy of the Personal Data we hold about you and
-                                to check that we are lawfully processing it.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Request correction of the Personal Data that we hold about you. This enables you to have
-                                any incomplete or inaccurate data we hold about you corrected, though we may need to
-                                verify the accuracy of the new data you provide to us.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Request erasure of your Personal Data. This enables you to ask us to delete or remove
-                                Personal Data where there is no good reason for us continuing to process it. You also
-                                have the right to ask us to delete or remove your Personal Data where you have
-                                successfully exercised your right to object to processing, where we may have processed
-                                your information unlawfully or where we are required to erase your Personal Data to
-                                comply with local law. Note, however, that we may not always be able to comply with your
-                                request of erasure for specific legal reasons which will be notified to you, if
-                                applicable, at the time of your request.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Object to processing of your Personal Data where we are relying on a legitimate interest
-                                (or those of a third party) and there is something about your particular situation which
-                                makes you want to object to processing on this ground as you feel it impacts on your
-                                fundamental rights and freedoms. You also have the right to object where we are
-                                processing your Personal Data for direct marketing purposes. In some cases, we may
-                                demonstrate that we have compelling legitimate grounds to process your information which
-                                override your rights and freedoms.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                <p>
-                                    Request restriction of processing of your Personal Data. This enables you to ask us
-                                    to
-                                    suspend the processing of your Personal Data in the following scenarios:
 
-                                    <br/>
-                                    i. If you want us to establish the data's accuracy.
-                                    <br>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>User Information and Materials </h5>
+                        <p>
+                            You represent that you have all right title, and interest to materials you post on the
+                            Platform or Documents you provide to ToNote ("Materials"), including but not limited to any
+                            consent, authorization, release, clearance or license from any third party (such as, but not
+                            limited to, any release related to rights of privacy or publicity) necessary for you to
+                            provide, post, upload, input or submit the Materials, and that posting such Materials does
+                            not violate or constitute the infringement of any patent, copyright, trademark, trade
+                            secret, right of privacy, right of publicity, moral rights, or other Intellectual Property
+                            Right recognized by any applicable jurisdiction of any person or entity, or otherwise
+                            constitute the breach of any agreement with any other person or entity.
+                        </p>
+                        <p>
+                            You further represent and warrant that you are who you say you are, that you have not
+                            submitted fictitious, false or inaccurate information about yourself, and that all
+                            information contained in the posted Materials is true and your own work or work you are
+                            authorized to submit, and that the posted Materials do not contain any threatening,
+                            harassing, libelous, false, defamatory, offensive, obscene, or pornographic, material, or
+                            other material that would violate any Applicable Law or regulation. You agree that you will
+                            not knowingly and with intent to defraud provide material and misleading information.
+                        </p>
+                        <p>
+                            You represent and warrant that the Materials you supply do not violate these Terms.
+                        </p>
 
-                                    ii. Where our use of the data is unlawful but you do not want us to erase it.
-                                    <br>
-                                    iii. Where you need us to hold the data even if we no longer require it as you
-                                    need it to establish, exercise or defend legal claims.
-                                    <br>
-                                    iv. You have objected to our use of your Personal Data but we need to verify
-                                    whether we have overriding legitimate grounds to use it.
-                                </p>
 
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Request the transfer of your Personal Data to you or to a third party. We will provide
-                                to you, or a third party you have chosen, your Personal Data in a structured, commonly
-                                used, machine-readable format. Note that this right only applies to automated
-                                information which you initially provided consent for us to use or where we used the
-                                information to perform a contract with you.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                Withdraw consent at any time where we are relying on consent to process your Personal
-                                Data. However, this will not affect the lawfulness of any processing carried out before
-                                you withdraw your consent. If you withdraw your consent, we may not be able to provide
-                                certain products or services to you. We will advise you if this is the case at the time
-                                you withdraw your consent.
-                            </li>
-                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>System Outages</h5>
                         <p>
-                            If you wish to exercise any of the rights set out above, contact the Data Protection Officer
-                            at the contact information provided above.
+                            ToNote periodically schedules system downtime for maintenance and other purposes. In
+                            addition, unplanned system outages also may occur. ToNote does not have any liability and
+                            you waive all liability whatsoever for the resulting unavailability of the Platform or for
+                            any loss of data or transactions caused by planned or unplanned system outages or the
+                            resultant delay, mis-delivery or non-delivery of information caused by such system outages.
                         </p>
                         <p>
-                            You will not have to pay a fee to:
+                            ToNote shall not have any responsibility for any third-party acts or any other outages
+                            of web host providers or the internet infrastructure and network external to the Platform.
                         </p>
-                        <ul class="list-unstyled support-list">
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                access your Personal Data;
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                change your Personal Data provided to us; or
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                to exercise any of the other rights.
-                            </li>
-                        </ul>
+
+                    </div>
+                </div>
+
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Consent</h5>
                         <p>
-                            Notwithstanding the above, we will charge a reasonable fee where:
-                        </p>
-                        <ul class="list-unstyled support-list">
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                any of your requests is clearly unfounded, repetitive, or excessive. Alternatively, we
-                                could refuse to comply with your request in these circumstances if any criminal or
-                                illegal activity is suspected.
-                            </li>
-                            <li class="mb-2 d-flex align-items-start mb-4">
-                                <span class="ti-check-box mr-2"></span>
-                                you request to change your Personal Data in our possession more than three (3) times
-                                within a 12-month period.
-                            </li>
-                        </ul>
-                        <p>
-                            We may need to request specific information from you to help us confirm your identity and
-                            ensure your right to access your Personal Data (or to exercise any of your other rights).
-                            This is a security measure to ensure that Personal Data is not disclosed to any person who
-                            has no right to receive it. We may also contact you to ask you for further information in
-                            relation to your request to speed up our response.
+                            You consent to conduct electronic transactions and receive electronic communications
+                            through the Platform. This includes your consent to: (i) send and receive documents
+                            electronically; (ii) conduct business and complete transactions electronically. You
+                            understand that you are not required to give legal consent, however, if you decline, you
+                            will not be able to use the Platform.
                         </p>
                         <p>
-                            We try to respond to all legitimate requests within one month. Occasionally it could take us
-                            longer than a month if your request is particularly complex or you have made a number of
-                            requests. In this case, we will notify you and keep you updated.
+                            You consent to the verification and authentication of your identity using third-party
+                            services. These methods may include using the Information, databases, audio and video
+                            conferencing technology, SMS text or email verification, credit reports, or other third
+                            party or other information with our Service or by third parties using any identify proofing
+                            methods, such as forensics, knowledge-based questions, biometrics, in any combination of
+                            hardware and software.
+                        </p>
+                        <p>
+                            You grant permission to ToNote to create and store an electronic record of online
+                            notarizations, including a recording of the video and audio conference between a Signatory
+                            and a Notary on the Platform. The electronic record also includes the date and time of the
+                            notarization; the type of notarial act; the type, the title, or a description of the
+                            electronic document or proceeding; the name and address of each Signatory involved in the
+                            Transaction or proceeding; evidence of identity of each Signatory involved in the
+                            Transaction or proceeding in the form of statement that the person is personally known to
+                            the Notary, or a notation of the type of identification document provided to the Notary and
+                            a record of the identity proofing and credential analysis; and the fee charged for the
+                            notarization.
+                        </p>
+                        <p>
+                            You grant permission to ToNote to use your name and/or logo as part of ToNote’s
+                            marketing and promotional efforts.
                         </p>
                     </div>
                 </div>
                 <div class="col-12 mb-4">
                     <div class="single-faq">
-                        <h5>Changes to the Privacy Policy</h5>
+                        <h5>Fees</h5>
                         <p>
-                            We keep our Privacy Policy under regular review.
+                            The fee for the Services are as follows:
+                        </p>
+                        <table class="table-bordered mb-4">
+                            <thead>
+                            <tr>
+                                <td class="p-2 text-dark font-weight-bold ">Item</td>
+                                <td class="p-2 text-dark font-weight-bold ">Cost</td>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="p-1 font-weight-bold" colspan="2">Minimum Viable Product (MVP) Plans</td>
+                            </tr>
+                            <tr>
+                                <td class="p-1">The Free Plan</td>
+                                <td class="p-1">
+                                    -
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="p-1">
+                                    ToNote Business Pro Plan
+                                </td>
+                                <td class="p-1">
+                                    12,500
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="p-1 font-weight-bold" colspan="2">Seals</td>
+                            </tr>
+                            <tr>
+                                <td class="p-1">
+                                    Single Seal
+                                </td>
+                                <td class="p-1">
+                                    8000
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="p-1">
+                                    Additional Seal
+                                </td>
+                                <td class="p-1">
+                                    4000
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <p>
+                            The ToNote Business Pro Plan fee shall be paid on a monthly basis in arrears. Other fees not
+                            included within the Business Pro Plan, such as the price of seals, shall be paid at the time
+                            of each Transaction. All fees for seals shall be due upon completion of the Transaction and
+                            you will not be able to access the applicable Document until payment is made.
                         </p>
                         <p>
-                            It is important that the Personal Data we hold about you is accurate and current. Please
-                            keep us informed if your Personal Data changes during your relationship with us.
+                            The prices, features, and options of the Platform depend on the plan selected by a User.
+                            ToNote does not represent or warrant that a particular plan will be offered indefinitely and
+                            reservces the right to revise the prices for or alter the features and options in a
+                            paticular plan without prior notice.
+                        </p>
+                        <p>
+                            All payments required by these Terms are exclusive of all applicable taxes, duties, levies,
+                            charges.
+                        </p>
+                        <p>
+                            All payments shall be via debit card, direct debit, bank transfer or other methodology as
+                            may be provided on the Platform by ToNote.
+                        </p>
+                        <p>
+                            In the event of any disputes with the fees charged, you shall notify ToNote within 15 days
+                            from payment to enable ToNote investigate the discrepancy and reimburse where necessary.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Third-Party Web Sites</h5>
+                        <p>
+                            ToNote may, from time to time, provide links on the Platform to third party websites
+                            or information, these links are provided solely as a convenience to you. Such links do not
+                            constitute or imply an endorsement, sponsorship, or recommendation by ToNote of the third
+                            party, the third-party website, or the information there.
+                        </p>
+                        <p>
+                            ToNote has no control over, nor assume any responsibility for, the content, privacy
+                            policies, or practices of any third-party websites or services. You further acknowledge and
+                            agree that ToNote shall not be responsible or liable, directly or indirectly, for any damage
+                            or loss caused or alleged to be caused by or in connection with use of or reliance on any
+                            such content, goods or services available on or through any such websites or services.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Downloading files</h5>
+                        <p>
+                            ToNote cannot and does not guarantee or warrant that files available for downloading through
+                            the Platform will be free of infection by software viruses or other harmful computer code,
+                            files or programs.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Disclaimers</h5>
+                        <p>
+                            ToNote and its service providers, licensors and suppliers make no representations
+                            about the suitability, reliability, availability, timeliness, security or accuracy of the
+                            Platform or the Content for any purpose. To the maximum extent permitted by Applicable law,
+                            all such information, software, products, service and related graphics are provided "as is"
+                            without warranty or condition of any kind.
+                        </p>
+                        <p>
+                            ToNote and its service providers, licensors and suppliers hereby disclaim all
+                            warranties and conditions of any kind with regard to the Platform and the Content, including
+                            all implied warranties or conditions of merchantability, fitness for a particular purpose,
+                            title and non-infringement.
+                        </p>
+                        <p>
+                            No statement or information, whether oral or written, obtained from ToNote in any
+                            means or fashion will create any warranty not expressly and explicitly set forth in this
+                            agreement.
+                        </p>
+                        <p>
+                            The Content may include inaccuracies or typographical errors.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Indemnification and Limitation of Liability</h5>
+                        <p>
+                            Except to the extent prohibited by any Applicable Law, you agree to defend, indemnify, and
+                            hold ToNote, its subsidiaries, affiliated companies, licensors, employees, agents, and any
+                            third-party information providers, harmless, including costs and legal fees, from any claim
+                            or demand made by any third party due to or arising out of:
+                        </p>
+                        <ul class="list-unstyled support-list">
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                your use, misuse, or inability to use the Platform or the Content,
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                your violation of these Terms, or
+                            </li>
+                            <li class="mb-2 d-flex align-items-start mb-4">
+                                <span class="ti-check-box mr-2"></span>
+                                your violation of Applicable Laws.
+                            </li>
+                        </ul>
+                        <p>
+                            To the extent not prohibited by law, in no event shall ToNote be liable for any direct,
+                            indirect, incidental, special, punitive, exemplary, indirect, consequential or other types
+                            of damages whatsoever, including, without limitation, damages for loss of profits, loss of
+                            data, business interruption or any other commercial damages or losses, arising out of or
+                            related to your use or inability to use the Platform; any information available on the
+                            Platform; however caused, regardless of the theory of liability (contract, tort or
+                            otherwise) and even if ToNote has been advised of the possibility of such damages.
+                        </p>
+                        <p>
+                            In no event shall ToNote’s total liability to you for all damages (other than as may be
+                            required by applicable law in cases involving personal injury) exceed the amount paid by you
+                            for using the Platform. Provided that where the loss suffered is due to the negligence of
+                            the Notary, the Notary shall bear full liability.
+                        </p>
+                        <p>
+                            The foregoing limitations will apply even if the above stated remedy fails of its essential
+                            purpose.
+                        </p>
+                        <p>
+                            ToNote reserves the right to control the defense of any matter for which you are required to
+                            indemnify us, and you agree to cooperate with our defense of these claims.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Updates and Communications</h5>
+                        <p>
+                            ToNote reserves the right, at its sole discretion, to modify the Platform, Content and these
+                            Terms or any additional terms and conditions that are relevant to the Platform from time to
+                            time to reflect changes in the law or to the Services.
+                        </p>
+                        <p>
+                            ToNote will post the revised terms on the Platform with a “<strong class="text-dark">Last
+                                Modification</strong>” date. Please
+                            review the Platform on a regular basis to obtain timely notice of any revisions. If you
+                            continue to use the Platform after the revisions take effect, you agree to be bound by the
+                            revised terms. You agree that ToNote shall not be liable to you or to any third party for
+                            any modification of the Terms.
+                        </p>
+                        <p>
+                            You agree to receive all communications, agreements, and notices that ToNote provides in
+                            connection with the Services (“<strong class="text-dark">Communication</strong>”),
+                            including, but not limited to,
+                            Communications related to ToNote’s delivery of the Services and your purchase of or
+                            subscription to the Platform via electronic means, including by e-mail, text, inproduct
+                            notifications, or by posting them on the Platform. You agree that all Communications ToNote
+                            provides to you electronically satisfies any legal requirement that such Communications be
+                            in writing or be delivered in a particular manner and to agree to keep your Account contact
+                            information current.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Reference to Privacy Policy</h5>
+                        <p>
+                            For more information on the types and use of personal information ToNote will collect in
+                            order to create your Login Credentials and Account, please review our
+                            <a href="<?= $privacy_url ?>">Privacy Policy</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Force Majeure</h5>
+                        <p>
+                            ToNote is not liable for any loss incurred by a User due to our delay or nonperformance
+                            arising out of any cause or event beyond our control, including acts of civil or military
+                            authority, national emergencies, epidemics, pandemics, labor difficulties, fire, mechanical
+                            breakdown, flood, catastrophe, acts of God, insurrection, war, riots, computer failure,
+                            communications failure, or power failure.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Severance</h5>
+                        <p>
+                            If any provision or part-provision of this Terms is or becomes invalid, illegal or
+                            unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid,
+                            legal and enforceable. If such modification is not possible, the relevant provision or
+                            part-provision shall be deemed deleted. Any modification to or deletion of a provision or
+                            part-provision under this Clause shall not affect the validity and enforceability of the
+                            rest of this Terms.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Termination</h5>
+
+                        <p>
+                            ToNote may cancel, suspend or block your use of the Platform without notice if there
+                            has been a violation of these Terms. Your right to use the Platform will end once your
+                            registration is terminated, and any data you have stored on the Platform will be deleted,
+                            unless ToNote is required to retain it by law or for other valid business purposes.
+                        </p>
+                        <p>
+                            You may terminate your registration at any time. ToNote is not responsible or liable
+                            for any records or information that is made unavailable to you as a result of your
+                            termination of registration. You agree that ToNote will not be liable to you or any other
+                            party for any termination of your access to the Service.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Governing Law and Jurisdiction</h5>
+                        <p>
+                            This Terms and any dispute or claim arising out of or in connection with it or its subject
+                            matter or formation (including non-contractual disputes or claims) shall be governed and
+                            construed in accordance with the laws of the Federal Republic of Nigeria.
+                        </p>
+
+                        <p>
+                            The User agrees that any dispute, difference or claim arising out of or in connection
+                            with this Terms shall be resolved amicably by both parties within 30 days through
+                            negotiations failing which the dispute shall be settled exclusively and finally by
+                            Mediation. There shall be a mediator appointed by the Director of the Lagos Multi-Door
+                            Courthouse who shall settle such dispute.
+                        </p>
+                        <p>
+                            Both Parties agree that the decision of the mediator is final and that they shall be
+                            bound by same and keep the contents of the mediation proceedings strictly confidential.
+                        </p>
+                        <p>
+                            The language of the mediation shall be English, the venue of the mediation shall be
+                            Lagos, Nigeria and the cost of the mediation proceedings shall be borne by the breaching
+                            party as determined by the appointed mediator.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>No-Partnership or Agency</h5>
+                        <p>
+                            No agency, partnership, joint venture, or employment is created as a result of these Terms
+                            and you do not have any authority of any kind to bind ToNote in any respect whatsoever;
+                            instead, our relationship is that of independent contractors.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-faq">
+                        <h5>Miscellaneous</h5>
+                        <p>
+                            These Terms create no third-party beneficiary rights to ToNote’s products and services or to
+                            any third party product made available through the Platform.
+                        </p>
+                        <p>
+                            Section headings are for ease of reference only.
                         </p>
                     </div>
                 </div>
@@ -810,20 +1081,18 @@
                     <div class="single-faq">
                         <h5>Contact Us</h5>
                         <p>
-                            If you wish to exercise any of your rights under this Privacy Policy, or know or suspect
-                            that a breach of your Personal Data or a violation of this Privacy Policy has occurred, or
-                            if you have any questions about this Privacy Policy or our privacy practices, please contact
-                            us at:
+                            If you have questions or concerns with respect to these Terms, please contact us at
+                        </p>
+                        <p>
+                            Section headings are for ease of reference only.
                         </p>
                         <p class="list-group-item">
                             <strong class="text-dark">Fikayo Durosinmi-Etti</strong><br>
                             <strong class="text-dark">Designation:</strong> Co-Founder/CEO ToNote<br>
                             <strong class="text-dark">Email:</strong> Fikayo@tonote.ng<br>
-                            <strong class="text-dark">Office Address:</strong> 1625b Saka Jojo Street, Victoria Island,
-                            Lagos<br>
+                            <strong class="text-dark">Office Address:</strong> 1625b Saka Jojo Street, Victoria Island, Lagos<br>
                             <strong class="text-dark">Telephone:</strong> +2349057170627
                         </p>
-
                     </div>
                 </div>
             </div>

@@ -86,7 +86,7 @@
                     </li>
                     <li class="nav-item">
                         <div class="action-btn">
-                            <a class="page-scroll btn solid-btn" href="/#join-list">Notify Me</a>
+                            <a class="page-scroll btn solid-btn" href="/#join-list" style="opacity: 1;">Notify Me</a>
                         </div>
                     </li>
 
