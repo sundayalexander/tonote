@@ -302,7 +302,7 @@
 
     <!--our video promo section start-->
 
-    <section id="join-list" class="ptb-100" style="background: url('img/footer-bg.png')no-repeat center top / cover;">
+    <section id="join-list" class="ptb-100" style="/*background: url('img/footer-bg.png')no-repeat center top / cover;*/background: #003bb3;">
 
         <div class="container mb-5">
             <div class="row justify-content-center">
@@ -350,8 +350,8 @@
                 </script>
                 <script type='text/javascript'>
                     (function ($) {
-                        window.fnames = new Array();
-                        window.ftypes = new Array();
+                        window.fnames = [];
+                        window.ftypes = [];
                         fnames[0] = 'EMAIL';
                         ftypes[0] = 'email';
                     }(jQuery));
@@ -426,7 +426,7 @@
                         Sign Up To Become an E-Notary Public
                     </h5>
                     <iframe loading="lazy" src="<?= $form_url ?>"
-                            onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
+                            onload='(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+50+"px";}(this));'
                             style="width: 100%; height: 100vh; overflow: hidden;" scrolling="no"></iframe>
                 </div>
             </div>
@@ -459,7 +459,7 @@
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-1" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-1" aria-expanded="false" aria-controls="collapse-1-1">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4 pb-4">
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2 py-2">
                                     <span class="ti-help-alt mr-3"></span> What is ToNote?
                                 </h6>
                             </div>
@@ -482,12 +482,13 @@
                                 </div>
                             </div>
                         </div>
+
                         <!-- Accordion card 2 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-2" data-toggle="collapse" role="button"
                                  data-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4 pb-4"><span class="ti-help-alt mr-3">
-                                    </span> How does ToNote work?
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2 py-2">
+                                    <span class="ti-help-alt mr-3"></span> How does ToNote work?
                                 </h6>
                             </div>
                             <div id="collapse-1-2" class="collapse" aria-labelledby="heading-1-2"
@@ -525,39 +526,15 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Accordion card 3 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-1-3" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4 pb-4"><span class="ti-help-alt mr-3"></span>
-                                    What are ToNote’s working hours?
-                                </h6>
-                            </div>
-                            <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
-                                 data-parent="#accordion-1">
-                                <div class="card-body">
-                                    <p>
-                                        ToNote is available 24 hours a day, 7 days a week except public or bank
-                                        holidays. You can log in to the app to get your documents signed and notarised
-                                        at any time. For help, send us an email on
-                                        <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>.
-                                    </p>
-                                    <p style="font-style: italic;">
-                                        <em>
-                                            Note that all sessions are subject to availability of inactive notary
-                                            public’s. You will be placed on a queue and connected with the next
-                                            available notary on a first come first serve basis.
-                                        </em>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+
                         <!-- Accordion card 1 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-4" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4"><span class="ti-help-alt mr-3"></span>
-                                    Is notarising on ToNote legal in the country?
+                                 data-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">Is notarising on ToNote legal in the country?</span>
                                 </h6>
                             </div>
                             <div id="collapse-1-4" class="collapse" aria-labelledby="heading-1-4"
@@ -574,11 +551,48 @@
                                 </div>
                             </div>
                         </div>
+
+                        <!-- Accordion card 2 -->
+                        <div class="card">
+                            <div class="card-header py-4 pr-5" id="heading-2-2" data-toggle="collapse" role="button"
+                                 data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2" style="display: inline-flex;">
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">What are the acceptable forms of ID on ToNote?</span>
+                                </h6>
+                            </div>
+                            <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
+                                 data-parent="#accordion-1">
+                                <div class="card-body">
+                                    <p>
+                                        To verify your identity on ToNote you will need any of the following:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            Driver’s license
+                                        </li>
+                                        <li>
+                                            International passport
+                                        </li>
+                                        <li>
+                                            National identity card
+                                        </li>
+                                        <li>
+                                            Voters card
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Accordion card 3 -->
+
                         <!-- Accordion card 2 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-5" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-5" aria-expanded="false" aria-controls="collapse-1-5">
-                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                 data-target="#collapse-1-5" aria-expanded="false" aria-controls="collapse-1-5"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1" style="display: block;"></i>
                                     Is notarising on ToNote different from the traditional notarisation?
                                 </h6>
                             </div>
@@ -622,8 +636,10 @@
                         <!-- Accordion card 1 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-7" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-7" aria-expanded="false" aria-controls="collapse-1-7">
-                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
+                                 data-target="#collapse-1-7" aria-expanded="false" aria-controls="collapse-1-7"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1" style="display: block;"></i>
                                     How safe is ToNote with my personal information and contracts?
                                 </h6>
                             </div>
@@ -644,7 +660,7 @@
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-2-6" data-toggle="collapse" role="button"
                                  data-target="#collapse-2-6" aria-expanded="false" aria-controls="collapse-2-6">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4 pb-4"><span class="ti-help-alt mr-3"></span>
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2 py-2"><span class="ti-help-alt mr-3"></span>
                                     How secure is ToNote?
                                 </h6>
                             </div>
@@ -682,10 +698,11 @@
                         <!-- Accordion card 3 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-1-6" data-toggle="collapse" role="button"
-                                 data-target="#collapse-1-6" aria-expanded="false" aria-controls="collapse-1-6">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4">
-                                    <span class="ti-help-alt mr-3"></span>
-                                    Does ToNote use certified notary publics?
+                                 data-target="#collapse-1-6" aria-expanded="false" aria-controls="collapse-1-6"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">Does ToNote use certified notary publics?</span>
                                 </h6>
                             </div>
                             <div id="collapse-1-6" class="collapse" aria-labelledby="heading-1-6"
@@ -701,45 +718,43 @@
                             </div>
                         </div>
 
-                        <!-- Accordion card 2 -->
+                        <!-- Accordion card 3 -->
                         <div class="card">
-                            <div class="card-header py-4 pr-5" id="heading-2-2" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-2" aria-expanded="false" aria-controls="collapse-2-2">
-                                <h6 class="mb-0 pb-lg-4 pb-md-0 pb-sm-4"><span class="ti-help-alt mr-3"></span>
-                                    What are the acceptable forms of ID on ToNote?
+                            <div class="card-header py-4 pr-5" id="heading-1-3" data-toggle="collapse" role="button"
+                                 data-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0 py-lg-2 py-md-0 py-sm-2" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">What are ToNote’s working hours?</span>
                                 </h6>
                             </div>
-                            <div id="collapse-2-2" class="collapse" aria-labelledby="heading-2-2"
+                            <div id="collapse-1-3" class="collapse" aria-labelledby="heading-1-3"
                                  data-parent="#accordion-1">
                                 <div class="card-body">
                                     <p>
-                                        To verify your identity on ToNote you will need any of the following:
+                                        ToNote is available 24 hours a day, 7 days a week except public or bank
+                                        holidays. You can log in to the app to get your documents signed and notarised
+                                        at any time. For help, send us an email on
+                                        <a href="mailto:ask@gettonote.com" target="_blank">ask@gettonote.com</a>.
                                     </p>
-                                    <ul>
-                                        <li>
-                                            Driver’s license
-                                        </li>
-                                        <li>
-                                            International passport
-                                        </li>
-                                        <li>
-                                            National identity card
-                                        </li>
-                                        <li>
-                                            Voters card
-                                        </li>
-                                    </ul>
+                                    <p style="font-style: italic;">
+                                        <em>
+                                            Note that all sessions are subject to availability of inactive notary
+                                            public’s. You will be placed on a queue and connected with the next
+                                            available notary on a first come first serve basis.
+                                        </em>
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                        <!-- Accordion card 3 -->
 
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-2-3" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3">
-                                <h6 class="mb-0 pb-lg-4">
-                                    <span class="ti-help-alt mr-3"></span>
-                                    How much does it cost to get a document notarised?
+                                 data-target="#collapse-2-3" aria-expanded="false" aria-controls="collapse-2-3"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0 py-lg-2 py-sm-2" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">How much does it cost to get a document notarised?</span>
                                 </h6>
                             </div>
                             <div id="collapse-2-3" class="collapse" aria-labelledby="heading-2-3"
@@ -758,10 +773,13 @@
                         <!-- Accordion card 1 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-2-4" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-4" aria-expanded="false" aria-controls="collapse-2-4">
-                                <h6 class="mb-0">
-                                    <span class="ti-help-alt mr-3"></span>
-                                    What type of document(s) can be signed and notarised on ToNote?
+                                 data-target="#collapse-2-4" aria-expanded="false" aria-controls="collapse-2-4"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">
+                                        What type of document(s) can be signed and notarised on ToNote?
+                                    </span>
                                 </h6>
                             </div>
                             <div id="collapse-2-4" class="collapse" aria-labelledby="heading-2-4"
@@ -834,9 +852,13 @@
                         <!-- Accordion card 2 -->
                         <div class="card">
                             <div class="card-header py-4 pr-5" id="heading-2-5" data-toggle="collapse" role="button"
-                                 data-target="#collapse-2-5" aria-expanded="false" aria-controls="collapse-2-5">
-                                <h6 class="mb-0"><span class="ti-help-alt mr-3"></span>
-                                    Can I sign, send and/or notarise documents outside the country?
+                                 data-target="#collapse-2-5" aria-expanded="false" aria-controls="collapse-2-5"
+                                 style="display: inline-flex;">
+                                <h6 class="mb-0" style="display: inherit;">
+                                    <i class="ti-help-alt mr-3 pt-1"></i>
+                                    <span style="display: block;">
+                                        Can I sign, send and/or notarise documents outside the country?
+                                    </span>
                                 </h6>
                             </div>
                             <div id="collapse-2-5" class="collapse" aria-labelledby="heading-2-5"

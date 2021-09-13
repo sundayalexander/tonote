@@ -4,8 +4,7 @@
 <footer class="footer-section">
 
     <!--footer top start-->
-    <div class="footer-top pt-4 background-img-2"
-         style="background: url('img/footer-bg.png') no-repeat center top / cover">
+    <div class="footer-top pt-4 background-img-2" style="background: #003bb3;">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-sm-12 col-md-4 col-lg-4 mb-4 mb-md-4 mb-sm-5 mb-lg-0">
@@ -114,6 +113,29 @@
             videoElement.play();
         }
     });
+
+    $('body').append('<a id="scroll-to-top" class="scroll-to-top-btn" href="#"><i class="ti-arrow-up"></i></a>');
+    if ($('#scroll-to-top').length) {
+        var scrollTrigger = 100, // px
+            backToTop = function () {
+                var scrollTop = $(window).scrollTop();
+                if (scrollTop > scrollTrigger) {
+                    $('#scroll-to-top').addClass('active');
+                } else {
+                    $('#scroll-to-top').removeClass('active');
+                }
+            };
+        backToTop();
+        $(window).on('scroll', function () {
+            backToTop();
+        });
+        $('#scroll-to-top').on('click', function (e) {
+            e.preventDefault();
+            $('html,body').animate({
+                scrollTop: 0
+            }, 1250);
+        });
+    }
 </script>
 </body>
 </html>

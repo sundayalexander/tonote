@@ -98,7 +98,7 @@ body, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, 
 
 body {
     background-color: #ffffff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1rem;
     color: #707070;
     font-weight: 400;
@@ -111,7 +111,7 @@ p {
 
 h1, h2, h3, h4, h5 {
     margin: 0 0 1rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     line-height: 1.21;
     color: initial;
@@ -148,14 +148,14 @@ a{
 }
 strong, b{
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .badge {
     display: inline;
     padding: .25rem .5rem;
     font-size: 80%;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1;
     text-align: center;
     white-space: nowrap;
@@ -254,7 +254,7 @@ strong, b{
 
 .outline-btn, .solid-btn, .primary-solid-btn{
     padding: 10px 25px;
-    font-family: 'Open Sans', sans-serif
+    font-family: 'Poppins', sans-serif
 }
 
 .primary-solid-btn{
@@ -304,7 +304,7 @@ strong, b{
 }
 .google-play-btn, .app-store-btn{
     padding: 12px 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
 }
 .google-play-btn{
@@ -379,7 +379,7 @@ select.form-control.has-value{
 
 span.sub-title{
     font-weight: 600;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /*=========================================
@@ -1995,7 +1995,7 @@ span.sub-title{
 }
 .single-counter span{
     font-weight: bold;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #014be1;
     font-size: 25px;
     line-height: 28px;
@@ -2041,7 +2041,7 @@ span.sub-title{
 
 .font-weight-bolder{
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .pricing-feature-list li{
@@ -2087,7 +2087,7 @@ span.sub-title{
 
 .accordion-faq.accordion > .card .card-header h6{
     font-weight: 600;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .accordion-faq.accordion .card-header[aria-expanded=false]:after {
     content: "\e61a";
@@ -2519,8 +2519,7 @@ span.sub-title{
 .footer-nav-wrap ul li a {
     font-size: 14px;
     line-height: 19px;
-    color: inherit;
-    opacity: 0.8;
+    color: #fff;
 }
 .support-list li span{
     font-size: 16px;
@@ -2539,7 +2538,6 @@ span.sub-title{
 }
 .social-list li a, .copyright-text a{
     color: #202877;
-    opacity: 0.8;
 }
 .border-gray-light {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -2661,7 +2659,7 @@ span.sub-title{
     position: relative;
 }
 .login-signup-form .form-group label{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     font-size: 88%;
 }
@@ -2768,7 +2766,7 @@ span.sub-title{
     margin-right: 0.7rem;
 }
 .single-blog-card a{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .single-blog-card a, .single-blog-card a:hover {
     text-decoration: none;
@@ -2781,7 +2779,7 @@ a.detail-link {
     color: #495057;
     font-weight: 600;
     font-size: 13px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -2987,7 +2985,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     line-height: 33px;
     border-radius: 100%;
     padding: inherit;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
 }
 .custom-pagination-nav ul li.page-item:first-child .page-link,
@@ -3032,7 +3030,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
 
 .widget .widget-title > h6 {
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     letter-spacing: 1px;
     font-weight: 600;
     font-size: 12px;
@@ -3087,7 +3085,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
     font-size: 9px !important;
     color: #757575;
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .tag-cloud > a:hover, .post-tags > a:hover {
     background: #202877;
@@ -3139,7 +3137,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
     font-size: 70px;
     line-height: 70px;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .offer-price small, .offer-price span{
     font-size: 25px;
@@ -3159,7 +3157,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
 }
 .ribbon-2 span{
     font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     padding: 0 0 0 40px;
 }
@@ -3259,7 +3257,7 @@ li.nav-item .solid-btn:hover, .white-bg.affix ul li .solid-btn:hover{
     border: 0;
     border-bottom: 1px solid #e9e9ea;
     border-radius: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
     background-color: transparent
 }
@@ -3269,4 +3267,34 @@ li.nav-item .solid-btn:hover, .white-bg.affix ul li .solid-btn:hover{
 }
 .ptb-50{
     padding: 50px 0;
+}
+/* Scroll to Top */
+.scroll-to-top-btn {
+    position: fixed;
+    z-index: 50;
+    right: 1.5rem;
+    bottom: 1.5rem;
+    background: #003bb3;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 1.375rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 4px #DFDFDF;
+    -webkit-box-shadow: 0 0 4px #DFDFDF;
+    color: #ffffff;
+    font-size: 1.5rem;
+    visibility: hidden; }
+.scroll-to-top-btn:active, .scroll-to-top-btn:focus {
+    color: #ffffff;
+}
+.scroll-to-top-btn.active {
+    visibility: visible;
+}
+.scroll-to-top-btn.active:hover {
+    color: #fff;
+    box-shadow: 0 0 4px #DFDFDF !important;
+    -webkit-box-shadow: 0 0 4px #DFDFDF !important;
 }
